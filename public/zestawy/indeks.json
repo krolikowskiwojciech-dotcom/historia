@@ -1,0 +1,13 @@
+{
+  "profile": [
+    {
+      "id": "aniela",
+      "imie": "Aniela",
+      "dopelniacz": "Anieli",
+      "klasa": 4,
+      "znak": "A",
+      "ona": true
+    }
+  ],
+  "zestawy": []
+}
