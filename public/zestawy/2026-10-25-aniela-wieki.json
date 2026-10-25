@@ -1,0 +1,498 @@
+{
+ "id": "2026-10-25-aniela-wieki",
+ "dla": [
+  "aniela"
+ ],
+ "tytul": "Wieki i cyfry rzymskie",
+ "opis": "Rok → wiek cyframi rzymskimi. Pułapka: lata z końcówką 00 i lata tuż po pełnej setce (jak 1111).",
+ "dodano": "2026-10-25",
+ "ikona": "klepsydra",
+ "kolor": "krem",
+ "ocena": true,
+ "sciaga": [
+  "Wiek to 100 lat. I wiek to lata 1–100, II wiek to lata 101–200.",
+  "Wiek kończy się rokiem z dwoma zerami: 1100 to ostatni rok XI wieku, a 1101 to pierwszy rok XII wieku.",
+  "Rok z końcówką 00: zakryj dwa zera i masz wiek (1900 → XIX).",
+  "Każdy inny rok: zakryj dwie ostatnie cyfry i dodaj 1 (1111 → 11 + 1 = XII).",
+  "Lata od 1 do 99 to I wiek (zostaje 0, dodajesz 1).",
+  "Cyfry rzymskie: I = 1, V = 5, X = 10, L = 50, C = 100, M = 1000.",
+  "Mniejsza cyfra przed większą odejmuje: IV = 4, IX = 9, XIV = 14, XIX = 19."
+ ],
+ "definicje": {
+  "wiek (stulecie)": "100 kolejnych lat; zapisujemy go cyframi rzymskimi",
+  "tysiąclecie": "1000 lat, czyli 10 wieków"
+ },
+ "bloki": [
+  {
+   "id": "zasady",
+   "tytul": "Jak liczyć wieki",
+   "polecenie": "Prawda czy fałsz?",
+   "zadania": [
+    {
+     "kind": "pf",
+     "e": "Wiek to 100 lat.",
+     "a": true,
+     "exp": [
+      "Tak — wiek, czyli stulecie, trwa 100 lat."
+     ]
+    },
+    {
+     "kind": "pf",
+     "e": "Rok 1100 należy do XII wieku.",
+     "a": false,
+     "exp": [
+      "1100 kończy się na 00, więc to ostatni rok XI wieku. XII wiek zaczyna się w 1101."
+     ]
+    },
+    {
+     "kind": "pf",
+     "e": "Rok 1101 to pierwszy rok XII wieku.",
+     "a": true,
+     "exp": [
+      "Zakryj 01: zostaje 11, dodaj 1 — XII wiek."
+     ]
+    },
+    {
+     "kind": "pf",
+     "e": "Rok 1111 to XI wiek.",
+     "a": false,
+     "exp": [
+      "Zakryj 11 na końcu: zostaje 11, dodaj 1 — to XII wiek."
+     ]
+    },
+    {
+     "kind": "pf",
+     "e": "Rok 2000 należy jeszcze do XX wieku.",
+     "a": true,
+     "exp": [
+      "2000 kończy się na 00 — to ostatni rok XX wieku. XXI wiek zaczął się w 2001."
+     ]
+    },
+    {
+     "kind": "pf",
+     "e": "Rok 16 to I wiek.",
+     "a": true,
+     "exp": [
+      "Wszystkie lata od 1 do 100 to I wiek."
+     ]
+    },
+    {
+     "kind": "pf",
+     "e": "Żyjemy w XX wieku.",
+     "a": false,
+     "exp": [
+      "Mamy rok 2026: zakryj 26, zostaje 20, dodaj 1 — XXI wiek."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rok-wiek",
+   "tytul": "Rok → wiek",
+   "polecenie": "Wpisz wiek cyframi rzymskimi, np. XII.",
+   "ile": 10,
+   "jak": {
+    "intro": "Najpierw sprawdź końcówkę roku.",
+    "zasady": [
+     [
+      "Końcówka 00",
+      "zakryj zera: 1900 → XIX"
+     ],
+     [
+      "Każda inna",
+      "zakryj 2 cyfry i dodaj 1: 1111 → XII"
+     ],
+     [
+      "Lata 1–100",
+      "I wiek"
+     ]
+    ]
+   },
+   "zadania": [
+    {
+     "kind": "wpisz",
+     "e": "Rok 1111 to ___ wiek.",
+     "a": "XII",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 11. Dodaj 1: 11 + 1 = 12, czyli XII wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1100 to ___ wiek.",
+     "a": "XI",
+     "exp": [
+      "Rok 1100 kończy się na 00 — to ostatni rok wieku. Zakryj dwa zera: zostaje 11, czyli XI wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1101 to ___ wiek.",
+     "a": "XII",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 11. Dodaj 1: 11 + 1 = 12, czyli XII wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1900 to ___ wiek.",
+     "a": "XIX",
+     "exp": [
+      "Rok 1900 kończy się na 00 — to ostatni rok wieku. Zakryj dwa zera: zostaje 19, czyli XIX wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1901 to ___ wiek.",
+     "a": "XX",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 19. Dodaj 1: 19 + 1 = 20, czyli XX wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 2000 to ___ wiek.",
+     "a": "XX",
+     "exp": [
+      "Rok 2000 kończy się na 00 — to ostatni rok wieku. Zakryj dwa zera: zostaje 20, czyli XX wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 2026 to ___ wiek.",
+     "a": "XXI",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 20. Dodaj 1: 20 + 1 = 21, czyli XXI wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 966 to ___ wiek.",
+     "a": "X",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 9. Dodaj 1: 9 + 1 = 10, czyli X wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1410 to ___ wiek.",
+     "a": "XV",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 14. Dodaj 1: 14 + 1 = 15, czyli XV wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1791 to ___ wiek.",
+     "a": "XVIII",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 17. Dodaj 1: 17 + 1 = 18, czyli XVIII wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1569 to ___ wiek.",
+     "a": "XVI",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 15. Dodaj 1: 15 + 1 = 16, czyli XVI wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1918 to ___ wiek.",
+     "a": "XX",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 19. Dodaj 1: 19 + 1 = 20, czyli XX wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1200 to ___ wiek.",
+     "a": "XII",
+     "exp": [
+      "Rok 1200 kończy się na 00 — to ostatni rok wieku. Zakryj dwa zera: zostaje 12, czyli XII wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 800 to ___ wiek.",
+     "a": "VIII",
+     "exp": [
+      "Rok 800 kończy się na 00 — to ostatni rok wieku. Zakryj dwa zera: zostaje 8, czyli VIII wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 301 to ___ wiek.",
+     "a": "IV",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 3. Dodaj 1: 3 + 1 = 4, czyli IV wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 476 to ___ wiek.",
+     "a": "V",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 4. Dodaj 1: 4 + 1 = 5, czyli V wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1385 to ___ wiek.",
+     "a": "XIV",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 13. Dodaj 1: 13 + 1 = 14, czyli XIV wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1241 to ___ wiek.",
+     "a": "XIII",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 12. Dodaj 1: 12 + 1 = 13, czyli XIII wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1025 to ___ wiek.",
+     "a": "XI",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 10. Dodaj 1: 10 + 1 = 11, czyli XI wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1807 to ___ wiek.",
+     "a": "XIX",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 18. Dodaj 1: 18 + 1 = 19, czyli XIX wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 50 to ___ wiek.",
+     "a": "I",
+     "exp": [
+      "Lata od 1 do 100 to I wiek. Rok 50 jest w tej pierwszej setce."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1600 to ___ wiek.",
+     "a": "XVI",
+     "exp": [
+      "Rok 1600 kończy się na 00 — to ostatni rok wieku. Zakryj dwa zera: zostaje 16, czyli XVI wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1000 to ___ wiek.",
+     "a": "X",
+     "exp": [
+      "Rok 1000 kończy się na 00 — to ostatni rok wieku. Zakryj dwa zera: zostaje 10, czyli X wiek."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Rok 1001 to ___ wiek.",
+     "a": "XI",
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 10. Dodaj 1: 10 + 1 = 11, czyli XI wiek."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wybierz",
+   "tytul": "Który wiek?",
+   "polecenie": "Wybierz poprawny wiek.",
+   "zadania": [
+    {
+     "kind": "wybor",
+     "e": "W którym wieku był rok 1683?",
+     "a": "XVII",
+     "choices": [
+      "XVI",
+      "XVII",
+      "XVIII"
+     ],
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 16. Dodaj 1: 16 + 1 = 17, czyli XVII wiek."
+     ]
+    },
+    {
+     "kind": "wybor",
+     "e": "W którym wieku był rok 1611?",
+     "a": "XVII",
+     "choices": [
+      "XVI",
+      "XVII",
+      "XVIII"
+     ],
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 16. Dodaj 1: 16 + 1 = 17, czyli XVII wiek."
+     ]
+    },
+    {
+     "kind": "wybor",
+     "e": "W którym wieku był rok 2100?",
+     "a": "XXI",
+     "choices": [
+      "XXI",
+      "XXII"
+     ],
+     "exp": [
+      "Rok 2100 kończy się na 00 — to ostatni rok wieku. Zakryj dwa zera: zostaje 21, czyli XXI wiek."
+     ]
+    },
+    {
+     "kind": "wybor",
+     "e": "W którym wieku był rok 1700?",
+     "a": "XVII",
+     "choices": [
+      "XVII",
+      "XVIII"
+     ],
+     "exp": [
+      "Rok 1700 kończy się na 00 — to ostatni rok wieku. Zakryj dwa zera: zostaje 17, czyli XVII wiek."
+     ]
+    },
+    {
+     "kind": "wybor",
+     "e": "W którym wieku był rok 2150?",
+     "a": "XXII",
+     "choices": [
+      "XXI",
+      "XXII",
+      "XXIII"
+     ],
+     "exp": [
+      "Zakryj dwie ostatnie cyfry: zostaje 21. Dodaj 1: 21 + 1 = 22, czyli XXII wiek."
+     ]
+    },
+    {
+     "kind": "wybor",
+     "e": "Jakie lata obejmuje XII wiek?",
+     "a": "1101–1200",
+     "choices": [
+      "1100–1199",
+      "1101–1200",
+      "1201–1300"
+     ],
+     "exp": [
+      "XII wiek zaczyna się po roku 1100 i kończy rokiem 1200."
+     ]
+    },
+    {
+     "kind": "wybor",
+     "e": "Jakie lata obejmuje XX wiek?",
+     "a": "1901–2000",
+     "choices": [
+      "1900–1999",
+      "1901–2000",
+      "2001–2100"
+     ],
+     "exp": [
+      "XX wiek zaczyna się w 1901 i kończy rokiem 2000."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cyfry",
+   "tytul": "Cyfry rzymskie",
+   "polecenie": "Odczytaj liczbę albo połącz w pary.",
+   "zadania": [
+    {
+     "kind": "pary",
+     "e": "Połącz cyfrę rzymską z jej wartością.",
+     "pary": [
+      [
+       "I",
+       "1"
+      ],
+      [
+       "V",
+       "5"
+      ],
+      [
+       "X",
+       "10"
+      ],
+      [
+       "L",
+       "50"
+      ],
+      [
+       "C",
+       "100"
+      ],
+      [
+       "M",
+       "1000"
+      ]
+     ],
+     "exp": [
+      "I = 1, V = 5, X = 10, L = 50, C = 100, M = 1000."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "XIV to liczba ___.",
+     "a": "14",
+     "exp": [
+      "X = 10, IV = 4 (I przed V odejmuje). Razem 14."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "XIX to liczba ___.",
+     "a": "19",
+     "exp": [
+      "X = 10, IX = 9 (I przed X odejmuje). Razem 19."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "XVIII to liczba ___.",
+     "a": "18",
+     "exp": [
+      "X + V + I + I + I = 10 + 5 + 3 = 18."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Liczba 9 zapisana cyframi rzymskimi to ___.",
+     "a": "IX",
+     "exp": [
+      "9 to o jeden mniej niż 10: I przed X — IX."
+     ]
+    },
+    {
+     "kind": "wpisz",
+     "e": "Liczba 21 zapisana cyframi rzymskimi to ___.",
+     "a": "XXI",
+     "exp": [
+      "20 = XX, 1 = I — razem XXI."
+     ]
+    },
+    {
+     "kind": "kolejnosc",
+     "e": "Ułóż wieki od najdawniejszego.",
+     "elementy": [
+      "IV",
+      "IX",
+      "XI",
+      "XIV",
+      "XIX",
+      "XXI"
+     ],
+     "exp": [
+      "IV = 4, IX = 9, XI = 11, XIV = 14, XIX = 19, XXI = 21."
+     ]
+    }
+   ]
+  }
+ ]
+}

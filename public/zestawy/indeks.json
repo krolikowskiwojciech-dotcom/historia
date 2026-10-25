@@ -9,5 +9,28 @@
       "ona": true
     }
   ],
-  "zestawy": []
+  "zestawy": [
+    {
+      "id": "2026-10-25-aniela-wieki",
+      "tytul": "Wieki i cyfry rzymskie",
+      "opis": "Rok → wiek cyframi rzymskimi. Pułapka: lata z końcówką 00 i lata tuż po pełnej setce (jak 1111).",
+      "dla": [
+        "aniela"
+      ],
+      "termin": null,
+      "dodano": "2026-10-25",
+      "dzial": null,
+      "dzialTytul": null,
+      "lekcja": null,
+      "typ": null,
+      "strony": null,
+      "ikona": "klepsydra",
+      "kolor": "krem",
+      "bloki": 4,
+      "zadan": 31,
+      "nagrania": 0,
+      "prywatne": null,
+      "sciaga": true
+    }
+  ]
 }
