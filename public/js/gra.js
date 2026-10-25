@@ -7,7 +7,7 @@
 
 import { h, okno, odm, ik, kolor, los, pasekGory } from './dom.js';
 import { PRZEDMIOT } from './przedmiot.js';
-import { ocen, wCzesci, opcjeWyboru, pokaz, poprawna, dobraOdpowiedz } from './sprawdz.js';
+import { ocen, wCzesci, opcjeWyboru, pokaz, poprawna, dobraOdpowiedz, doPrzepisania, przepisaneDobrze } from './sprawdz.js';
 import { graj } from './dzwieki.js';
 
 const BLOKADA_MS = 1200; // po błędzie przyciski chwilę śpią, żeby rozpędzony palec nie przeskoczył wyjaśnienia
@@ -99,12 +99,6 @@ export function uruchom(el, opcje) {
     sprzataj();
     opcje.naKoniec(zbudujProbe(true));
     opcje.wyjdz();
-  }
-
-  async function przerwij() {
-    const w = await okno({ tytul: 'Przerwać ćwiczenie?', tresc: 'Wynik zapisze się jako przerwany. Możesz go i tak wysłać.',
-      przyciski: [{ tekst: 'Ćwiczę dalej', wartosc: false, klasa: 'jasny' }, { tekst: 'Przerwij', wartosc: true, klasa: 'czerwony' }] });
-    if (w) podsumowanie(true);
   }
 
   // ---------- wstęp do bloku ----------
@@ -214,6 +208,7 @@ export function uruchom(el, opcje) {
         })));
         kafle.replaceChildren(...pula.map((x) => h('button', { class: 'kafel-odp', type: 'button', disabled: stan.ulozone.includes(x),
           onpointerdown: wcisnij, onclick: () => { if (!zablokowane && !stan.ulozone.includes(x)) { stan.ulozone.push(x); graj('wybor'); odswiez(); } } }, x)));
+        stan.poZmianie?.();
       };
       odswiez();
       stan.odswiez = odswiez;
@@ -241,6 +236,7 @@ export function uruchom(el, opcje) {
               else { podpowiedz('Najpierw dotknij pojęcie po lewej.'); return; }
               odswiez();
             } }, p); })));
+        stan.poZmianie?.();
       };
       stan.wybrany = lewe[0];
       odswiez();
@@ -325,6 +321,10 @@ export function uruchom(el, opcje) {
     timer = setTimeout(nastepne, uwaga ? 2200 : 800);
   }
 
+  // zła odpowiedź — „wersja C” (Wojtek 2026-10-25): wszystko w karcie zadania — przekreślona odpowiedź dziecka,
+  // pod nią duża poprawna, wyjaśnienie i pole „Przepisz poprawnie”; w stopce tylko szeroki „Dalej”, zablokowany,
+  // dopóki dziecko nie przepisze odpowiedzi (kolejność i pary: nie ułoży ich jeszcze raz dobrze) i nie minie BLOKADA_MS.
+  // Wynik liczy się z pierwszego podejścia (zapisany w sprawdz), przepisanie niczego nie zmienia.
   function zle(cz, odp) {
     seria = 0;
     graj(cz.kind === 'otwarte' ? 'jeszcze-nie' : 'zle');
@@ -333,41 +333,89 @@ export function uruchom(el, opcje) {
     const kolejka = B().kolejka;
     kolejka.splice(Math.min(kolejka.length, poz + 1 + los.int(2, 4)), 0, { z, powtorka: true });
 
-    el.querySelector('.zadanie-karta').classList.add('zle');
+    const karta = el.querySelector('.zadanie-karta');
+    karta.classList.add('zle');
     info().replaceChildren();
-    const pole = el.querySelector('.cw-pole');
     const otwarte = cz.kind === 'otwarte';
-    if (!otwarte) {
-      const naPrzyciskach = cz.kind === 'wybor' || cz.kind === 'pf'; // zła i dobra odpowiedź są już zaznaczone na przyciskach
-      pole.append(h('section', { class: 'poprawka' },
-        naPrzyciskach || cz.kind === 'pary' || cz.kind === 'kolejnosc' ? null : h('p', { class: 'twoja' }, 'Twoja odpowiedź: ', h('s', {}, pokaz(cz, odp))),
-        naPrzyciskach ? null : h('div', { class: 'ramka-poprawna' },
-          h('div', { class: 'kat-etykieta' }, 'Poprawna odpowiedź'),
-          cz.kind === 'pary' ? h('ul', { class: 'lista-par' }, cz.pary.map(([l, p]) => h('li', {}, h('b', {}, l), ' — ', p)))
-            : cz.kind === 'kolejnosc' ? h('ol', { class: 'lista-par' }, cz.elementy.map((x) => h('li', {}, x)))
-              : h('div', { class: 'rownanie' }, cz.kind === 'wpisz' && cz.e?.includes('___') ? zLuka(cz.e, cz.a) : poprawna(cz))),
-        cz.exp?.length ? [h('div', { class: 'sekcja' }, 'Wyjaśnienie'), h('ul', { class: 'kroki' }, cz.exp.map((l) => h('li', {}, l)))] : null,
-        cz.zrodlo ? h('p', { class: 'zrodlo' }, ik('ksiazka'), 'Zajrzyj do książki: ', cz.zrodlo) : null,
-        h('p', { class: 'wraca' }, ik('powtorz'), ' To zadanie wróci jeszcze raz w tym bloku.')));
+    const uklada = cz.kind === 'kolejnosc' || cz.kind === 'pary';
+    const wzor = doPrzepisania(cz);
+    let przepisane = otwarte, czas = false;
+    const gotowe = () => przepisane && czas;
+
+    const dalejBtn = h('button', { class: 'btn glowny szeroki', type: 'button', disabled: true, onclick: () => { if (gotowe()) nastepne(); } });
+    const odswiezDalej = () => {
+      dalejBtn.disabled = !gotowe();
+      dalejBtn.replaceChildren(...(gotowe() ? ['Dalej', ik('dalej')]
+        : [przepisane ? 'Przeczytaj…' : uklada ? 'Ułóż poprawnie, żeby przejść dalej' : 'Przepisz, żeby przejść dalej']));
+    };
+
+    const uwagaPrzepisz = h('p', { class: 'przepisz-uwaga', 'aria-live': 'polite' });
+    const przepisz = wzor == null ? null : h('input', { class: 'przepisz-pole', type: 'text', autocomplete: 'off', autocorrect: 'off', autocapitalize: 'off',
+      spellcheck: 'false', enterkeyhint: 'done', 'aria-label': 'Przepisz poprawną odpowiedź',
+      oninput: () => {
+        const ok = przepisaneDobrze(cz, przepisz.value);
+        if (ok && !przepisane) graj('para');
+        przepisane = ok;
+        przepisz.classList.toggle('ok', ok);
+        if (ok) uwagaPrzepisz.textContent = '';
+        odswiezDalej();
+      },
+      onkeydown: (e) => {
+        if (e.key !== 'Enter') return;
+        e.preventDefault();
+        if (gotowe()) nastepne();
+        else if (!przepisane && przepisz.value.trim()) uwagaPrzepisz.textContent = 'Jeszcze nie. Przepisz dokładnie, z polskimi literami.';
+      } });
+
+    // kolejność i pary: ułożenie od nowa; „Dalej” odblokowuje się, gdy wszystko jest na swoim miejscu
+    if (uklada) {
+      if (cz.kind === 'kolejnosc') stan.ulozone = [];
+      else { stan.pary = {}; stan.wybrany = el.querySelector('.para-el.lewy')?.textContent || null; }
+      stan.poZmianie = () => {
+        const ok = ocen(cz, odpowiedzDziecka(cz)).ok;
+        if (ok && !przepisane) { graj('para'); zablokowane = true; }
+        przepisane = ok;
+        odswiezDalej();
+      };
+      zablokowane = false;
+      stan.odswiez();
     }
-    let zablokowaneDalej = true;
-    const dalejBtn = h('button', { class: 'btn czerwony', type: 'button', disabled: true, onclick: () => { if (!zablokowaneDalej) nastepne(); } }, 'Przeczytaj…');
-    const przerwijBtn = h('button', { class: 'btn kreska', type: 'button', disabled: true, onclick: przerwij }, 'Przerwij');
+    el.querySelector('.cw-pole > .opcje')?.remove(); // przy wyborze odpowiedź dziecka i poprawna są w karcie
+
+    const odpDluga = String(poprawna(cz)).length > 22;
+    const blok = h('div', { class: 'wynik-c' },
+      otwarte || cz.kind === 'pary' ? null : h('p', { class: 'twoja-c' }, 'Twoja odpowiedź: ', h('s', {}, pokaz(cz, odp))),
+      otwarte ? null : uklada
+        ? h('div', { class: 'poprawna-c lista' }, h('div', { class: 'kat-etykieta' }, 'Poprawnie'),
+          cz.kind === 'pary' ? h('ul', { class: 'lista-par' }, cz.pary.map(([l, p]) => h('li', {}, h('b', {}, l), ' — ', p)))
+            : h('ol', { class: 'lista-par' }, cz.elementy.map((x) => h('li', {}, x))))
+        : h('div', { class: 'poprawna-c' + (odpDluga ? ' dluga' : '') }, h('span', { class: 'poprawna-znak', 'aria-hidden': 'true' }, ik('ptaszek')), h('span', {}, poprawna(cz))),
+      !otwarte && cz.exp?.length ? h('div', { class: 'wyjasnienie-c' },
+        cz.exp.length > 1 ? h('ul', {}, cz.exp.map((l) => h('li', {}, l))) : h('p', {}, cz.exp[0])) : null,
+      !otwarte && cz.zrodlo ? h('p', { class: 'zrodlo' }, ik('ksiazka'), 'Zajrzyj do książki: ', cz.zrodlo) : null,
+      przepisz ? h('label', { class: 'przepisz-c' },
+        h('span', { class: 'przepisz-etykieta' }, wzor === String(poprawna(cz)) ? 'Przepisz poprawnie:' : `Przepisz poprawnie hasło: ${wzor}`), przepisz) : null,
+      przepisz ? uwagaPrzepisz : null,
+      uklada ? h('p', { class: 'przepisz-etykieta' }, cz.kind === 'pary' ? 'Połącz jeszcze raz poprawnie (pod kartą):' : 'Ułóż jeszcze raz poprawnie:') : null);
+    if (blok.childNodes.length) karta.insertBefore(blok, karta.querySelector('.odp-miejsce'));
+    karta.insertBefore(h('p', { class: 'wraca' }, ik('powtorz'), otwarte ? ' To pytanie wróci jeszcze raz w tym bloku.' : ' To zadanie wróci jeszcze raz w tym bloku.'), info());
+
     const stopka = stopkaEl();
-    stopka.className = 'stopka zle';
-    stopka.replaceChildren(
-      h('div', { class: 'stopka-info' },
-        h('div', { class: 'stopka-tytul' }, otwarte ? 'Przeczytaj odpowiedź jeszcze raz. To pytanie wróci.' : 'Prawie! Zobacz, jak jest naprawdę.')),
-      h('div', { class: 'przyciski' }, przerwijBtn, dalejBtn));
-    requestAnimationFrame(() => pole.querySelector('.poprawka')?.scrollIntoView({ block: 'nearest', behavior: 'smooth' }));
+    stopka.className = 'stopka stopka-c';
+    stopka.replaceChildren(dalejBtn);
+    odswiezDalej();
+    ustawKlawisze((e) => {
+      if (e.target === przepisz || e.repeat || !(e.key === 'Enter' || e.key === ' ') || !gotowe()) return;
+      e.preventDefault();
+      nastepne();
+    });
+    if (przepisz) przepisz.focus({ preventScroll: true });
+    requestAnimationFrame(() => (przepisz || (otwarte ? karta.querySelector('.wzor') : blok))?.scrollIntoView({ block: przepisz ? 'center' : 'nearest', behavior: 'smooth' }));
     timer = setTimeout(() => {
-      zablokowaneDalej = false;
-      dalejBtn.disabled = false; przerwijBtn.disabled = false;
-      dalejBtn.replaceChildren('Dalej', ik('dalej'));
-      dalejBtn.focus({ preventScroll: true });
-      ustawKlawisze((e) => { if ((e.key === 'Enter' || e.key === ' ') && !e.repeat) { e.preventDefault(); nastepne(); } });
+      czas = true;
+      odswiezDalej();
+      if (gotowe() && !przepisz) dalejBtn.focus({ preventScroll: true });
     }, otwarte ? 400 : BLOKADA_MS);
-    ustawKlawisze(null);
   }
 
   function nastepne() {

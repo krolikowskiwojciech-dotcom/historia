@@ -49,6 +49,21 @@ export function ocen(cz, odp) {
   }
 }
 
+// po błędzie dziecko przepisuje poprawną odpowiedź (Wojtek 2026-10-25: „inaczej dziecko się nie uczy”).
+// Wielkość liter, spacje i interpunkcja są obojętne; polskie litery wymagane — to też nauka pisowni.
+// Przy długiej odpowiedzi (ponad 6 słów) wystarczy hasło z danych (`haslo`), jeśli jest.
+// Kolejność i pary układa się jeszcze raz (bez pisania), pytania otwarte ocenia się samemu — tu null.
+const bezZnakow = (t) => normuj(t).replace(/[.,;:!?"„”'«»()…]+/g, ' ').replace(/\s+/g, ' ').trim();
+export function doPrzepisania(cz) {
+  if (!['wybor', 'pf', 'wpisz'].includes(cz.kind)) return null;
+  const a = String(dobraOdpowiedz(cz));
+  return a.trim().split(/\s+/).length > 6 && cz.haslo ? String(cz.haslo) : a;
+}
+export function przepisaneDobrze(cz, wpis) {
+  const w = bezZnakow(wpis);
+  return !!w && [doPrzepisania(cz), ...(cz.kind === 'wpisz' ? cz.inne || [] : [])].some((x) => bezZnakow(x) === w);
+}
+
 // zadanie z zestawu → jednolity kształt { q?, obraz?, czesci: [...] }
 export function wCzesci(z) {
   if (z.czesci) return z;
