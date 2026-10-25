@@ -1,0 +1,595 @@
+{
+  "id": "hist-dz1-l01-pierwsza-lekcja-historii",
+  "zrodlo": "lekcje-audio",
+  "dla": [
+    "aniela"
+  ],
+  "tytul": "Pierwsza lekcja historii",
+  "opis": "Historia na start: czym jest i czym różni się od baśni",
+  "dzial": "I",
+  "dzialTytul": "Z historią na ty",
+  "lekcja": 1,
+  "strony": "8–10",
+  "dodano": "2026-10-25",
+  "termin": null,
+  "ikona": "ksiazka",
+  "kolor": "brzoskwinia",
+  "ocena": true,
+  "sciaga": [
+    "Słowo „historia” ma kilka znaczeń. Gdy prosisz kogoś „opowiedz jakąś historię”, czekasz na ciekawą opowieść.",
+    "Kiedy ktoś mówi „to już historia”, chodzi mu o coś, co się zakończyło i stało się przeszłością.",
+    "Trzecie znaczenie: historia to nauka, która bada przeszłość ludzi. Wszystkich ludzi, także twoich dziadków, rodziców i ciebie.",
+    "Swoją historię ma każdy człowiek i każda rodzina. Przykład: pradziadkowie przyjechali do Gdańska po wojnie, w 1946 roku, dziadkowie poznali się latem 1980 roku, a wnuczka urodziła się w 2016 roku.",
+    "Przeszłość badają historycy. Zbierają wiadomości o wybranych osobach i wydarzeniach, a potem z ustalonych faktów tworzą własne dzieła.",
+    "Historycy piszą o osobach, które naprawdę istniały, i o zdarzeniach, które się naprawdę wydarzyły. Losy bohaterów baśni, legend i powieści wymyślili ich autorzy.",
+    "Dla historyka liczy się przede wszystkim prawda.",
+    "Postacie baśniowe są zmyślone. Ich przygody dzieją się nie wiadomo gdzie i nie wiadomo kiedy, „dawno, dawno temu”. Przykład: Królewna Śnieżka.",
+    "Postacie legendarne też ktoś wymyślił, ale w legendach pojawiają się prawdziwe osoby, miejsca i zdarzenia. W legendzie prawda splata się ze zmyśleniem. Przykład: Robin Hood (czytamy: hud).",
+    "Postacie historyczne to ludzie, którzy rzeczywiście żyli. Przykład: Stanisław August Poniatowski, król Polski.",
+    "Dzięki pracy historyków lepiej rozumiemy świat wokół nas. Historia pokazuje, jak pod wpływem różnych okoliczności zmieniały się zajęcia, zwyczaje i całe życie ludzi.",
+    "Historia ma wpływ na nasze losy. Postacie historyczne mogą być dla nas wzorem, z którego bierzemy przykład.",
+    "Kto zna przyczyny dawnych zdarzeń, ten lepiej przewiduje skutki tego, co sam robi. Łatwiej mu wtedy dobrze decydować i omijać część błędów.",
+    "Historia jest też po prostu ciekawa. Wszystko, o czym opowiada, zdarzyło się naprawdę, bo każda jej relacja opiera się na faktach.",
+    "Czy historia uczy, jak żyć? I tak, i nie. Pozwala uczyć się na błędach przodków i brać przykład z dobrych wzorców, ale nie podaje gotowych rozwiązań, bo świat ciągle się zmienia, a każda epoka jest inna.",
+    "Na historii poznasz najważniejsze wydarzenia: bitwy i wojny, odkrycia w nauce i geografii oraz przełomowe zmiany w polityce i w życiu społecznym. Przykład: w 1492 roku podróżnik Krzysztof Kolumb odkrył Amerykę.",
+    "Poznasz ważne postacie i to, czego dokonali władcy, uczeni, podróżnicy i politycy. Przykład: w 1911 roku uczona Maria Skłodowska-Curie (czytamy: kiri) otrzymała Nagrodę Nobla za odkrycia naukowe.",
+    "Poznasz dzieje Polski i innych państw, od samego początku aż do dzisiaj. Przykład: w 1918 roku Polska odzyskała niepodległość.",
+    "Nauczysz się zbierać wiadomości o dawnych czasach i sprawdzać, czy są prawdziwe.",
+    "Nauczysz się rozpoznawać, co było przyczyną wydarzeń historycznych, a co ich skutkiem.",
+    "Nauczysz się układać własną opowieść z faktów, które sama zebrałaś i sprawdziłaś.",
+    "Najkrócej: historia bada przeszłość ludzi, mówi tylko o tym, co działo się naprawdę, i pomaga rozumieć świat oraz przewidywać skutki naszych działań."
+  ],
+  "definicje": {
+    "historia": "Słowo o trzech znaczeniach: ciekawa opowieść, coś, co już minęło, oraz nauka, która bada dawne życie ludzi.",
+    "przeszłość": "Wszystko, co już się wydarzyło i zakończyło. Gdy mówimy „to już historia”, mamy na myśli właśnie przeszłość.",
+    "historyk": "Badacz dawnych czasów. Zbiera wiadomości o wybranych osobach i wydarzeniach, a potem na podstawie faktów pisze własne dzieła.",
+    "fakty": "To, co naprawdę się wydarzyło i zostało ustalone. Na faktach opiera się każda opowieść historyka.",
+    "postać historyczna": "Osoba, która rzeczywiście żyła, na przykład król Polski Stanisław August Poniatowski.",
+    "postać legendarna": "Bohater legendy, którego ktoś wymyślił, na przykład Robin Hood. W legendzie obok niego pojawiają się jednak prawdziwe osoby, miejsca i zdarzenia.",
+    "postać baśniowa": "Zmyślony bohater baśni, na przykład Królewna Śnieżka. Jej przygody dzieją się nie wiadomo gdzie i nie wiadomo kiedy.",
+    "baśń": "Opowieść o zmyślonych bohaterach i zdarzeniach, które nigdy się nie wydarzyły.",
+    "legenda": "Opowieść, w której zmyślenie przeplata się z prawdą: obok wymyślonych bohaterów są w niej prawdziwe osoby, miejsca i wydarzenia.",
+    "przyczyny i skutki": "Przyczyna to powód, dla którego coś się stało, a skutek to to, co z tego wynikło. Kto zna przyczyny dawnych zdarzeń, lepiej przewiduje skutki swoich działań.",
+    "wzór postępowania": "Ktoś, z kogo bierzemy przykład. Takim wzorem może być dla nas postać historyczna.",
+    "przodkowie": "Ludzie z naszej rodziny, którzy żyli przed nami, na przykład pradziadkowie. Historia pozwala uczyć się na ich błędach.",
+    "Nagroda Nobla": "Wyróżnienie, które Maria Skłodowska-Curie otrzymała w 1911 roku za swoje odkrycia naukowe."
+  },
+  "bloki": [
+    {
+      "id": "pojecia",
+      "tytul": "Pojęcia z lekcji",
+      "polecenie": "Które pojęcie pasuje do opisu?",
+      "ile": 8,
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Słowo o trzech znaczeniach: ciekawa opowieść, coś, co już minęło, oraz nauka, która bada dawne życie ludzi.",
+          "a": "historia",
+          "choices": [
+            "historia",
+            "fakty",
+            "przodkowie"
+          ],
+          "exp": [
+            "fakty to coś innego: To, co naprawdę się wydarzyło i zostało ustalone. Na faktach opiera się każda opowieść historyka.",
+            "przodkowie to coś innego: Ludzie z naszej rodziny, którzy żyli przed nami, na przykład pradziadkowie. Historia pozwala uczyć się na ich błędach."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Wszystko, co już się wydarzyło i zakończyło. Gdy mówimy „to już historia”, mamy na myśli właśnie ….",
+          "a": "przeszłość",
+          "choices": [
+            "przeszłość",
+            "fakty",
+            "postać historyczna"
+          ],
+          "exp": [
+            "fakty to coś innego: To, co naprawdę się wydarzyło i zostało ustalone. Na faktach opiera się każda opowieść historyka.",
+            "postać historyczna to coś innego: Osoba, która rzeczywiście żyła, na przykład król Polski Stanisław August Poniatowski."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Badacz dawnych czasów. Zbiera wiadomości o wybranych osobach i wydarzeniach, a potem na podstawie faktów pisze własne dzieła.",
+          "a": "historyk",
+          "choices": [
+            "historyk",
+            "baśń",
+            "postać baśniowa"
+          ],
+          "exp": [
+            "baśń to coś innego: Opowieść o zmyślonych bohaterach i zdarzeniach, które nigdy się nie wydarzyły.",
+            "postać baśniowa to coś innego: Zmyślony bohater baśni, na przykład Królewna Śnieżka. Jej przygody dzieją się nie wiadomo gdzie i nie wiadomo kiedy."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "To, co naprawdę się wydarzyło i zostało ustalone. Na … opiera się każda opowieść historyka.",
+          "a": "fakty",
+          "choices": [
+            "fakty",
+            "przeszłość",
+            "baśń"
+          ],
+          "exp": [
+            "przeszłość to coś innego: Wszystko, co już się wydarzyło i zakończyło. Gdy mówimy „to już historia”, mamy na myśli właśnie przeszłość.",
+            "baśń to coś innego: Opowieść o zmyślonych bohaterach i zdarzeniach, które nigdy się nie wydarzyły."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Osoba, która rzeczywiście żyła, na przykład król Polski Stanisław August Poniatowski.",
+          "a": "postać historyczna",
+          "choices": [
+            "postać historyczna",
+            "przodkowie",
+            "historyk"
+          ],
+          "exp": [
+            "przodkowie to coś innego: Ludzie z naszej rodziny, którzy żyli przed nami, na przykład pradziadkowie. Historia pozwala uczyć się na ich błędach.",
+            "historyk to coś innego: Badacz dawnych czasów. Zbiera wiadomości o wybranych osobach i wydarzeniach, a potem na podstawie faktów pisze własne dzieła."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Bohater legendy, którego ktoś wymyślił, na przykład Robin Hood. W legendzie obok niego pojawiają się jednak prawdziwe osoby, miejsca i zdarzenia.",
+          "a": "postać legendarna",
+          "choices": [
+            "postać legendarna",
+            "wzór postępowania",
+            "fakty"
+          ],
+          "exp": [
+            "wzór postępowania to coś innego: Ktoś, z kogo bierzemy przykład. Takim wzorem może być dla nas postać historyczna.",
+            "fakty to coś innego: To, co naprawdę się wydarzyło i zostało ustalone. Na faktach opiera się każda opowieść historyka."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Zmyślony bohater …, na przykład Królewna Śnieżka. Jej przygody dzieją się nie wiadomo gdzie i nie wiadomo kiedy.",
+          "a": "postać baśniowa",
+          "choices": [
+            "postać baśniowa",
+            "przeszłość",
+            "przodkowie"
+          ],
+          "exp": [
+            "przeszłość to coś innego: Wszystko, co już się wydarzyło i zakończyło. Gdy mówimy „to już historia”, mamy na myśli właśnie przeszłość.",
+            "przodkowie to coś innego: Ludzie z naszej rodziny, którzy żyli przed nami, na przykład pradziadkowie. Historia pozwala uczyć się na ich błędach."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Opowieść o zmyślonych bohaterach i zdarzeniach, które nigdy się nie wydarzyły.",
+          "a": "baśń",
+          "choices": [
+            "baśń",
+            "przeszłość",
+            "przyczyny i skutki"
+          ],
+          "exp": [
+            "przeszłość to coś innego: Wszystko, co już się wydarzyło i zakończyło. Gdy mówimy „to już historia”, mamy na myśli właśnie przeszłość.",
+            "przyczyny i skutki to coś innego: Przyczyna to powód, dla którego coś się stało, a skutek to to, co z tego wynikło. Kto zna przyczyny dawnych zdarzeń, lepiej przewiduje skutki swoich działań."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Opowieść, w której zmyślenie przeplata się z prawdą: obok wymyślonych bohaterów są w niej prawdziwe osoby, miejsca i wydarzenia.",
+          "a": "legenda",
+          "choices": [
+            "legenda",
+            "postać legendarna",
+            "fakty"
+          ],
+          "exp": [
+            "postać legendarna to coś innego: Bohater legendy, którego ktoś wymyślił, na przykład Robin Hood. W legendzie obok niego pojawiają się jednak prawdziwe osoby, miejsca i zdarzenia.",
+            "fakty to coś innego: To, co naprawdę się wydarzyło i zostało ustalone. Na faktach opiera się każda opowieść historyka."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "… to powód, dla którego coś się stało, a … to to, co z tego wynikło. Kto zna … dawnych zdarzeń, lepiej przewiduje … swoich działań.",
+          "a": "przyczyny i skutki",
+          "choices": [
+            "przyczyny i skutki",
+            "przeszłość",
+            "historyk"
+          ],
+          "exp": [
+            "przeszłość to coś innego: Wszystko, co już się wydarzyło i zakończyło. Gdy mówimy „to już historia”, mamy na myśli właśnie przeszłość.",
+            "historyk to coś innego: Badacz dawnych czasów. Zbiera wiadomości o wybranych osobach i wydarzeniach, a potem na podstawie faktów pisze własne dzieła."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Ktoś, z kogo bierzemy przykład. Takim wzorem może być dla nas postać historyczna.",
+          "a": "wzór postępowania",
+          "choices": [
+            "wzór postępowania",
+            "legenda",
+            "fakty"
+          ],
+          "exp": [
+            "legenda to coś innego: Opowieść, w której zmyślenie przeplata się z prawdą: obok wymyślonych bohaterów są w niej prawdziwe osoby, miejsca i wydarzenia.",
+            "fakty to coś innego: To, co naprawdę się wydarzyło i zostało ustalone. Na faktach opiera się każda opowieść historyka."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Ludzie z naszej rodziny, którzy żyli przed nami, na przykład pradziadkowie. Historia pozwala uczyć się na ich błędach.",
+          "a": "przodkowie",
+          "choices": [
+            "przodkowie",
+            "przeszłość",
+            "fakty"
+          ],
+          "exp": [
+            "przeszłość to coś innego: Wszystko, co już się wydarzyło i zakończyło. Gdy mówimy „to już historia”, mamy na myśli właśnie przeszłość.",
+            "fakty to coś innego: To, co naprawdę się wydarzyło i zostało ustalone. Na faktach opiera się każda opowieść historyka."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Wyróżnienie, które Maria Skłodowska-Curie otrzymała w 1911 roku za swoje odkrycia naukowe.",
+          "a": "Nagroda Nobla",
+          "choices": [
+            "Nagroda Nobla",
+            "wzór postępowania",
+            "fakty"
+          ],
+          "exp": [
+            "wzór postępowania to coś innego: Ktoś, z kogo bierzemy przykład. Takim wzorem może być dla nas postać historyczna.",
+            "fakty to coś innego: To, co naprawdę się wydarzyło i zostało ustalone. Na faktach opiera się każda opowieść historyka."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wybor",
+      "tytul": "Test wyboru",
+      "polecenie": "Wybierz poprawną odpowiedź.",
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Która z tych postaci żyła naprawdę?",
+          "a": "Stanisław August Poniatowski",
+          "choices": [
+            "Królewna Śnieżka",
+            "Robin Hood",
+            "Stanisław August Poniatowski"
+          ],
+          "exp": [
+            "Stanisław August Poniatowski był prawdziwym królem Polski.",
+            "Częsty błąd: wybranie Robin Hooda, bo w legendach są też prawdziwe miejsca"
+          ],
+          "zrodlo": "s. 9, podpis „Historia”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Jaką postacią jest Robin Hood?",
+          "a": "legendarną",
+          "choices": [
+            "baśniową",
+            "legendarną",
+            "historyczną"
+          ],
+          "exp": [
+            "Robin Hood to bohater legendy, a więc postać wymyślona.",
+            "Częsty błąd: uznanie go za postać historyczną"
+          ],
+          "zrodlo": "s. 9, podpis „Legendy”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Kto w 1492 roku odkrył Amerykę?",
+          "a": "Krzysztof Kolumb",
+          "choices": [
+            "Krzysztof Kolumb",
+            "Maria Skłodowska-Curie",
+            "Stanisław August Poniatowski"
+          ],
+          "exp": [
+            "Amerykę odkrył podróżnik Krzysztof Kolumb.",
+            "Częsty błąd: wybranie króla Polski"
+          ],
+          "zrodlo": "s. 10, pole „Poznasz”, podpis ilustracji 1"
+        },
+        {
+          "kind": "wybor",
+          "e": "Za co Maria Skłodowska-Curie dostała Nagrodę Nobla?",
+          "a": "za odkrycia naukowe",
+          "choices": [
+            "za odkrycia naukowe",
+            "za odkrycie Ameryki",
+            "za wygraną bitwę"
+          ],
+          "exp": [
+            "Uczona otrzymała tę nagrodę za swoje odkrycia w nauce.",
+            "Częsty błąd: pomylenie jej z podróżnikiem Kolumbem"
+          ],
+          "zrodlo": "s. 10, pole „Poznasz”, podpis ilustracji 2"
+        },
+        {
+          "kind": "wybor",
+          "e": "W którym roku Polska odzyskała niepodległość?",
+          "a": "1918",
+          "choices": [
+            "1492",
+            "1911",
+            "1918"
+          ],
+          "exp": [
+            "Polska znów stała się niepodległa w 1918 roku.",
+            "Częsty błąd: wybranie 1911, roku Nagrody Nobla dla Marii Skłodowskiej-Curie"
+          ],
+          "zrodlo": "s. 10, pole „Poznasz”, podpis ilustracji 3"
+        },
+        {
+          "kind": "wybor",
+          "e": "W jakiej opowieści prawda miesza się z nieprawdą?",
+          "a": "w legendzie",
+          "choices": [
+            "w legendzie",
+            "w baśni",
+            "w pracy historyka"
+          ],
+          "exp": [
+            "W legendzie obok zmyślenia są prawdziwe osoby, miejsca i zdarzenia.",
+            "Częsty błąd: wybranie baśni, która jest całkiem zmyślona"
+          ],
+          "zrodlo": "s. 10, ramka „W skrócie” pkt 2"
+        },
+        {
+          "kind": "wybor",
+          "e": "Na czym historycy opierają swoje dzieła?",
+          "a": "na ustalonych faktach",
+          "choices": [
+            "na ustalonych faktach",
+            "na wymyślonych przygodach",
+            "na tym, co im się przyśniło"
+          ],
+          "exp": [
+            "Historyk pisze tylko o tym, co udało się ustalić jako prawdę.",
+            "Częsty błąd: wybranie wymyślonych przygód, które są w baśniach"
+          ],
+          "zrodlo": "s. 9, „Czy każda opowieść to historia?”"
+        }
+      ]
+    },
+    {
+      "id": "prawda-falsz",
+      "tytul": "Prawda czy fałsz",
+      "polecenie": "Czy to zdanie jest prawdziwe?",
+      "zadania": [
+        {
+          "kind": "pf",
+          "e": "Historia to nauka o przeszłości ludzi.",
+          "a": true,
+          "exp": [
+            "Tak, to jedno z trzech znaczeń słowa „historia”.",
+            "Częsty błąd: myślenie, że historia to tylko opowiadanie bajek"
+          ],
+          "zrodlo": "s. 10, ramka „W skrócie” pkt 1"
+        },
+        {
+          "kind": "pf",
+          "e": "Postacie baśniowe żyły naprawdę, tylko bardzo dawno temu.",
+          "a": false,
+          "exp": [
+            "Postacie z baśni są wymyślone, a „dawno, dawno temu” oznacza nieokreślony czas.",
+            "Częsty błąd: uznanie słów „dawno, dawno temu” za prawdziwą datę"
+          ],
+          "zrodlo": "s. 9, podpis „Baśnie”"
+        },
+        {
+          "kind": "pf",
+          "e": "W legendach mogą pojawiać się prawdziwe miejsca i wydarzenia.",
+          "a": true,
+          "exp": [
+            "Legenda łączy zmyślenie z prawdą.",
+            "Częsty błąd: uznanie legendy za całkowicie zmyśloną, jak baśń"
+          ],
+          "zrodlo": "s. 9, podpis „Legendy”"
+        },
+        {
+          "kind": "pf",
+          "e": "Historia daje nam gotowe rozwiązania na każdą sytuację.",
+          "a": false,
+          "exp": [
+            "Nie daje, ponieważ świat ciągle się zmienia, a każde czasy wyglądają inaczej.",
+            "Częsty błąd: przekonanie, że wystarczy powtarzać to, co robili przodkowie"
+          ],
+          "zrodlo": "s. 9, ramka „Ciekawostka”"
+        },
+        {
+          "kind": "pf",
+          "e": "Swoją historię mają tylko królowie i słynni uczeni.",
+          "a": false,
+          "exp": [
+            "Swoją historię ma każdy człowiek i każda rodzina, także twoja.",
+            "Częsty błąd: myślenie, że historia dotyczy tylko sławnych ludzi"
+          ],
+          "zrodlo": "s. 8, „Co to jest historia?”, ostatnie zdanie"
+        },
+        {
+          "kind": "pf",
+          "e": "Gdy znamy przyczyny dawnych zdarzeń, łatwiej przewidzieć skutki naszych działań.",
+          "a": true,
+          "exp": [
+            "Wiedza o przeszłości pomaga lepiej decydować dzisiaj.",
+            "Częsty błąd: uznanie, że przeszłość nie ma nic wspólnego z dzisiejszymi decyzjami"
+          ],
+          "zrodlo": "s. 9, „Po co nam historia?”, akapit 2"
+        }
+      ]
+    },
+    {
+      "id": "uzupelnij",
+      "tytul": "Uzupełnij",
+      "polecenie": "Wpisz brakujące pojęcie.",
+      "zadania": [
+        {
+          "kind": "wpisz",
+          "e": "Badaniem przeszłości zajmują się ___.",
+          "a": "historycy",
+          "inne": [],
+          "exp": [
+            "To praca historyków.",
+            "Częsty błąd: wpisanie „pisarze”, którzy często zmyślają bohaterów"
+          ],
+          "zrodlo": "s. 9, „Czy każda opowieść to historia?”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Dla historyków najważniejsza jest ___.",
+          "a": "prawda",
+          "inne": [],
+          "exp": [
+            "Historyk opisuje tylko to, co zdarzyło się naprawdę.",
+            "Częsty błąd: wpisanie „przygoda”"
+          ],
+          "zrodlo": "s. 9, koniec akapitu „Czy każda opowieść to historia?”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Królewna Śnieżka to postać ___.",
+          "a": "baśniowa",
+          "inne": [
+            "baśniową",
+            "z baśni"
+          ],
+          "exp": [
+            "Śnieżka pochodzi z baśni, więc jest zmyślona.",
+            "Częsty błąd: wpisanie „historyczna”"
+          ],
+          "zrodlo": "s. 9, podpis „Baśnie”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Ludzi, którzy żyli naprawdę, nazywamy postaciami ___.",
+          "a": "historycznymi",
+          "inne": [],
+          "exp": [
+            "Postacie historyczne to osoby, które rzeczywiście istniały.",
+            "Częsty błąd: wpisanie „legendarnymi”"
+          ],
+          "zrodlo": "s. 9, podpis „Historia”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Powiedzenie „to już historia” oznacza, że coś należy do ___.",
+          "a": "przeszłości",
+          "inne": [],
+          "exp": [
+            "Chodzi o coś, co już się zakończyło.",
+            "Częsty błąd: wpisanie „przyszłości”"
+          ],
+          "zrodlo": "s. 8, „Co to jest historia?”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Postacie historyczne mogą być dla nas ___ postępowania.",
+          "a": "wzorem",
+          "inne": [
+            "wzorcem",
+            "przykładem"
+          ],
+          "exp": [
+            "Możemy brać z nich przykład.",
+            "Częsty błąd: wpisanie „przeszkodą”"
+          ],
+          "zrodlo": "s. 9, „Po co nam historia?”, akapit 2"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Amerykę w 1492 roku odkrył podróżnik Krzysztof ___.",
+          "a": "Kolumb",
+          "inne": [],
+          "exp": [
+            "To nazwisko podróżnika z ilustracji ze statkiem.",
+            "Częsty błąd: wpisanie „Poniatowski”"
+          ],
+          "zrodlo": "s. 10, pole „Poznasz”, podpis ilustracji 1"
+        }
+      ]
+    },
+    {
+      "id": "pytania",
+      "tytul": "Pytania z podręcznika",
+      "polecenie": "Odpowiedz w myślach albo na głos, potem sprawdź.",
+      "zadania": [
+        {
+          "kind": "otwarte",
+          "e": "Wymień trzy znaczenia słowa „historia”.",
+          "a": "Historia to ciekawa opowieść, to coś, co już minęło i jest przeszłością, a także nauka o przeszłości ludzi.",
+          "blad": "podanie tylko jednego znaczenia, na przykład samej opowieści",
+          "zrodlo": "s. 8, „Co to jest historia?” (pogrubione: opowieść, przeszłości, nauka o przeszłości ludzi); s. 10 „Czy już umiem?” pol. 1"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Co odróżnia postacie z baśni i legend od postaci historycznych?",
+          "a": "Postacie historyczne naprawdę żyły. Baśniowe są całkiem zmyślone, a legendarne też wymyślone, choć w legendach pojawiają się prawdziwe osoby, miejsca i zdarzenia.",
+          "blad": "nazwanie Robin Hooda postacią historyczną, choć to postać legendarna",
+          "zrodlo": "s. 9, podpisy pod ilustracjami „Baśnie”, „Legendy”, „Historia”; s. 10, ramka „W skrócie” pkt 2; „Czy już umiem?” pol. 2"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Po co nam historia?",
+          "a": "Dzięki historii lepiej rozumiemy świat i potrafimy przewidywać, jakie skutki będą miały nasze działania.",
+          "blad": "odpowiedź, że historia służy tylko do zapamiętywania dat",
+          "zrodlo": "s. 9, „Po co nam historia?”; s. 10, ramka „W skrócie” pkt 3"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Kto zajmuje się badaniem przeszłości?",
+          "a": "Przeszłość badają historycy.",
+          "blad": "wskazanie autorów baśni, którzy wymyślają swoich bohaterów",
+          "zrodlo": "s. 9, „Czy każda opowieść to historia?”, zdanie 1"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Co jest najważniejsze dla historyków?",
+          "a": "Dla historyka liczy się przede wszystkim prawda.",
+          "blad": "odpowiedź, że najważniejsza jest ciekawa, nawet zmyślona przygoda",
+          "zrodlo": "s. 9, „Czy każda opowieść to historia?”, ostatnie zdanie akapitu"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Podaj przykład postaci historycznej z tej lekcji.",
+          "a": "Na przykład król Polski Stanisław August Poniatowski (pasują też Krzysztof Kolumb albo Maria Skłodowska-Curie).",
+          "blad": "podanie Królewny Śnieżki albo Robin Hooda, czyli postaci zmyślonych",
+          "zrodlo": "s. 9, podpis „Historia”; s. 10, pole „Poznasz”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Dlaczego postacie historyczne mogą być dla nas ważne?",
+          "a": "Mogą być dla nas wzorem, czyli możemy brać z nich przykład, jak postępować.",
+          "blad": "odpowiedź, że są ważne tylko dlatego, że były sławne",
+          "zrodlo": "s. 9, „Po co nam historia?”, akapit 2"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Czy znajomość historii daje nam gotowe rozwiązania na dzisiejsze sprawy?",
+          "a": "Nie. Pozwala uczyć się na błędach przodków i naśladować dobre wzorce, ale świat się zmienia, a każda epoka jest inna.",
+          "blad": "twierdzenie, że wystarczy zrobić dokładnie to samo co ludzie dawniej",
+          "zrodlo": "s. 9, ramka „Ciekawostka”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Co wydarzyło się w 1918 roku?",
+          "a": "W 1918 roku Polska odzyskała niepodległość.",
+          "blad": "pomylenie tej daty z odkryciem Ameryki, które było w 1492 roku",
+          "zrodlo": "s. 10, pole „Poznasz”, podpis ilustracji 3"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Wymień dwie umiejętności, których nauczysz się na lekcjach historii.",
+          "a": "Na przykład zbierania informacji o przeszłości i sprawdzania, czy są prawdziwe, oraz rozpoznawania przyczyn i skutków wydarzeń (także: tworzenia własnej opowieści z faktów).",
+          "blad": "wymienienie rzeczy, które się poznaje, na przykład bitew, zamiast umiejętności",
+          "zrodlo": "s. 10, pole „Nauczysz się”"
+        }
+      ]
+    }
+  ]
+}

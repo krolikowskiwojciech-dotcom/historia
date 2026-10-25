@@ -1,0 +1,567 @@
+{
+  "id": "hist-dz1-l03-historia-mojej-rodziny",
+  "zrodlo": "lekcje-audio",
+  "dla": [
+    "aniela"
+  ],
+  "tytul": "Historia mojej rodziny",
+  "opis": "Moja rodzina i jej dzieje: pamiątki, drzewo i tradycje",
+  "dzial": "I",
+  "dzialTytul": "Z historią na ty",
+  "lekcja": 3,
+  "strony": "15–17",
+  "dodano": "2026-10-25",
+  "termin": null,
+  "ikona": "ksiazka",
+  "kolor": "lila",
+  "ocena": true,
+  "sciaga": [
+    "Dzieje rodziny poznaje się tak samo jak każdą inną historię, czyli dzięki źródłom.",
+    "Najczęstszym źródłem są opowieści krewnych i znajomych. Z ich wspomnień dowiesz się, jaką pracę mieli przodkowie, w jakim miejscu żyli, co sprawiało im radość i jaki mieli charakter.",
+    "Krewnymi nazywamy ludzi, których łączą więzy krwi. Wszyscy wywodzą się od wspólnego przodka.",
+    "Drugie ważne źródło to pamiątki rodzinne, czyli każdy przedmiot związany z naszą rodziną. Należą do nich na przykład fotografie, dokumenty i listy.",
+    "Pamiątką bywa też zwykła rzecz używana na co dzień, na przykład zegarek, biżuteria albo zabawka.",
+    "Sam przedmiot to za mało. Dopiero opowieść o nim wyjaśnia, dla kogo był ważny, z jakim wydarzeniem się łączy i czemu wciąż go przechowujemy.",
+    "Kiedyś rodzinne historie przekazywano ustnie, od starszych do młodszych pokoleń. Dziś można je po prostu nagrać, żeby nie zginęły w niepamięci.",
+    "Pokoleniem nazywamy grupę osób w zbliżonym wieku. Na drzewie genealogicznym jedno pokolenie zajmuje jeden poziom.",
+    "Pamiątki bywają bardzo różne: kieszonkowy zegarek, stare czarno-białe fotografie, książeczka legitymacyjna, odznaczenie w kształcie krzyża czy medalik. Każda z nich może coś powiedzieć o rodzinie.",
+    "Genealogia to dziedzina nauki, która bada dzieje rodziny i więzi łączące jej członków.",
+    "Drzewo genealogiczne to schemat, z którego odczytasz, jak członkowie rodziny są ze sobą powiązani. Przydaje się, gdy w opowieściach trudno połapać się, kto jest kim.",
+    "Na drzewie zwykle zapisuje się imiona, nazwiska i daty życia bliskich. Można też dopisać ich zawody, szczególne osiągnięcia albo dodać zdjęcia.",
+    "Najstarszych przodków umieszcza się na samym dole, przy pniu, bo z nich „wyrasta” cała rodzina. Najmłodsi krewni trafiają na górę, do korony, a każde pokolenie ma swoją wysokość.",
+    "Drzewo z lekcji ma cztery pokolenia. Od dołu: prababcia Helena i pradziadek Zbigniew; babcia Kasia, jej siostra Teresa i dziadek Stefan; mama Joanna, tata Tomasz i stryj Piotr; na górze „ja”, siostra Zuzia i brat Kuba.",
+    "Z tego drzewa wynika, że Kasia jest babcią „mnie”, Zuzi i Kuby. Teresa, siostra Kasi, jest ciocią Tomasza i Piotra, czyli synów Kasi i Stefana.",
+    "Stryj to brat taty. Na drzewie z lekcji stryjem jest Piotr.",
+    "Członków rodziny łączy rodzinna tradycja. Przypominamy sobie o niej zwłaszcza wtedy, gdy przygotowujemy święta i chcemy, żeby wyglądały jak co roku.",
+    "Tradycja to nie tylko zwyczaje. Rodzinę może łączyć także ten sam zawód, wspólna pasja do muzyki lub sportu, a nawet przepis na ciasto znany w rodzinie od dziesięcioleci.",
+    "Przykłady rodzinnych tradycji to obchodzenie świąt co roku w ten sam sposób oraz wspólne wyjazdy, na przykład w góry.",
+    "Dzięki tradycjom krewni czują się ze sobą związani, a rodzina pozostaje w stałym, bliskim kontakcie.",
+    "W skrócie: historię rodziny poznajesz z opowieści krewnych i z pamiątek, na drzewie najstarsi są na dole, a najmłodsi na górze, a tradycje wzmacniają więź w rodzinie."
+  ],
+  "definicje": {
+    "krewni": "Ludzie, których łączą więzy krwi. Wszyscy wywodzą się od jednego, wspólnego przodka.",
+    "przodkowie": "Dawni członkowie rodziny, od których pochodzą młodsi. Najstarszych przodków rysuje się na drzewie na samym dole, przy pniu.",
+    "opowieści rodzinne": "Wspomnienia krewnych i znajomych o dawnych członkach rodziny. Dowiesz się z nich na przykład, jaką mieli pracę, w jakim miejscu żyli, co sprawiało im radość i jaki mieli charakter.",
+    "pamiątki rodzinne": "Każdy przedmiot związany z naszą rodziną, na przykład fotografia, dokument, list, a nawet zwykły zegarek albo zabawka.",
+    "pokolenie": "Grupa ludzi w zbliżonym wieku. Na drzewie genealogicznym jedno pokolenie zajmuje jeden poziom.",
+    "genealogia": "Dziedzina nauki, która bada dzieje rodziny i więzi łączące jej członków.",
+    "drzewo genealogiczne": "Rysunek w kształcie drzewa, z którego odczytasz, kto w rodzinie jest z kim powiązany. Najstarsi są przy pniu, najmłodsi w koronie.",
+    "stryj": "Brat taty.",
+    "tradycja rodzinna": "To, co łączy członków rodziny i powtarza się w niej przez lata: zwyczaje, wspólny zawód, pasja albo stary przepis na ciasto.",
+    "zwyczaje": "Sposoby postępowania powtarzane w rodzinie, na przykład obchodzenie świąt co roku tak samo. Są częścią rodzinnej tradycji.",
+    "więź rodzinna": "Poczucie bliskości między krewnymi. Tradycje ją wzmacniają, dzięki czemu rodzina utrzymuje stały kontakt."
+  },
+  "bloki": [
+    {
+      "id": "pojecia",
+      "tytul": "Pojęcia z lekcji",
+      "polecenie": "Które pojęcie pasuje do opisu?",
+      "ile": 8,
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Ludzie, których łączą więzy krwi. Wszyscy wywodzą się od jednego, wspólnego przodka.",
+          "a": "krewni",
+          "choices": [
+            "krewni",
+            "drzewo genealogiczne",
+            "zwyczaje"
+          ],
+          "exp": [
+            "drzewo genealogiczne to coś innego: Rysunek w kształcie drzewa, z którego odczytasz, kto w rodzinie jest z kim powiązany. Najstarsi są przy pniu, najmłodsi w koronie.",
+            "zwyczaje to coś innego: Sposoby postępowania powtarzane w rodzinie, na przykład obchodzenie świąt co roku tak samo. Są częścią rodzinnej tradycji."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Dawni członkowie rodziny, od których pochodzą młodsi. Najstarszych przodków rysuje się na drzewie na samym dole, przy pniu.",
+          "a": "przodkowie",
+          "choices": [
+            "przodkowie",
+            "stryj",
+            "pokolenie"
+          ],
+          "exp": [
+            "stryj to coś innego: Brat taty.",
+            "pokolenie to coś innego: Grupa ludzi w zbliżonym wieku. Na drzewie genealogicznym jedno pokolenie zajmuje jeden poziom."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Wspomnienia krewnych i znajomych o dawnych członkach …. Dowiesz się z nich na przykład, jaką mieli pracę, w jakim miejscu żyli, co sprawiało im radość i jaki mieli charakter.",
+          "a": "opowieści rodzinne",
+          "choices": [
+            "opowieści rodzinne",
+            "pamiątki rodzinne",
+            "zwyczaje"
+          ],
+          "exp": [
+            "pamiątki rodzinne to coś innego: Każdy przedmiot związany z naszą rodziną, na przykład fotografia, dokument, list, a nawet zwykły zegarek albo zabawka.",
+            "zwyczaje to coś innego: Sposoby postępowania powtarzane w rodzinie, na przykład obchodzenie świąt co roku tak samo. Są częścią rodzinnej tradycji."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Każdy przedmiot związany z naszą …, na przykład fotografia, dokument, list, a nawet zwykły zegarek albo zabawka.",
+          "a": "pamiątki rodzinne",
+          "choices": [
+            "pamiątki rodzinne",
+            "przodkowie",
+            "opowieści rodzinne"
+          ],
+          "exp": [
+            "przodkowie to coś innego: Dawni członkowie rodziny, od których pochodzą młodsi. Najstarszych przodków rysuje się na drzewie na samym dole, przy pniu.",
+            "opowieści rodzinne to coś innego: Wspomnienia krewnych i znajomych o dawnych członkach rodziny. Dowiesz się z nich na przykład, jaką mieli pracę, w jakim miejscu żyli, co sprawiało im radość i jaki mieli charakter."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Grupa ludzi w zbliżonym wieku. Na drzewie genealogicznym jedno … zajmuje jeden poziom.",
+          "a": "pokolenie",
+          "choices": [
+            "pokolenie",
+            "przodkowie",
+            "zwyczaje"
+          ],
+          "exp": [
+            "przodkowie to coś innego: Dawni członkowie rodziny, od których pochodzą młodsi. Najstarszych przodków rysuje się na drzewie na samym dole, przy pniu.",
+            "zwyczaje to coś innego: Sposoby postępowania powtarzane w rodzinie, na przykład obchodzenie świąt co roku tak samo. Są częścią rodzinnej tradycji."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Dziedzina nauki, która bada dzieje rodziny i więzi łączące jej członków.",
+          "a": "genealogia",
+          "choices": [
+            "genealogia",
+            "przodkowie",
+            "opowieści rodzinne"
+          ],
+          "exp": [
+            "przodkowie to coś innego: Dawni członkowie rodziny, od których pochodzą młodsi. Najstarszych przodków rysuje się na drzewie na samym dole, przy pniu.",
+            "opowieści rodzinne to coś innego: Wspomnienia krewnych i znajomych o dawnych członkach rodziny. Dowiesz się z nich na przykład, jaką mieli pracę, w jakim miejscu żyli, co sprawiało im radość i jaki mieli charakter."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Rysunek w kształcie …, z którego odczytasz, kto w rodzinie jest z kim powiązany. Najstarsi są przy pniu, najmłodsi w koronie.",
+          "a": "drzewo genealogiczne",
+          "choices": [
+            "drzewo genealogiczne",
+            "opowieści rodzinne",
+            "pokolenie"
+          ],
+          "exp": [
+            "opowieści rodzinne to coś innego: Wspomnienia krewnych i znajomych o dawnych członkach rodziny. Dowiesz się z nich na przykład, jaką mieli pracę, w jakim miejscu żyli, co sprawiało im radość i jaki mieli charakter.",
+            "pokolenie to coś innego: Grupa ludzi w zbliżonym wieku. Na drzewie genealogicznym jedno pokolenie zajmuje jeden poziom."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Brat taty.",
+          "a": "stryj",
+          "choices": [
+            "stryj",
+            "pokolenie",
+            "drzewo genealogiczne"
+          ],
+          "exp": [
+            "pokolenie to coś innego: Grupa ludzi w zbliżonym wieku. Na drzewie genealogicznym jedno pokolenie zajmuje jeden poziom.",
+            "drzewo genealogiczne to coś innego: Rysunek w kształcie drzewa, z którego odczytasz, kto w rodzinie jest z kim powiązany. Najstarsi są przy pniu, najmłodsi w koronie."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "To, co łączy członków … i powtarza się w niej przez lata: zwyczaje, wspólny zawód, pasja albo stary przepis na ciasto.",
+          "a": "tradycja rodzinna",
+          "choices": [
+            "tradycja rodzinna",
+            "przodkowie",
+            "opowieści rodzinne"
+          ],
+          "exp": [
+            "przodkowie to coś innego: Dawni członkowie rodziny, od których pochodzą młodsi. Najstarszych przodków rysuje się na drzewie na samym dole, przy pniu.",
+            "opowieści rodzinne to coś innego: Wspomnienia krewnych i znajomych o dawnych członkach rodziny. Dowiesz się z nich na przykład, jaką mieli pracę, w jakim miejscu żyli, co sprawiało im radość i jaki mieli charakter."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Sposoby postępowania powtarzane w rodzinie, na przykład obchodzenie świąt co roku tak samo. Są częścią rodzinnej tradycji.",
+          "a": "zwyczaje",
+          "choices": [
+            "zwyczaje",
+            "pokolenie",
+            "pamiątki rodzinne"
+          ],
+          "exp": [
+            "pokolenie to coś innego: Grupa ludzi w zbliżonym wieku. Na drzewie genealogicznym jedno pokolenie zajmuje jeden poziom.",
+            "pamiątki rodzinne to coś innego: Każdy przedmiot związany z naszą rodziną, na przykład fotografia, dokument, list, a nawet zwykły zegarek albo zabawka."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Poczucie bliskości między krewnymi. Tradycje ją wzmacniają, dzięki czemu … utrzymuje stały kontakt.",
+          "a": "więź rodzinna",
+          "choices": [
+            "więź rodzinna",
+            "przodkowie",
+            "zwyczaje"
+          ],
+          "exp": [
+            "przodkowie to coś innego: Dawni członkowie rodziny, od których pochodzą młodsi. Najstarszych przodków rysuje się na drzewie na samym dole, przy pniu.",
+            "zwyczaje to coś innego: Sposoby postępowania powtarzane w rodzinie, na przykład obchodzenie świąt co roku tak samo. Są częścią rodzinnej tradycji."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wybor",
+      "tytul": "Test wyboru",
+      "polecenie": "Wybierz poprawną odpowiedź.",
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Czym jest pokolenie?",
+          "a": "Grupą osób w podobnym wieku",
+          "choices": [
+            "Grupą osób w podobnym wieku",
+            "Wszystkimi ludźmi mieszkającymi w jednym mieście",
+            "Spisem dat z historii rodziny"
+          ],
+          "exp": [
+            "Pokolenie tworzą ludzie w zbliżonym wieku, na drzewie stoją na jednym poziomie.",
+            "Częsty błąd: Łączenie pokolenia z miejscem zamieszkania zamiast z wiekiem."
+          ],
+          "zrodlo": "str. 15, słowniczek „Pokolenie”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Ile pokoleń pokazuje drzewo genealogiczne z lekcji?",
+          "a": "Cztery",
+          "choices": [
+            "Dwa",
+            "Cztery",
+            "Sześć"
+          ],
+          "exp": [
+            "Są cztery poziomy: pradziadkowie, dziadkowie, rodzice i dzieci.",
+            "Częsty błąd: Liczenie osób zamiast poziomów drzewa."
+          ],
+          "zrodlo": "str. 16, schemat drzewa i pola opisu; pytanie „?” nr 1"
+        },
+        {
+          "kind": "wybor",
+          "e": "Kim jest Piotr na drzewie z lekcji?",
+          "a": "Bratem taty, czyli stryjem",
+          "choices": [
+            "Dziadkiem",
+            "Bratem mamy",
+            "Bratem taty, czyli stryjem"
+          ],
+          "exp": [
+            "Piotr i Tomasz to synowie Kasi i Stefana, więc Piotr jest bratem taty.",
+            "Częsty błąd: Pomylenie stryja z bratem mamy."
+          ],
+          "zrodlo": "str. 16, schemat drzewa i pola opisu"
+        },
+        {
+          "kind": "wybor",
+          "e": "Czyją babcią jest Kasia na drzewie z lekcji?",
+          "a": "Osoby podpisanej „ja”, Zuzi i Kuby",
+          "choices": [
+            "Teresy i Heleny",
+            "Osoby podpisanej „ja”, Zuzi i Kuby",
+            "Tylko Piotra"
+          ],
+          "exp": [
+            "Kasia jest mamą Tomasza, a dzieci Tomasza to „ja”, Zuzia i Kuba.",
+            "Częsty błąd: Uznanie Teresy za wnuczkę Kasi, choć to jej siostra."
+          ],
+          "zrodlo": "str. 16, schemat drzewa i pola opisu; pytanie „?” nr 2"
+        },
+        {
+          "kind": "wybor",
+          "e": "Jak nazywa się nauka, która bada dzieje rodziny i więzi między krewnymi?",
+          "a": "Genealogia",
+          "choices": [
+            "Geografia",
+            "Genealogia",
+            "Biologia"
+          ],
+          "exp": [
+            "Genealogia zajmuje się właśnie historią rodziny i powiązaniami w niej.",
+            "Częsty błąd: Wybór geografii, bo jej nazwa brzmi podobnie."
+          ],
+          "zrodlo": "str. 16, słowniczek „Genealogia”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Kiedy najczęściej przypominamy sobie o rodzinnej tradycji?",
+          "a": "Gdy przygotowujemy spotkania świąteczne",
+          "choices": [
+            "Gdy przygotowujemy spotkania świąteczne",
+            "Gdy robimy codzienne zakupy",
+            "Gdy odrabiamy pracę domową"
+          ],
+          "exp": [
+            "Przed świętami chcemy, żeby wszystko przebiegło tak jak co roku.",
+            "Częsty błąd: Wskazanie zwykłych, codziennych czynności, które nie mają związku z tradycją."
+          ],
+          "zrodlo": "str. 17, „Tradycje rodzinne”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Jak dawniej przekazywano rodzinne historie?",
+          "a": "Opowiadano je ustnie młodszym pokoleniom",
+          "choices": [
+            "Nagrywano je na telefon",
+            "Opowiadano je ustnie młodszym pokoleniom",
+            "Drukowano je w gazetach"
+          ],
+          "exp": [
+            "Kiedyś starsi opowiadali je młodszym, a dziś możemy je także nagrać.",
+            "Częsty błąd: Przeniesienie dzisiejszego nagrywania w dawne czasy."
+          ],
+          "zrodlo": "str. 15, „Jak poznać historię rodziny?”, akapit 2"
+        }
+      ]
+    },
+    {
+      "id": "prawda-falsz",
+      "tytul": "Prawda czy fałsz",
+      "polecenie": "Czy to zdanie jest prawdziwe?",
+      "zadania": [
+        {
+          "kind": "pf",
+          "e": "Na drzewie genealogicznym najmłodsi krewni są na samym dole, przy pniu.",
+          "a": false,
+          "exp": [
+            "Przy pniu stoją najstarsi przodkowie, a najmłodsi są na szczycie.",
+            "Częsty błąd: Odwrócenie kolejności pokoleń na drzewie."
+          ],
+          "zrodlo": "str. 17, ramka „W skrócie”, pkt 3; str. 16, schemat drzewa i pola opisu"
+        },
+        {
+          "kind": "pf",
+          "e": "Pamiątką rodzinną może być zwykła rzecz codziennego użytku, na przykład zabawka.",
+          "a": true,
+          "exp": [
+            "Pamiątką bywa każdy przedmiot związany z rodziną, także zegarek, biżuteria czy zabawka.",
+            "Częsty błąd: Przekonanie, że pamiątką są tylko dokumenty i zdjęcia."
+          ],
+          "zrodlo": "str. 17, ramka „W skrócie”, pkt 2; str. 15, „Jak poznać historię rodziny?”"
+        },
+        {
+          "kind": "pf",
+          "e": "Rodzinna tradycja to wyłącznie zwyczaje świąteczne.",
+          "a": false,
+          "exp": [
+            "Tradycją może być też ten sam zawód, pasja do muzyki lub sportu, a nawet przepis na ciasto.",
+            "Częsty błąd: Zawężenie tradycji do samych świąt."
+          ],
+          "zrodlo": "str. 17, „Tradycje rodzinne”"
+        },
+        {
+          "kind": "pf",
+          "e": "Krewni pochodzą od wspólnego przodka.",
+          "a": true,
+          "exp": [
+            "Krewnych łączą więzy krwi, bo wywodzą się od tego samego przodka.",
+            "Częsty błąd: Zaliczanie do krewnych także sąsiadów i znajomych."
+          ],
+          "zrodlo": "str. 15, słowniczek „Krewni”"
+        },
+        {
+          "kind": "pf",
+          "e": "Na drzewie z lekcji Teresa jest mamą Tomasza.",
+          "a": false,
+          "exp": [
+            "Mamą Tomasza jest Kasia. Teresa to siostra Kasi, więc dla Tomasza jest ciocią.",
+            "Częsty błąd: Pomylenie dwóch sióstr stojących na tym samym poziomie."
+          ],
+          "zrodlo": "str. 16, schemat drzewa i pola opisu; pytanie „?” nr 2"
+        },
+        {
+          "kind": "pf",
+          "e": "Na drzewie genealogicznym można umieścić także zawody bliskich i ich zdjęcia.",
+          "a": true,
+          "exp": [
+            "Poza imionami, nazwiskami i datami życia wolno dodać inne informacje, na przykład zawody, osiągnięcia i fotografie.",
+            "Częsty błąd: Myślenie, że drzewo może zawierać wyłącznie imiona."
+          ],
+          "zrodlo": "str. 16, „Drzewo genealogiczne”"
+        }
+      ]
+    },
+    {
+      "id": "uzupelnij",
+      "tytul": "Uzupełnij",
+      "polecenie": "Wpisz brakujące pojęcie.",
+      "zadania": [
+        {
+          "kind": "wpisz",
+          "e": "Nauka o dziejach rodziny i więziach między jej członkami to ___.",
+          "a": "genealogia",
+          "inne": [],
+          "exp": [
+            "Tak nazywa się ta dziedzina nauki.",
+            "Częsty błąd: Wpisanie „geografia”."
+          ],
+          "zrodlo": "str. 16, słowniczek „Genealogia”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Grupę osób w podobnym wieku nazywamy ___.",
+          "a": "pokolenie",
+          "inne": [
+            "pokoleniem"
+          ],
+          "exp": [
+            "Na drzewie jedno pokolenie stoi na jednym poziomie.",
+            "Częsty błąd: Wpisanie „rodzina”."
+          ],
+          "zrodlo": "str. 15, słowniczek „Pokolenie”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Ludzi połączonych więzami krwi nazywamy ___.",
+          "a": "krewni",
+          "inne": [
+            "krewnymi",
+            "krewnych"
+          ],
+          "exp": [
+            "Krewni wywodzą się od wspólnego przodka.",
+            "Częsty błąd: Wpisanie „znajomi”."
+          ],
+          "zrodlo": "str. 15, słowniczek „Krewni”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Schemat, który pokazuje powiązania między członkami rodziny, to drzewo ___.",
+          "a": "genealogiczne",
+          "inne": [],
+          "exp": [
+            "Tak nazywamy rysunek rodziny w kształcie drzewa.",
+            "Częsty błąd: Wpisanie „rodzinne” zamiast właściwej nazwy."
+          ],
+          "zrodlo": "str. 16, „Drzewo genealogiczne”; str. 17, ramka „W skrócie”, pkt 3"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Najstarszych przodków umieszczamy na drzewie genealogicznym na samym dole, przy ___.",
+          "a": "pniu",
+          "inne": [
+            "pień"
+          ],
+          "exp": [
+            "Z pnia „wyrasta” cała reszta rodziny.",
+            "Częsty błąd: Wpisanie „koronie”."
+          ],
+          "zrodlo": "str. 16, schemat drzewa i pola opisu"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Brat taty to ___.",
+          "a": "stryj",
+          "inne": [
+            "stryjek"
+          ],
+          "exp": [
+            "Na drzewie z lekcji stryjem jest Piotr.",
+            "Częsty błąd: Wpisanie „dziadek”."
+          ],
+          "zrodlo": "str. 16, schemat drzewa i pola opisu"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Dawniej rodzinne historie przekazywano ___, od starszych do młodszych.",
+          "a": "ustnie",
+          "inne": [],
+          "exp": [
+            "Starsi opowiadali je młodszym, a dziś można je nagrać.",
+            "Częsty błąd: Wpisanie „pisemnie”."
+          ],
+          "zrodlo": "str. 15, „Jak poznać historię rodziny?”, akapit 2"
+        }
+      ]
+    },
+    {
+      "id": "pytania",
+      "tytul": "Pytania z podręcznika",
+      "polecenie": "Odpowiedz w myślach albo na głos, potem sprawdź.",
+      "zadania": [
+        {
+          "kind": "otwarte",
+          "e": "Skąd możemy czerpać wiedzę o historii naszej rodziny?",
+          "a": "Z opowieści krewnych i znajomych oraz z pamiątek rodzinnych, takich jak fotografie, dokumenty i listy.",
+          "blad": "Podanie tylko jednego źródła, na przykład samych zdjęć, i pominięcie opowieści bliskich.",
+          "zrodlo": "str. 17, ramka „W skrócie”, pkt 1; str. 15, „Jak poznać historię rodziny?”; „Czy już umiem?” pkt 1"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Gdzie na drzewie genealogicznym są najstarsi krewni, a gdzie najmłodsi?",
+          "a": "Najstarsi stoją na samym dole, przy pniu, a najmłodsi na samej górze, w koronie drzewa.",
+          "blad": "Zamiana miejsc, czyli najstarsi na górze, a najmłodsi na dole.",
+          "zrodlo": "str. 17, ramka „W skrócie”, pkt 3; str. 16, schemat drzewa i pola opisu"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Podaj przykłady tego, co może być częścią rodzinnej tradycji.",
+          "a": "Na przykład coroczne obchody świąt, wspólne wyjazdy, ten sam zawód, pasja do muzyki lub sportu albo stary przepis na ciasto.",
+          "blad": "Przekonanie, że tradycja to wyłącznie zwyczaje świąteczne.",
+          "zrodlo": "str. 17, „Tradycje rodzinne” i podpisy zdjęć; „Czy już umiem?” pkt 2"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Kim są krewni?",
+          "a": "To ludzie połączeni więzami krwi, którzy wywodzą się od wspólnego przodka.",
+          "blad": "Nazywanie krewnymi wszystkich znajomych rodziny.",
+          "zrodlo": "str. 15, słowniczek na marginesie „Krewni”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Czym są pamiątki rodzinne? Podaj trzy przykłady.",
+          "a": "To wszystkie przedmioty związane z członkami rodziny, na przykład fotografie, dokumenty i listy, a także zwykły zegarek czy zabawka.",
+          "blad": "Myślenie, że pamiątką może być tylko coś cennego, a zwykła rzecz codziennego użytku już nie.",
+          "zrodlo": "str. 17, ramka „W skrócie”, pkt 2; str. 15, „Jak poznać historię rodziny?”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Czym zajmuje się genealogia?",
+          "a": "Bada dzieje rodziny i więzi, które łączą jej członków.",
+          "blad": "Mylenie genealogii z geografią albo z biologią.",
+          "zrodlo": "str. 16, słowniczek na marginesie „Genealogia”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Do czego służy drzewo genealogiczne?",
+          "a": "Pokazuje, jak członkowie rodziny z różnych pokoleń są ze sobą powiązani, więc łatwiej ustalić, kto jest kim.",
+          "blad": "Uznanie go za zwykły rysunek drzewa rosnącego w ogrodzie.",
+          "zrodlo": "str. 16, „Drzewo genealogiczne”; pytanie „?”; str. 17, ramka „W skrócie”, pkt 3"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Jakie informacje zapisuje się na drzewie genealogicznym?",
+          "a": "Zwykle imiona, nazwiska i daty życia bliskich. Można też dodać ich zawody, szczególne osiągnięcia i zdjęcia.",
+          "blad": "Twierdzenie, że na drzewo wolno wpisać tylko same imiona.",
+          "zrodlo": "str. 16, „Drzewo genealogiczne”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Dlaczego przy pamiątce rodzinnej ważna jest opowieść, która jej towarzyszy?",
+          "a": "Bo dopiero z niej wiemy, dla kogo ta rzecz była ważna, z jakim wydarzeniem się łączy i dlaczego ją przechowujemy.",
+          "blad": "Przekonanie, że sam przedmiot wszystko wyjaśnia bez żadnej historii.",
+          "zrodlo": "str. 15, „Jak poznać historię rodziny?”, akapit 2"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Co dają rodzinie tradycje?",
+          "a": "Wzmacniają poczucie więzi między krewnymi i pomagają rodzinie utrzymać stały, bliski kontakt.",
+          "blad": "Odpowiedź, że tradycje są potrzebne tylko po to, żeby było co robić w święta.",
+          "zrodlo": "str. 17, „Tradycje rodzinne”; str. 17, ramka „W skrócie”, pkt 4"
+        }
+      ]
+    }
+  ]
+}

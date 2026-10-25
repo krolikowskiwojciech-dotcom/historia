@@ -1,0 +1,78 @@
+{
+  "styl": "Style: museum catalogue and history atlas plates — precise fine ink linework with delicate watercolor washes, historically accurate objects, architecture, clothing and proportions, calm natural colors (warm ochres, terracotta, muted greens, slate blues, parchment cream), subtle hand-drawn hatching for volume, like illustrations in a good school history atlas or a museum guide for teenagers. Serious and mature: no cartoon faces, no big cute eyes, no smiles, no mascots, no toys, no confetti, no plasticine or 3D clay look. People only small and seen at a distance or from behind, never as caricatures. No text, no letters, no numbers, no inscriptions, no labels or callout lines, no frames, no background scene. Each subject drawn in isolation on a fully transparent background (PNG), with no paper texture outside the subject.",
+  "siatka": "Grid rules for every image: square 1:1 canvas, subjects arranged in an even grid, each subject centered in its own cell with clear empty space around it, nothing crossing cell borders, consistent scale and line weight within one image.",
+  "arkusze": [
+    {
+      "plik": "arkusz-01-dzialy",
+      "tytul": "Działy podręcznika",
+      "kolumny": 3,
+      "wiersze": 2,
+      "nazwy": [
+        "dzial-1",
+        "dzial-2",
+        "dzial-3",
+        "dzial-4",
+        "dzial-5",
+        "historia"
+      ],
+      "prompt": "Create one square image (1:1) with a grid of 3 columns × 2 rows = 6 separate illustrations for the chapters of a 4th-grade history textbook. Row 1: (1) a brass hourglass beside an open leather-bound chronicle and an old pocket watch — what history is and how we measure time; (2) a red-and-white flag on a wooden pole beside a small brick town-hall tower with a clock — my homeland, small and large; (3) a flint hand axe and a clay pot beside a small group of Egyptian pyramids — the earliest times and the first civilisations. Row 2: (4) the marble facade of a Greek Doric temple beside a black-figure amphora — ancient Greece; (5) the Colosseum beside a Roman legionary's helmet with a red crest — ancient Rome; (6) a single fluted stone column with a rolled parchment scroll leaning against it — history in general."
+    },
+    {
+      "plik": "arkusz-02-lekcje-1",
+      "tytul": "Lekcje działów I–II",
+      "kolumny": 4,
+      "wiersze": 3,
+      "nazwy": [
+        "dz1-l1",
+        "dz1-l2",
+        "dz1-l3",
+        "dz1-l4",
+        "dz1-l5",
+        "dz1-podsumowanie",
+        "dz2-l1",
+        "dz2-l2",
+        "dz2-l3",
+        "dz2-l4",
+        "dz2-podsumowanie",
+        ""
+      ],
+      "prompt": "Create one square image (1:1) with a grid of 4 columns × 3 rows = 12 separate illustrations for lessons of a 4th-grade history textbook. Row 1: (1) an old family photo album lying open beside a stack of history books — the first history lesson; (2) an archaeologist's trowel and brush beside a half-excavated clay pot and a medieval silver coin — historical sources; (3) a family tree drawn as a real tree with small empty oval frames on its branches, beside an old pocket watch and a medal — family history; (4) a long wooden ruler-like timeline bar with small objects standing along it from left to right: a pyramid, a castle tower, a sailing ship, a rocket — time and historical epochs. Row 2: (5) an hourglass beside a sundial and a stack of three old wall calendars — calculating time; (6) an open exercise notebook with a pencil and a magnifying glass — chapter summary; (7) a red-and-white flag on a pole beside a plain stone border post — we live in Poland; (8) a small town square with a church tower and old tenement houses — my small homeland. Row 3: (9) a local museum display case with a folk costume, a lantern and an old key — the history of my area; (10) an old unfolded historical map (no lettering) with a compass rose and a magnifying glass — how to use a historical map; (11) an open exercise notebook with a pencil and an eraser — chapter summary; (12) leave this cell empty."
+    },
+    {
+      "plik": "arkusz-03-lekcje-2",
+      "tytul": "Lekcje działów III–IV",
+      "kolumny": 4,
+      "wiersze": 3,
+      "nazwy": [
+        "dz3-l1",
+        "dz3-l2",
+        "dz3-l3",
+        "dz3-l4",
+        "dz3-l5",
+        "dz3-podsumowanie",
+        "dz4-l1",
+        "dz4-l2",
+        "dz4-l3",
+        "dz4-l4",
+        "dz4-podsumowanie",
+        ""
+      ],
+      "prompt": "Create one square image (1:1) with a grid of 4 columns × 3 rows = 12 separate illustrations for lessons of a 4th-grade history textbook. Row 1: (1) a flint hand axe, a bone needle and a small campfire beside a cave entrance — how the first people lived; (2) a mud-brick ziggurat beside a reed boat on a river with date palms — the first civilisations in river valleys; (3) the Nile with a felucca sailing boat, papyrus reeds and a small pyramid in the distance — ancient Egypt; (4) a stone sphinx beside a golden pharaoh's funeral mask — achievements of the ancient Egyptians. Row 2: (5) a papyrus scroll with hieroglyph-like pictures (no real letters) beside a clay tablet with wedge marks — from hieroglyphs to the alphabet; (6) an open exercise notebook with a pencil and a magnifying glass — chapter summary; (7) a Greek trireme with oars on a blue sea beside a rocky island with olive trees — the world of the ancient Greeks; (8) a crowd of tiny figures in himations seen from a distance at a stone speaker's platform on a hill — democracy in Athens. Row 3: (9) a marble bust of a bearded philosopher beside a bronze Corinthian helmet — achievements of the ancient Greeks; (10) a stone semicircular Greek theatre with two tragic and comic masks lying beside it — theatre and stadium; (11) an open exercise notebook with a pencil and an eraser — chapter summary; (12) leave this cell empty."
+    },
+    {
+      "plik": "arkusz-04-lekcje-3",
+      "tytul": "Lekcje działu V",
+      "kolumny": 3,
+      "wiersze": 2,
+      "nazwy": [
+        "dz5-l1",
+        "dz5-l2",
+        "dz5-l3",
+        "dz5-l4",
+        "dz5-podsumowanie",
+        ""
+      ],
+      "prompt": "Create one square image (1:1) with a grid of 3 columns × 2 rows = 6 separate illustrations for lessons of a 4th-grade history textbook. Row 1: (1) a bronze she-wolf statue beside a Roman legion standard with an eagle — how the Roman Empire arose; (2) a Roman street with a small domus house and a stone fountain, tiny figures in togas seen from a distance — life in ancient Rome; (3) a stone Roman aqueduct with arches beside a straight paved Roman road — the legacy of the Roman Empire. Row 2: (4) a simple oil lamp marked with a fish symbol beside the entrance to underground catacombs — the beginnings of Christianity; (5) an open exercise notebook with a pencil and a magnifying glass — chapter summary; (6) leave this cell empty."
+    }
+  ]
+}

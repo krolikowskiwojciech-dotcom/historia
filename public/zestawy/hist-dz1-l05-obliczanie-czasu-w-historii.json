@@ -1,0 +1,612 @@
+{
+  "id": "hist-dz1-l05-obliczanie-czasu-w-historii",
+  "zrodlo": "lekcje-audio",
+  "dla": [
+    "aniela"
+  ],
+  "tytul": "Obliczanie czasu w historii",
+  "opis": "Rachunki czasu w historii: lata, ery i wieki",
+  "dzial": "I",
+  "dzialTytul": "Z historią na ty",
+  "lekcja": 5,
+  "strony": "24–29",
+  "dodano": "2026-10-25",
+  "termin": null,
+  "ikona": "klepsydra",
+  "kolor": "niebieski",
+  "ocena": true,
+  "sciaga": [
+    "Każdy z nas liczy czas: ile ma lat, kiedy będą urodziny, ile zostało do wakacji. Historycy robią to samo, gdy sprawdzają na przykład, jak długo rządził władca albo trwał jakiś konflikt.",
+    "Dwa wydarzenia z naszej ery: od większej, czyli późniejszej daty odejmujesz mniejszą, czyli wcześniejszą. Od 1795 do 1918 roku minęło więc 1918 − 1795 = 123 lata.",
+    "Kazimierz Wielki urodził się w 1310 roku, koronę dostał w 1333, a zmarł w 1370. Królem został w wieku 23 lat (1333 − 1310), przeżył 60 lat, a rządził 37 lat.",
+    "Przed naszą erą liczby w datach maleją z biegiem czasu, więc wcześniejsze wydarzenie ma większą datę. Dlatego od daty wcześniejszej odejmujesz późniejszą – i znowu od większej liczby mniejszą.",
+    "Kleopatra VII, najsłynniejsza władczyni Egiptu (znana też z komiksu o Asteriksie), żyła od 69 do 30 roku p.n.e., czyli 69 − 30 = 39 lat. Królową została w 51 roku p.n.e., mając 69 − 51 = 18 lat.",
+    "Roku zerowego nigdy nie było. Ostatni dzień 1 roku p.n.e. (31 grudnia) poprzedza od razu pierwszy dzień 1 roku n.e. Na styku er lata idą więc tak: 2 p.n.e., 1 p.n.e., 1 n.e., 2 n.e.",
+    "Gdy daty leżą w dwóch różnych erach, dodajesz je do siebie i odejmujesz 1. Przykład: Oktawian August, który przyszedł na świat w 63 roku p.n.e. i umarł w 14 roku n.e., dożył 63 + 14 − 1 = 76 lat. Wynik 77 to częsta pomyłka.",
+    "Oktawian August objął władzę w 27 roku p.n.e. i rządził do śmierci, więc panował 27 + 14 − 1 = 40 lat. Tak samo od 753 roku p.n.e. do 476 roku n.e. upłynęło 753 + 476 − 1 = 1228 lat.",
+    "Wiek to stulecie, czyli sto lat. Jego numer piszemy zwykle cyframi rzymskimi.",
+    "Pierwszy wiek naszej ery trwał od 1 stycznia roku 1 do 31 grudnia roku 100, a drugi objął lata 101–200. Każdy wiek naszej ery zaczyna się rokiem z końcówką 01, a kończy rokiem z końcówką 00 – na przykład XX wiek to lata 1901–2000.",
+    "XXI wiek ruszył 1 stycznia 2001 roku i potrwa do 31 grudnia 2100 roku.",
+    "Wieki przed naszą erą liczymy wstecz od 1 roku n.e. I wiek p.n.e. trwał od 100 do 1 roku p.n.e., a II wiek p.n.e. od 200 do 101 roku p.n.e. Taki wiek zaczyna się więc rokiem z końcówką 00, a kończy rokiem z końcówką 01.",
+    "O przeszłości mówimy datą roczną albo numerem wieku. Kazimierz Wielki rządził w latach 1333–1370, czyli krócej – w XIV wieku.",
+    "Jak znaleźć wiek: zasłoń dwie ostatnie cyfry roku, a do liczby, która zostanie, dodaj 1. 1333 → 13 + 1 → XIV wiek, 1410 → 14 + 1 → XV wiek. Przed naszą erą tak samo: 480 p.n.e. → 4 + 1 → V wiek p.n.e.",
+    "Wyjątek: gdy rok kończy się na 00, jedynki nie dodajesz. W naszej erze taki rok jest ostatnim, setnym rokiem stulecia: 100 → I wiek, 1000 → X wiek, 1300 → XIII wiek, 2000 → XX wiek. Przed naszą erą rok z dwoma zerami jest początkiem wieku: 100 p.n.e. rozpoczyna I wiek p.n.e., a 500 p.n.e. rozpoczyna V wiek p.n.e.",
+    "Rok tuż po pełnej setce należy już do nowego wieku, więc tu jedynkę dodajesz zawsze: 1301 → XIV, 1001 → XI, 1111 → XII, 1901 → XX. Najczęstszy błąd to zapomniana jedynka, na przykład XI zamiast XII dla roku 1111.",
+    "Trzy daty do ćwiczeń: w 1928 roku Halina Konopacka zdobyła dla Polski pierwsze złoto olimpijskie (XX wiek); w 1000 roku Bolesław Chrobry spotkał w Gnieźnie cesarza Ottona III (X wiek); w 480 roku p.n.e. garstka Greków stawiła czoło ogromnej armii Persów pod Termopilami (V wiek p.n.e.).",
+    "Tysiąclecia liczy się jak wieki. W grudniu 1999 roku wielu ludzi szykowało huczne powitanie trzeciego tysiąclecia, choć drugie skończyło się dopiero 31 grudnia 2000 roku.",
+    "Dawniej czas wskazywało słońce: po jego wschodach, zachodach i położeniu na niebie rozpoznawano pory roku i godziny. Egipcjanie i Grecy wbijali w ziemię kij i patrzyli, jak skraca się i wydłuża jego cień – najkrótszy był w południe. Tak narodził się zegar słoneczny. Nocą lub przy chmurach pomagała klepsydra z piaskiem, którą po przesypaniu trzeba obrócić.",
+    "Zegary mechaniczne z ciężarkami i kołami zębatymi pojawiły się dopiero w średniowieczu; ich dzwon co godzinę mówił miastu, kiedy modlitwa, obiad albo sen. Z czasem zegary się zmniejszały: kieszonkowe, na rękę, a dziś cyfrowe. Londyński Big Ben pokazuje mieszkańcom godzinę od ponad 180 lat.",
+    "Pierwszy kalendarz był księżycowy: Księżyc przechodzi fazy mniej więcej w 29 dni, czyli około dwunastu razy w roku – stąd 12 miesięcy. Taki rok był jednak za krótki, bo dwanaście pełni nie wypełnia całego obiegu Ziemi wokół Słońca, i pory roku zaczęły się przesuwać.",
+    "Egipcjanie zauważyli, że Nil wylewa prawie zawsze co 365 dni. Ich rok słoneczny miał 12 miesięcy po 30 dni i 5 dni świąt (5 tysięcy lat temu). W I wieku p.n.e. Juliusz Cezar dodał co cztery lata 29 lutego – tak powstał kalendarz juliański i rok przestępny. W 1582 roku papież Grzegorz XIII wprowadził kalendarz gregoriański: po 4 października od razu nastał 15 października."
+  ],
+  "definicje": {
+    "upływ czasu": "Liczba lat (albo dni, miesięcy), która minęła między dwoma wydarzeniami. Historyk liczy go na przykład, gdy chce wiedzieć, jak długo rządził król.",
+    "nasza era": "Lata liczone od 1 roku n.e. w przód, czyli 1, 2, 3 i dalej aż do dziś. Im później coś się stało, tym większa jest jego data.",
+    "przed naszą erą": "Lata sprzed 1 roku n.e., liczone wstecz i zapisywane ze skrótem p.n.e. Im wcześniej coś się stało, tym większa liczba stoi w dacie.",
+    "rok zerowy": "Rok, którego w historii nie ma. Zaraz po 1 roku p.n.e. przychodzi 1 rok n.e., dlatego przy datach z dwóch er odejmujemy 1.",
+    "wiek": "Inaczej stulecie, czyli okres stu lat. Jego numer piszemy zwykle cyframi rzymskimi, na przykład XIV wiek.",
+    "cyfry rzymskie": "Znaki, którymi zwykle zapisuje się numer wieku, na przykład I, V, X, XV, XXI.",
+    "tysiąclecie": "Okres tysiąca lat. Liczy się go tak jak wiek, więc drugie tysiąclecie trwało do ostatniego dnia 2000 roku.",
+    "zegar słoneczny": "Dawny zegar bez wskazówek: godzinę pokazywał cień kija wbitego w ziemię. Cień był najkrótszy w południe.",
+    "klepsydra": "Naczynie, w którym przesypuje się piasek. Odmierza tylko jeden ustalony kawałek czasu, potem trzeba ją obrócić.",
+    "zegar mechaniczny": "Zegar z ciężarkami i kołami zębatymi, zbudowany w średniowieczu. Jego dzwon wybijał każdą pełną godzinę.",
+    "kalendarz księżycowy": "Najstarszy kalendarz: miał 12 miesięcy, bo Księżyc mniej więcej co 29 dni przechodzi wszystkie fazy. Okazał się za krótki.",
+    "rok słoneczny": "Czas jednego pełnego okrążenia Ziemi wokół Słońca. Egipcjanie, obserwując wylewy Nilu, ustalili go na około 365 dni.",
+    "kalendarz juliański": "Kalendarz poprawiony przez Juliusza Cezara w I wieku p.n.e. Co cztery lata dochodzi w nim dodatkowy dzień, 29 lutego, a taki rok nazywamy przestępnym.",
+    "kalendarz gregoriański": "Kalendarz wprowadzony w 1582 roku przez papieża Grzegorza XIII. Żeby dogonić pory roku, opuszczono w nim dziesięć dni października."
+  },
+  "bloki": [
+    {
+      "id": "pojecia",
+      "tytul": "Pojęcia z lekcji",
+      "polecenie": "Które pojęcie pasuje do opisu?",
+      "ile": 8,
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Liczba lat (albo dni, miesięcy), która minęła między dwoma wydarzeniami. Historyk liczy go na przykład, gdy chce wiedzieć, jak długo rządził król.",
+          "a": "upływ czasu",
+          "choices": [
+            "upływ czasu",
+            "przed naszą erą",
+            "wiek"
+          ],
+          "exp": [
+            "przed naszą erą to coś innego: Lata sprzed 1 roku n.e., liczone wstecz i zapisywane ze skrótem p.n.e. Im wcześniej coś się stało, tym większa liczba stoi w dacie.",
+            "wiek to coś innego: Inaczej stulecie, czyli okres stu lat. Jego numer piszemy zwykle cyframi rzymskimi, na przykład XIV wiek."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Lata liczone od 1 roku n.e. w przód, czyli 1, 2, 3 i dalej aż do dziś. Im później coś się stało, tym większa jest jego data.",
+          "a": "nasza era",
+          "choices": [
+            "nasza era",
+            "przed naszą erą",
+            "zegar mechaniczny"
+          ],
+          "exp": [
+            "przed naszą erą to coś innego: Lata sprzed 1 roku n.e., liczone wstecz i zapisywane ze skrótem p.n.e. Im wcześniej coś się stało, tym większa liczba stoi w dacie.",
+            "zegar mechaniczny to coś innego: Zegar z ciężarkami i kołami zębatymi, zbudowany w średniowieczu. Jego dzwon wybijał każdą pełną godzinę."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Lata sprzed 1 roku n.e., liczone wstecz i zapisywane ze skrótem p.n.e. Im wcześniej coś się stało, tym większa liczba stoi w dacie.",
+          "a": "przed naszą erą",
+          "choices": [
+            "przed naszą erą",
+            "rok słoneczny",
+            "tysiąclecie"
+          ],
+          "exp": [
+            "rok słoneczny to coś innego: Czas jednego pełnego okrążenia Ziemi wokół Słońca. Egipcjanie, obserwując wylewy Nilu, ustalili go na około 365 dni.",
+            "tysiąclecie to coś innego: Okres tysiąca lat. Liczy się go tak jak wiek, więc drugie tysiąclecie trwało do ostatniego dnia 2000 roku."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Rok, którego w historii nie ma. Zaraz po 1 roku p.n.e. przychodzi 1 rok n.e., dlatego przy datach z dwóch er odejmujemy 1.",
+          "a": "rok zerowy",
+          "choices": [
+            "rok zerowy",
+            "tysiąclecie",
+            "zegar mechaniczny"
+          ],
+          "exp": [
+            "tysiąclecie to coś innego: Okres tysiąca lat. Liczy się go tak jak wiek, więc drugie tysiąclecie trwało do ostatniego dnia 2000 roku.",
+            "zegar mechaniczny to coś innego: Zegar z ciężarkami i kołami zębatymi, zbudowany w średniowieczu. Jego dzwon wybijał każdą pełną godzinę."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Inaczej stulecie, czyli okres stu lat. Jego numer piszemy zwykle cyframi rzymskimi, na przykład XIV ….",
+          "a": "wiek",
+          "choices": [
+            "wiek",
+            "tysiąclecie",
+            "zegar mechaniczny"
+          ],
+          "exp": [
+            "tysiąclecie to coś innego: Okres tysiąca lat. Liczy się go tak jak wiek, więc drugie tysiąclecie trwało do ostatniego dnia 2000 roku.",
+            "zegar mechaniczny to coś innego: Zegar z ciężarkami i kołami zębatymi, zbudowany w średniowieczu. Jego dzwon wybijał każdą pełną godzinę."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Znaki, którymi zwykle zapisuje się numer wieku, na przykład I, V, X, XV, XXI.",
+          "a": "cyfry rzymskie",
+          "choices": [
+            "cyfry rzymskie",
+            "nasza era",
+            "rok zerowy"
+          ],
+          "exp": [
+            "nasza era to coś innego: Lata liczone od 1 roku n.e. w przód, czyli 1, 2, 3 i dalej aż do dziś. Im później coś się stało, tym większa jest jego data.",
+            "rok zerowy to coś innego: Rok, którego w historii nie ma. Zaraz po 1 roku p.n.e. przychodzi 1 rok n.e., dlatego przy datach z dwóch er odejmujemy 1."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Okres tysiąca lat. Liczy się go tak jak wiek, więc drugie … trwało do ostatniego dnia 2000 roku.",
+          "a": "tysiąclecie",
+          "choices": [
+            "tysiąclecie",
+            "kalendarz gregoriański",
+            "rok zerowy"
+          ],
+          "exp": [
+            "kalendarz gregoriański to coś innego: Kalendarz wprowadzony w 1582 roku przez papieża Grzegorza XIII. Żeby dogonić pory roku, opuszczono w nim dziesięć dni października.",
+            "rok zerowy to coś innego: Rok, którego w historii nie ma. Zaraz po 1 roku p.n.e. przychodzi 1 rok n.e., dlatego przy datach z dwóch er odejmujemy 1."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Dawny … bez wskazówek: godzinę pokazywał cień kija wbitego w ziemię. Cień był najkrótszy w południe.",
+          "a": "zegar słoneczny",
+          "choices": [
+            "zegar słoneczny",
+            "nasza era",
+            "przed naszą erą"
+          ],
+          "exp": [
+            "nasza era to coś innego: Lata liczone od 1 roku n.e. w przód, czyli 1, 2, 3 i dalej aż do dziś. Im później coś się stało, tym większa jest jego data.",
+            "przed naszą erą to coś innego: Lata sprzed 1 roku n.e., liczone wstecz i zapisywane ze skrótem p.n.e. Im wcześniej coś się stało, tym większa liczba stoi w dacie."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Naczynie, w którym przesypuje się piasek. Odmierza tylko jeden ustalony kawałek czasu, potem trzeba ją obrócić.",
+          "a": "klepsydra",
+          "choices": [
+            "klepsydra",
+            "kalendarz gregoriański",
+            "tysiąclecie"
+          ],
+          "exp": [
+            "kalendarz gregoriański to coś innego: Kalendarz wprowadzony w 1582 roku przez papieża Grzegorza XIII. Żeby dogonić pory roku, opuszczono w nim dziesięć dni października.",
+            "tysiąclecie to coś innego: Okres tysiąca lat. Liczy się go tak jak wiek, więc drugie tysiąclecie trwało do ostatniego dnia 2000 roku."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "… z ciężarkami i kołami zębatymi, zbudowany w średniowieczu. Jego dzwon wybijał każdą pełną godzinę.",
+          "a": "zegar mechaniczny",
+          "choices": [
+            "zegar mechaniczny",
+            "przed naszą erą",
+            "kalendarz gregoriański"
+          ],
+          "exp": [
+            "przed naszą erą to coś innego: Lata sprzed 1 roku n.e., liczone wstecz i zapisywane ze skrótem p.n.e. Im wcześniej coś się stało, tym większa liczba stoi w dacie.",
+            "kalendarz gregoriański to coś innego: Kalendarz wprowadzony w 1582 roku przez papieża Grzegorza XIII. Żeby dogonić pory roku, opuszczono w nim dziesięć dni października."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Najstarszy …: miał 12 miesięcy, bo … mniej więcej co 29 dni przechodzi wszystkie fazy. Okazał się za krótki.",
+          "a": "kalendarz księżycowy",
+          "choices": [
+            "kalendarz księżycowy",
+            "cyfry rzymskie",
+            "przed naszą erą"
+          ],
+          "exp": [
+            "cyfry rzymskie to coś innego: Znaki, którymi zwykle zapisuje się numer wieku, na przykład I, V, X, XV, XXI.",
+            "przed naszą erą to coś innego: Lata sprzed 1 roku n.e., liczone wstecz i zapisywane ze skrótem p.n.e. Im wcześniej coś się stało, tym większa liczba stoi w dacie."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Czas jednego pełnego okrążenia Ziemi wokół Słońca. Egipcjanie, obserwując wylewy Nilu, ustalili go na około 365 dni.",
+          "a": "rok słoneczny",
+          "choices": [
+            "rok słoneczny",
+            "nasza era",
+            "przed naszą erą"
+          ],
+          "exp": [
+            "nasza era to coś innego: Lata liczone od 1 roku n.e. w przód, czyli 1, 2, 3 i dalej aż do dziś. Im później coś się stało, tym większa jest jego data.",
+            "przed naszą erą to coś innego: Lata sprzed 1 roku n.e., liczone wstecz i zapisywane ze skrótem p.n.e. Im wcześniej coś się stało, tym większa liczba stoi w dacie."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "… poprawiony przez Juliusza Cezara w I wieku p.n.e. Co cztery lata dochodzi w nim dodatkowy dzień, 29 lutego, a taki rok nazywamy przestępnym.",
+          "a": "kalendarz juliański",
+          "choices": [
+            "kalendarz juliański",
+            "nasza era",
+            "kalendarz księżycowy"
+          ],
+          "exp": [
+            "nasza era to coś innego: Lata liczone od 1 roku n.e. w przód, czyli 1, 2, 3 i dalej aż do dziś. Im później coś się stało, tym większa jest jego data.",
+            "kalendarz księżycowy to coś innego: Najstarszy kalendarz: miał 12 miesięcy, bo Księżyc mniej więcej co 29 dni przechodzi wszystkie fazy. Okazał się za krótki."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "… wprowadzony w 1582 roku przez papieża Grzegorza XIII. Żeby dogonić pory roku, opuszczono w nim dziesięć dni października.",
+          "a": "kalendarz gregoriański",
+          "choices": [
+            "kalendarz gregoriański",
+            "kalendarz księżycowy",
+            "rok słoneczny"
+          ],
+          "exp": [
+            "kalendarz księżycowy to coś innego: Najstarszy kalendarz: miał 12 miesięcy, bo Księżyc mniej więcej co 29 dni przechodzi wszystkie fazy. Okazał się za krótki.",
+            "rok słoneczny to coś innego: Czas jednego pełnego okrążenia Ziemi wokół Słońca. Egipcjanie, obserwując wylewy Nilu, ustalili go na około 365 dni."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wybor",
+      "tytul": "Test wyboru",
+      "polecenie": "Wybierz poprawną odpowiedź.",
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "W którym wieku był rok 1928?",
+          "a": "XX wiek",
+          "choices": [
+            "XIX wiek",
+            "XX wiek",
+            "XXI wiek"
+          ],
+          "exp": [
+            "Zostaje 19, a 19 + 1 = 20, więc XX wiek.",
+            "Częsty błąd: XIX wiek – bez dodania jedynki"
+          ],
+          "zrodlo": "str. 27, „Ustal, który to wiek.”, karta o Halinie Konopackiej"
+        },
+        {
+          "kind": "wybor",
+          "e": "Który rok był pierwszym rokiem XX wieku?",
+          "a": "1901",
+          "choices": [
+            "1900",
+            "2000",
+            "1901"
+          ],
+          "exp": [
+            "Wiek naszej ery startuje rokiem z końcówką 01.",
+            "Częsty błąd: 1900 – rok z dwoma zerami zamyka XIX wiek"
+          ],
+          "zrodlo": "ramka „W skrócie” pkt 2"
+        },
+        {
+          "kind": "wybor",
+          "e": "Bitwa pod Termopilami rozegrała się w 480 roku p.n.e. Który to wiek?",
+          "a": "V wiek p.n.e.",
+          "choices": [
+            "IV wiek p.n.e.",
+            "V wiek p.n.e.",
+            "VI wiek p.n.e."
+          ],
+          "exp": [
+            "Zostaje 4, a 4 + 1 = 5, więc V wiek p.n.e.",
+            "Częsty błąd: IV wiek p.n.e. – zapomniana jedynka"
+          ],
+          "zrodlo": "str. 27, „Ustal, który to wiek.”, karta o Termopilach"
+        },
+        {
+          "kind": "wybor",
+          "e": "Do którego wieku należy rok 1301?",
+          "a": "XIV wiek",
+          "choices": [
+            "XIII wiek",
+            "XIV wiek",
+            "XII wiek"
+          ],
+          "exp": [
+            "Rok zaraz po pełnej setce otwiera nowy wiek: 13 + 1 = 14.",
+            "Częsty błąd: XIII wiek – pomylenie z rokiem 1300"
+          ],
+          "zrodlo": "str. 26, „Który to wiek?” (reguła); ramka „W skrócie” pkt 2 i 4"
+        },
+        {
+          "kind": "wybor",
+          "e": "Ile lat żyła Kleopatra VII, urodzona w 69 roku p.n.e., zmarła w 30 roku p.n.e.?",
+          "a": "39 lat",
+          "choices": [
+            "99 lat",
+            "39 lat",
+            "38 lat"
+          ],
+          "exp": [
+            "Obie daty są sprzed naszej ery, więc wystarczy 69 − 30.",
+            "Częsty błąd: dodanie dat albo odjęcie jedynki, która przysługuje tylko przy dwóch erach"
+          ],
+          "zrodlo": "str. 25, „A co z wydarzeniami sprzed naszej ery?”, „Obliczenia:”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Kto sprawił, że co cztery lata w kalendarzu pojawia się 29 lutego?",
+          "a": "Juliusz Cezar",
+          "choices": [
+            "Juliusz Cezar",
+            "papież Grzegorz XIII",
+            "Kleopatra VII"
+          ],
+          "exp": [
+            "Zrobił to Juliusz Cezar w I wieku p.n.e.; powstał kalendarz juliański.",
+            "Częsty błąd: wybranie papieża, który dużo później wprowadził kalendarz gregoriański"
+          ],
+          "zrodlo": "str. 29, „Kalendarz podyktowany przez… rzekę”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Ile lat dzieli rok 1795 od roku 1918?",
+          "a": "123",
+          "choices": [
+            "123",
+            "122",
+            "3713"
+          ],
+          "exp": [
+            "Obie daty są z naszej ery: 1918 − 1795 = 123.",
+            "Częsty błąd: odjęcie jedynki, choć daty są z tej samej ery"
+          ],
+          "zrodlo": "str. 27, „Czy już umiem?” pkt 1"
+        }
+      ]
+    },
+    {
+      "id": "prawda-falsz",
+      "tytul": "Prawda czy fałsz",
+      "polecenie": "Czy to zdanie jest prawdziwe?",
+      "zadania": [
+        {
+          "kind": "pf",
+          "e": "Rok 1300 należy do XIII wieku.",
+          "a": true,
+          "exp": [
+            "Dwa zera na końcu, więc bez dodawania: 13 → XIII.",
+            "Częsty błąd: dopisanie jedynki i wybranie XIV wieku"
+          ],
+          "zrodlo": "str. 26, schemat „1300 rok → 13 → XIII wiek”"
+        },
+        {
+          "kind": "pf",
+          "e": "Pomiędzy 1 rokiem p.n.e. a 1 rokiem n.e. był jeszcze rok zerowy.",
+          "a": false,
+          "exp": [
+            "Takiego roku nie było – po 1 roku p.n.e. od razu przyszedł 1 rok n.e.",
+            "Częsty błąd: wyobrażanie sobie osi czasu jak linijki z zerem"
+          ],
+          "zrodlo": "str. 25, niebieska ramka pod osią; str. 26, komiks z jedynkami"
+        },
+        {
+          "kind": "pf",
+          "e": "Gdy obie daty są sprzed naszej ery, od większej liczby odejmujemy mniejszą.",
+          "a": true,
+          "exp": [
+            "Większa liczba to tu wcześniejsze wydarzenie, więc odejmujemy od niej późniejsze.",
+            "Częsty błąd: odejmowanie jedynki albo dodawanie dat"
+          ],
+          "zrodlo": "str. 25, „A co z wydarzeniami sprzed naszej ery?”"
+        },
+        {
+          "kind": "pf",
+          "e": "Drugie tysiąclecie skończyło się 31 grudnia 1999 roku.",
+          "a": false,
+          "exp": [
+            "Tysiąclecia liczy się jak wieki, więc drugie trwało do 31 grudnia 2000 roku.",
+            "Częsty błąd: świętowanie nowego tysiąclecia o rok za wcześnie"
+          ],
+          "zrodlo": "str. 26, ramka „Ciekawostka” – „Kiedy kończą się tysiąclecia?”"
+        },
+        {
+          "kind": "pf",
+          "e": "Pierwsze zegary mechaniczne zbudowali starożytni Egipcjanie.",
+          "a": false,
+          "exp": [
+            "Egipcjanie posługiwali się cieniem; zegary mechaniczne pojawiły się dopiero w średniowieczu.",
+            "Częsty błąd: pomylenie zegara słonecznego z mechanicznym"
+          ],
+          "zrodlo": "str. 28, „Kiedy cień mówił…” i „Od wieżowych dzwonów po zegarki cyfrowe”"
+        },
+        {
+          "kind": "pf",
+          "e": "Jesienią 1582 roku w wielu państwach Europy kalendarz przeskoczył z 4 na 15 października.",
+          "a": true,
+          "exp": [
+            "Nowy kalendarz gregoriański pominął dziesięć dni, żeby zgadzał się z porami roku.",
+            "Częsty błąd: myślenie, że daty w kalendarzu nigdy nie były przestawiane"
+          ],
+          "zrodlo": "str. 29, „Gdzie zniknęło 10 dni?”"
+        }
+      ]
+    },
+    {
+      "id": "uzupelnij",
+      "tytul": "Uzupełnij",
+      "polecenie": "Wpisz brakujące pojęcie.",
+      "zadania": [
+        {
+          "kind": "wpisz",
+          "e": "Między erami nie ma roku ___, dlatego po 1 roku p.n.e. od razu jest 1 rok n.e.",
+          "a": "zerowego",
+          "inne": [
+            "zero",
+            "0"
+          ],
+          "exp": [
+            "Rok zerowy nigdy nie istniał.",
+            "Częsty błąd: wpisanie, że brakuje roku pierwszego"
+          ],
+          "zrodlo": "str. 25"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Gdy daty leżą w dwóch różnych erach, dodajemy je do siebie i odejmujemy ___.",
+          "a": "1",
+          "inne": [
+            "jeden",
+            "jedynkę",
+            "jedynke"
+          ],
+          "exp": [
+            "Jedynkę odejmujemy za brakujący rok zerowy.",
+            "Częsty błąd: wpisanie 0 albo pominięcie odejmowania"
+          ],
+          "zrodlo": "ramka „W skrócie” pkt 1"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Kazimierz Wielki urodził się w 1310 roku, a królem został w 1333 roku, mając ___ lat.",
+          "a": "23",
+          "inne": [
+            "dwadzieścia trzy",
+            "dwudziestu trzech"
+          ],
+          "exp": [
+            "1333 − 1310 = 23.",
+            "Częsty błąd: dodanie zamiast odejmowania"
+          ],
+          "zrodlo": "str. 24, tekst i „Obliczenia:”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Pierwszym dniem XXI wieku był 1 stycznia ___ roku.",
+          "a": "2001",
+          "inne": [],
+          "exp": [
+            "Wiek naszej ery zaczyna się rokiem z końcówką 01.",
+            "Częsty błąd: wpisanie 2000, który jeszcze należy do XX wieku"
+          ],
+          "zrodlo": "str. 26, ramka „?”; ramka „W skrócie” pkt 2"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Inna nazwa wieku to ___.",
+          "a": "stulecie",
+          "inne": [],
+          "exp": [
+            "Wiek trwa sto lat, stąd stulecie.",
+            "Częsty błąd: wpisanie „tysiąclecie”, które trwa tysiąc lat"
+          ],
+          "zrodlo": "str. 26, „Kiedy zaczyna się i kończy wiek?”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "I wiek p.n.e. zaczął się w ___ roku p.n.e., a skończył w 1 roku p.n.e.",
+          "a": "100",
+          "inne": [
+            "setnym"
+          ],
+          "exp": [
+            "Przed naszą erą wiek otwiera rok z końcówką 00.",
+            "Częsty błąd: wpisanie 99 albo 101"
+          ],
+          "zrodlo": "str. 26, lista i oś wieków; ramka „W skrócie” pkt 3"
+        }
+      ]
+    },
+    {
+      "id": "pytania",
+      "tytul": "Pytania z podręcznika",
+      "polecenie": "Odpowiedz w myślach albo na głos, potem sprawdź.",
+      "zadania": [
+        {
+          "kind": "otwarte",
+          "e": "Oktawian August przyszedł na świat w 63 roku p.n.e., umarł zaś w 14 roku n.e. Ile lat żył?",
+          "a": "76 lat: daty są z dwóch er, więc 63 + 14 = 77, a potem odejmujemy 1.",
+          "blad": "wynik 77, czyli samo dodanie dat bez odjęcia jedynki za brakujący rok zerowy",
+          "zrodlo": "str. 25, „A jeśli mamy wydarzenia z różnych er?”, oś i „Obliczenia:”; ramka „W skrócie” pkt 1"
+        },
+        {
+          "kind": "otwarte",
+          "e": "W którym wieku był rok 1111?",
+          "a": "W XII wieku: po zasłonięciu dwóch ostatnich cyfr zostaje 11, a 11 + 1 = 12.",
+          "blad": "XI wiek – zapomniana jedynka",
+          "zrodlo": "str. 26, „Który to wiek?”; ramka „W skrócie” pkt 4 (reguła)"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Do którego wieku należy rok 1000?",
+          "a": "Do X wieku, bo rok kończy się na 00, więc jedynki nie dodajemy.",
+          "blad": "XI wiek – dodanie jedynki mimo dwóch zer na końcu",
+          "zrodlo": "ramka „W skrócie” pkt 4 (przykład 1000 rok → X wiek); str. 27, karta o Bolesławie Chrobrym"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Ile lat żył Kazimierz Wielki (1310–1370) i ile lat był królem (od 1333)?",
+          "a": "Żył 60 lat (1370 − 1310), a rządził 37 lat (1370 − 1333).",
+          "blad": "odejmowanie w złą stronę albo pomylenie roku koronacji z rokiem urodzin",
+          "zrodlo": "str. 24, ramka „?” pod osią czasu"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Kleopatra VII przyszła na świat w 69 roku p.n.e. Ile miała lat, gdy w 51 roku p.n.e. objęła tron?",
+          "a": "18 lat: obie daty są sprzed naszej ery, więc 69 − 51 = 18.",
+          "blad": "dodanie dat (120) albo odjęcie jedynki, choć obie daty leżą w tej samej erze",
+          "zrodlo": "str. 25, ramka „?” pod osią Kleopatry"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Oktawian August rządził od 27 roku p.n.e. aż do śmierci w 14 roku n.e. Ile lat trwało jego panowanie?",
+          "a": "40 lat: 27 + 14 = 41, minus 1, bo nie było roku zerowego.",
+          "blad": "41 lat albo 13 lat (27 − 14)",
+          "zrodlo": "str. 25, ramka „?” na dole strony"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Od kiedy do kiedy trwa XXI wiek?",
+          "a": "Zaczął się z początkiem 2001 roku (1 stycznia), a skończy się wraz z końcem 2100 roku (31 grudnia).",
+          "blad": "podanie 2000 roku jako pierwszego roku XXI wieku",
+          "zrodlo": "str. 26, ramka „?”; ramka „W skrócie” pkt 2"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Jak szybko sprawdzić, w którym wieku była dana data?",
+          "a": "Zasłaniam dwie ostatnie cyfry i do reszty dodaję 1, chyba że rok kończy się na 00 – wtedy nic nie dodaję.",
+          "blad": "pominięcie wyjątku z dwoma zerami albo zapominanie o dodaniu jedynki",
+          "zrodlo": "str. 26, „Który to wiek?”; ramka „W skrócie” pkt 4"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Które wieki zaczynały się w roku 300 p.n.e., w roku 301 n.e. i w roku 1001?",
+          "a": "Rok 300 p.n.e. otwierał III wiek p.n.e., rok 301 – IV wiek, a rok 1001 – XI wiek.",
+          "blad": "przypisanie roku 301 do III wieku albo roku 1001 do X wieku",
+          "zrodlo": "str. 27, „Czy już umiem?” pkt 2; ramka „W skrócie” pkt 2 i 3"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Dlaczego rok księżycowy okazał się za krótki?",
+          "a": "Dwanaście pełni Księżyca, po około 29 dni, nie wypełnia całego okrążenia Ziemi wokół Słońca, więc pory roku zaczęły się przesuwać.",
+          "blad": "myślenie, że rok księżycowy był za długi",
+          "zrodlo": "str. 29, „Kalendarz, czyli jak nie pogubić się w czasie”; ramka „?” pkt 2"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Jak ludzie mierzyli czas, zanim powstały zegary mechaniczne?",
+          "a": "Patrzyli na słońce i na cień kija w zegarze słonecznym, a nocą lub w pochmurny dzień używali klepsydry z piaskiem.",
+          "blad": "wymienienie zegarka kieszonkowego, który powstał dopiero później",
+          "zrodlo": "str. 28, „Kiedy cień mówił, która godzina”; str. 29, ramka „?” pkt 1"
+        }
+      ]
+    }
+  ]
+}

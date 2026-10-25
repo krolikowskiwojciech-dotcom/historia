@@ -31,6 +31,138 @@
       "nagrania": 0,
       "prywatne": null,
       "sciaga": true
+    },
+    {
+      "id": "hist-dz1-l01-pierwsza-lekcja-historii",
+      "tytul": "Pierwsza lekcja historii",
+      "opis": "Historia na start: czym jest i czym różni się od baśni",
+      "dla": [
+        "aniela"
+      ],
+      "termin": null,
+      "dodano": "2026-10-25",
+      "dzial": "I",
+      "dzialTytul": "Z historią na ty",
+      "lekcja": 1,
+      "typ": null,
+      "strony": "8–10",
+      "ikona": "ksiazka",
+      "kolor": "brzoskwinia",
+      "bloki": 5,
+      "zadan": 38,
+      "nagrania": 0,
+      "prywatne": null,
+      "sciaga": true
+    },
+    {
+      "id": "hist-dz1-l02-historia-nauka-o-przeszlosci",
+      "tytul": "Historia — nauka o przeszłości",
+      "opis": "Jak poznajemy przeszłość — źródła, praca historyka, przyczyny i skutki",
+      "dla": [
+        "aniela"
+      ],
+      "termin": null,
+      "dodano": "2026-10-25",
+      "dzial": "I",
+      "dzialTytul": "Z historią na ty",
+      "lekcja": 2,
+      "typ": null,
+      "strony": "11–14",
+      "ikona": "pioro",
+      "kolor": "mietowy",
+      "bloki": 5,
+      "zadan": 38,
+      "nagrania": 0,
+      "prywatne": null,
+      "sciaga": true
+    },
+    {
+      "id": "hist-dz1-l03-historia-mojej-rodziny",
+      "tytul": "Historia mojej rodziny",
+      "opis": "Moja rodzina i jej dzieje: pamiątki, drzewo i tradycje",
+      "dla": [
+        "aniela"
+      ],
+      "termin": null,
+      "dodano": "2026-10-25",
+      "dzial": "I",
+      "dzialTytul": "Z historią na ty",
+      "lekcja": 3,
+      "typ": null,
+      "strony": "15–17",
+      "ikona": "ksiazka",
+      "kolor": "lila",
+      "bloki": 5,
+      "zadan": 38,
+      "nagrania": 0,
+      "prywatne": null,
+      "sciaga": true
+    },
+    {
+      "id": "hist-dz1-l04-czas-w-historii",
+      "tytul": "Czas w historii",
+      "opis": "Jak liczymy czas w dziejach — oś, epoki i cyfry rzymskie",
+      "dla": [
+        "aniela"
+      ],
+      "termin": null,
+      "dodano": "2026-10-25",
+      "dzial": "I",
+      "dzialTytul": "Z historią na ty",
+      "lekcja": 4,
+      "typ": null,
+      "strony": "18–23",
+      "ikona": "klepsydra",
+      "kolor": "zolty",
+      "bloki": 5,
+      "zadan": 38,
+      "nagrania": 0,
+      "prywatne": null,
+      "sciaga": true
+    },
+    {
+      "id": "hist-dz1-l05-obliczanie-czasu-w-historii",
+      "tytul": "Obliczanie czasu w historii",
+      "opis": "Rachunki czasu w historii: lata, ery i wieki",
+      "dla": [
+        "aniela"
+      ],
+      "termin": null,
+      "dodano": "2026-10-25",
+      "dzial": "I",
+      "dzialTytul": "Z historią na ty",
+      "lekcja": 5,
+      "typ": null,
+      "strony": "24–29",
+      "ikona": "klepsydra",
+      "kolor": "niebieski",
+      "bloki": 5,
+      "zadan": 38,
+      "nagrania": 0,
+      "prywatne": null,
+      "sciaga": true
+    },
+    {
+      "id": "hist-dz1-l06-podsumowanie-dzialu",
+      "tytul": "Podsumowanie i sprawdź wiedzę",
+      "opis": "Powtórka całego działu: historia, źródła, rodzina i liczenie czasu",
+      "dla": [
+        "aniela"
+      ],
+      "termin": null,
+      "dodano": "2026-10-25",
+      "dzial": "I",
+      "dzialTytul": "Z historią na ty",
+      "lekcja": null,
+      "typ": "podsumowanie",
+      "strony": "30–34",
+      "ikona": "mapa",
+      "kolor": "rozowy",
+      "bloki": 5,
+      "zadan": 38,
+      "nagrania": 0,
+      "prywatne": null,
+      "sciaga": true
     }
   ]
 }

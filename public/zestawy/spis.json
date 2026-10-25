@@ -1,4 +1,170 @@
 {
-  "_opis": "Układ podręcznika historii Anieli (klasa 4): działy i lekcje ze stronami. Na razie pusty — import z lekcje-audio sam dopisuje lekcje; tematy i strony popraw według spisu treści, gdy przyjdą zdjęcia.",
-  "dzialy": []
+  "_opis": "Układ podręcznika „Wczoraj i dziś 4” (Nowa Era) — patrz lekcje-audio/podreczniki/klasa4_historia.md: działy i lekcje ze stronami. Lekcja jest gotowa, gdy jest zestaw z tym samym „dzial” i „lekcja” (albo „typ”: podsumowanie | test). Działy II–V wg wymagań edukacyjnych do tej edycji (strony uzupełnić ze zdjęć); temat IV.2 roboczy.",
+  "dzialy": [
+    {
+      "nr": "I",
+      "tytul": "Z historią na ty",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Pierwsza lekcja historii",
+          "strony": "8–10"
+        },
+        {
+          "nr": 2,
+          "temat": "Historia — nauka o przeszłości",
+          "strony": "11–14"
+        },
+        {
+          "nr": 3,
+          "temat": "Historia mojej rodziny",
+          "strony": "15–17"
+        },
+        {
+          "nr": 4,
+          "temat": "Czas w historii",
+          "strony": "18–23"
+        },
+        {
+          "nr": 5,
+          "temat": "Obliczanie czasu w historii",
+          "strony": "24–29"
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie i sprawdź wiedzę",
+          "strony": "30–34"
+        }
+      ]
+    },
+    {
+      "nr": "II",
+      "tytul": "Mała i duża ojczyzna",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Mieszkamy w Polsce",
+          "strony": ""
+        },
+        {
+          "nr": 2,
+          "temat": "Moja mała ojczyzna",
+          "strony": ""
+        },
+        {
+          "nr": 3,
+          "temat": "Historia mojej okolicy",
+          "strony": ""
+        },
+        {
+          "nr": 4,
+          "temat": "Jak korzystać z mapy historycznej?",
+          "strony": ""
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie i sprawdź wiedzę",
+          "strony": ""
+        }
+      ]
+    },
+    {
+      "nr": "III",
+      "tytul": "Z najdawniejszych dziejów",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Jak żyli pierwsi ludzie?",
+          "strony": ""
+        },
+        {
+          "nr": 2,
+          "temat": "Pierwsze cywilizacje",
+          "strony": ""
+        },
+        {
+          "nr": 3,
+          "temat": "W starożytnym Egipcie",
+          "strony": ""
+        },
+        {
+          "nr": 4,
+          "temat": "Osiągnięcia starożytnych Egipcjan",
+          "strony": ""
+        },
+        {
+          "nr": 5,
+          "temat": "Od hieroglifów do alfabetu",
+          "strony": ""
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie i sprawdź wiedzę",
+          "strony": ""
+        }
+      ]
+    },
+    {
+      "nr": "IV",
+      "tytul": "W starożytnej Grecji",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Świat starożytnych Greków",
+          "strony": ""
+        },
+        {
+          "nr": 2,
+          "temat": "Demokracja w Atenach",
+          "strony": ""
+        },
+        {
+          "nr": 3,
+          "temat": "Osiągnięcia starożytnych Greków",
+          "strony": ""
+        },
+        {
+          "nr": 4,
+          "temat": "W greckim teatrze i na stadionie",
+          "strony": ""
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie i sprawdź wiedzę",
+          "strony": ""
+        }
+      ]
+    },
+    {
+      "nr": "V",
+      "tytul": "Dzieje starożytnego Rzymu",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Jak powstało Cesarstwo Rzymskie?",
+          "strony": ""
+        },
+        {
+          "nr": 2,
+          "temat": "W starożytnym Rzymie",
+          "strony": ""
+        },
+        {
+          "nr": 3,
+          "temat": "Dziedzictwo Cesarstwa Rzymskiego",
+          "strony": ""
+        },
+        {
+          "nr": 4,
+          "temat": "Początki chrześcijaństwa",
+          "strony": ""
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie i sprawdź wiedzę",
+          "strony": ""
+        }
+      ]
+    }
+  ]
 }

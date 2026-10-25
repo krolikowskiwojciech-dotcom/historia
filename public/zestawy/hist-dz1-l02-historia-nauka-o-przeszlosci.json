@@ -1,0 +1,621 @@
+{
+  "id": "hist-dz1-l02-historia-nauka-o-przeszlosci",
+  "zrodlo": "lekcje-audio",
+  "dla": [
+    "aniela"
+  ],
+  "tytul": "Historia — nauka o przeszłości",
+  "opis": "Jak poznajemy przeszłość — źródła, praca historyka, przyczyny i skutki",
+  "dzial": "I",
+  "dzialTytul": "Z historią na ty",
+  "lekcja": 2,
+  "strony": "11–14",
+  "dodano": "2026-10-25",
+  "termin": null,
+  "ikona": "pioro",
+  "kolor": "mietowy",
+  "ocena": true,
+  "sciaga": [
+    "Historycy badają przeszłość: zbierają wiadomości o dawnych wydarzeniach, próbują pojąć, co one znaczyły, i opisują je.",
+    "Wiedzę o dawnych czasach historycy biorą ze źródeł historycznych. Źródłem może być każdy ślad, który zostawił po sobie człowiek.",
+    "Takie ślady bywają bardzo różne: opasła kronika albo krótka karteczka, okazała budowla albo skorupy garnka, stara gazeta albo wspomnienia kogoś starszego. Każdy z nich mówi coś o minionych czasach.",
+    "To, co ludzie wytwarzają dziś, kiedyś także może stać się źródłem historycznym, na przykład rzeczy z twojego plecaka.",
+    "Źródło może być maleńkie. Nazwa „Polska” pojawia się po raz pierwszy na monecie bitej za panowania króla Bolesława Chrobrego, tysiąc lat temu. Moneta ma średnicę tylko 19 mm.",
+    "Archeolodzy wspierają historyków. Szukają materialnych śladów dawnych ludzi, rozpoznają je, opisują i ustalają, kiedy powstały.",
+    "Ważną metodą archeologów są wykopaliska, czyli odkopywanie przedmiotów schowanych w ziemi. Ta praca wymaga dużej cierpliwości.",
+    "Dzięki archeologom wiemy, jak kiedyś stawiano domy, jakimi narzędziami pracowano, a nawet co jadano. Rzeczy, które wykopują, są źródłami historycznymi, bo to ślady działalności człowieka.",
+    "Źródła historyczne dzielimy na materialne i niematerialne. Materialne mogą być pisane albo niepisane, a niematerialnych nie da się dotknąć.",
+    "Źródła materialne pisane to na przykład dawne księgi i kroniki, dokumenty i zbiory praw, listy, pamiętniki, gazety, mapy oraz napisy na budynkach czy pomnikach. Ze starych gazet dowiesz się, co dawniej ciekawiło ludzi.",
+    "Źródła materialne niepisane to na przykład budowle i ich ruiny, obrazy i rzeźby, ubrania, biżuteria i broń, zdjęcia i filmy, a także rzeczy używane na co dzień. Z dzieł sztuki można poznać historię mody.",
+    "Źródła niematerialne to tradycja, obyczaje i przekazy ustne, czyli opowieści i pieśni. Do naszej tradycji należą na przykład potrawy wigilijne.",
+    "Źródłom nie zawsze można wierzyć. W kronikach trafiają się nieprawdziwe wiadomości, dokumenty bywają podrobione, czyli sfałszowane, a świadkowie zapominają szczegóły albo podają własne zdanie jako fakt.",
+    "Dlatego historycy oceniają wiarygodność źródła, czyli to, na ile można mu ufać. Najpierw ustalają, kto je stworzył, kiedy i po co. Potem zestawiają jego treść z innymi relacjami i wiadomościami.",
+    "Przykład: Wincenty Kadłubek w kronice sprzed 800 lat napisał, że wojska polskie pokonały armię niemiecką w bitwie na Psim Polu. Psie Pole to dziś dzielnica Wrocławia.",
+    "Historyk sprawdza taką wzmiankę w pięciu krokach: wzmianka w kronice, pierwsze pytania, porównanie źródeł, badanie stanu wiedzy i wyciąganie wniosków.",
+    "Przy Psim Polu okazało się, że wcześniejsi kronikarze nic o tej bitwie nie piszą, a archeolodzy nie natrafili na jej ślady. Wniosek historyka: bitwy na Psim Polu nie było.",
+    "Na koniec historyk dzieli się wnioskami ze światem: opisuje je w artykule albo w całej publikacji.",
+    "Historycy często pytają: dlaczego? Szukają przyczyn, czyli działań i zdarzeń, które doprowadziły do danego wydarzenia. Badają też skutki, czyli zmiany, które ono potem wywołało.",
+    "Przyczyny wynalezienia druku: księgi powstawały powoli, bo pisano je ręcznie, i kosztowały bardzo dużo.",
+    "Druk wynalazł Jan Gutenberg, drukarz z Niemiec. Skutki: księgi potaniały, rozwinęło się szkolnictwo, a także kultura i literatura. Druk uważa się za jeden z najważniejszych wynalazków ludzkości.",
+    "Związki przyczynowo-skutkowe łączą wydarzenia z przeszłości, które bezpośrednio na siebie wpływały: jedno z nich doprowadziło do następnego."
+  ],
+  "definicje": {
+    "historyk": "Badacz przeszłości. Zbiera wiadomości o dawnych wydarzeniach, próbuje pojąć, co znaczyły, i je opisuje.",
+    "źródła historyczne": "Wszystko, z czego historyk czerpie wiedzę o dawnych czasach. Może to być każdy ślad, jaki zostawili po sobie ludzie.",
+    "archeolog": "Badacz, który pomaga historykom. Szuka materialnych śladów dawnych ludzi, rozpoznaje je, opisuje i ustala, kiedy powstały.",
+    "wykopaliska": "Ważna metoda pracy archeologów: odkopywanie przedmiotów schowanych w ziemi. Wymagają dużo cierpliwości.",
+    "źródła materialne": "Źródła, które da się dotknąć. Dzielą się na pisane i niepisane.",
+    "źródła pisane": "Źródła materialne z tekstem, na przykład kroniki, dokumenty, listy, pamiętniki, gazety, mapy czy napisy na pomnikach.",
+    "źródła niepisane": "Źródła materialne bez tekstu, na przykład budowle i ruiny, obrazy, rzeźby, ubrania, broń, zdjęcia, filmy i rzeczy codziennego użytku.",
+    "źródła niematerialne": "Źródła, których nie da się dotknąć: tradycja, obyczaje i przekazy ustne.",
+    "przekazy ustne": "Opowieści i pieśni przekazywane słowami, z ust do ust. Należą do źródeł niematerialnych.",
+    "wiarygodność źródła": "To, na ile można ufać źródłu i informacjom w nim zapisanym. Historyk ją sprawdza, zanim uzna źródło za pewne.",
+    "bitwa na Psim Polu": "Starcie wojsk polskich z niemieckimi, które opisał Wincenty Kadłubek w kronice sprzed 800 lat. Historyk po sprawdzeniu innych źródeł doszedł do wniosku, że tej bitwy nie było.",
+    "druk": "Wynalazek niemieckiego drukarza Jana Gutenberga, uważany za jeden z najważniejszych w dziejach ludzkości. Dzięki niemu księgi potaniały.",
+    "przyczyny": "Działania albo zdarzenia, które sprawiły, że coś się wydarzyło. Odpowiadają na pytanie: dlaczego?",
+    "skutki": "Zmiany, które wydarzenie wywołało później. Odpowiadają na pytanie: co z tego wynikło?",
+    "związki przyczynowo-skutkowe": "Powiązania między dawnymi wydarzeniami, które bezpośrednio na siebie wpływały: jedno doprowadziło do następnego."
+  },
+  "bloki": [
+    {
+      "id": "pojecia",
+      "tytul": "Pojęcia z lekcji",
+      "polecenie": "Które pojęcie pasuje do opisu?",
+      "ile": 8,
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Badacz przeszłości. Zbiera wiadomości o dawnych wydarzeniach, próbuje pojąć, co znaczyły, i je opisuje.",
+          "a": "historyk",
+          "choices": [
+            "historyk",
+            "źródła niematerialne",
+            "źródła niepisane"
+          ],
+          "exp": [
+            "źródła niematerialne to coś innego: Źródła, których nie da się dotknąć: tradycja, obyczaje i przekazy ustne.",
+            "źródła niepisane to coś innego: Źródła materialne bez tekstu, na przykład budowle i ruiny, obrazy, rzeźby, ubrania, broń, zdjęcia, filmy i rzeczy codziennego użytku."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Wszystko, z czego historyk czerpie wiedzę o dawnych czasach. Może to być każdy ślad, jaki zostawili po sobie ludzie.",
+          "a": "źródła historyczne",
+          "choices": [
+            "źródła historyczne",
+            "bitwa na Psim Polu",
+            "źródła niematerialne"
+          ],
+          "exp": [
+            "bitwa na Psim Polu to coś innego: Starcie wojsk polskich z niemieckimi, które opisał Wincenty Kadłubek w kronice sprzed 800 lat. Historyk po sprawdzeniu innych źródeł doszedł do wniosku, że tej bitwy nie było.",
+            "źródła niematerialne to coś innego: Źródła, których nie da się dotknąć: tradycja, obyczaje i przekazy ustne."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Badacz, który pomaga historykom. Szuka materialnych śladów dawnych ludzi, rozpoznaje je, opisuje i ustala, kiedy powstały.",
+          "a": "archeolog",
+          "choices": [
+            "archeolog",
+            "skutki",
+            "źródła materialne"
+          ],
+          "exp": [
+            "skutki to coś innego: Zmiany, które wydarzenie wywołało później. Odpowiadają na pytanie: co z tego wynikło?",
+            "źródła materialne to coś innego: Źródła, które da się dotknąć. Dzielą się na pisane i niepisane."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Ważna metoda pracy archeologów: odkopywanie przedmiotów schowanych w ziemi. Wymagają dużo cierpliwości.",
+          "a": "wykopaliska",
+          "choices": [
+            "wykopaliska",
+            "źródła niepisane",
+            "źródła pisane"
+          ],
+          "exp": [
+            "źródła niepisane to coś innego: Źródła materialne bez tekstu, na przykład budowle i ruiny, obrazy, rzeźby, ubrania, broń, zdjęcia, filmy i rzeczy codziennego użytku.",
+            "źródła pisane to coś innego: Źródła materialne z tekstem, na przykład kroniki, dokumenty, listy, pamiętniki, gazety, mapy czy napisy na pomnikach."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "…, które da się dotknąć. Dzielą się na pisane i niepisane.",
+          "a": "źródła materialne",
+          "choices": [
+            "źródła materialne",
+            "archeolog",
+            "skutki"
+          ],
+          "exp": [
+            "archeolog to coś innego: Badacz, który pomaga historykom. Szuka materialnych śladów dawnych ludzi, rozpoznaje je, opisuje i ustala, kiedy powstały.",
+            "skutki to coś innego: Zmiany, które wydarzenie wywołało później. Odpowiadają na pytanie: co z tego wynikło?"
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "… materialne z tekstem, na przykład kroniki, dokumenty, listy, pamiętniki, gazety, mapy czy napisy na pomnikach.",
+          "a": "źródła pisane",
+          "choices": [
+            "źródła pisane",
+            "związki przyczynowo-skutkowe",
+            "archeolog"
+          ],
+          "exp": [
+            "związki przyczynowo-skutkowe to coś innego: Powiązania między dawnymi wydarzeniami, które bezpośrednio na siebie wpływały: jedno doprowadziło do następnego.",
+            "archeolog to coś innego: Badacz, który pomaga historykom. Szuka materialnych śladów dawnych ludzi, rozpoznaje je, opisuje i ustala, kiedy powstały."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "… materialne bez tekstu, na przykład budowle i ruiny, obrazy, rzeźby, ubrania, broń, zdjęcia, filmy i rzeczy codziennego użytku.",
+          "a": "źródła niepisane",
+          "choices": [
+            "źródła niepisane",
+            "przyczyny",
+            "źródła materialne"
+          ],
+          "exp": [
+            "przyczyny to coś innego: Działania albo zdarzenia, które sprawiły, że coś się wydarzyło. Odpowiadają na pytanie: dlaczego?",
+            "źródła materialne to coś innego: Źródła, które da się dotknąć. Dzielą się na pisane i niepisane."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "…, których nie da się dotknąć: tradycja, obyczaje i przekazy ustne.",
+          "a": "źródła niematerialne",
+          "choices": [
+            "źródła niematerialne",
+            "źródła historyczne",
+            "wykopaliska"
+          ],
+          "exp": [
+            "źródła historyczne to coś innego: Wszystko, z czego historyk czerpie wiedzę o dawnych czasach. Może to być każdy ślad, jaki zostawili po sobie ludzie.",
+            "wykopaliska to coś innego: Ważna metoda pracy archeologów: odkopywanie przedmiotów schowanych w ziemi. Wymagają dużo cierpliwości."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Opowieści i pieśni … słowami, z ust do ust. Należą do źródeł niematerialnych.",
+          "a": "przekazy ustne",
+          "choices": [
+            "przekazy ustne",
+            "skutki",
+            "wykopaliska"
+          ],
+          "exp": [
+            "skutki to coś innego: Zmiany, które wydarzenie wywołało później. Odpowiadają na pytanie: co z tego wynikło?",
+            "wykopaliska to coś innego: Ważna metoda pracy archeologów: odkopywanie przedmiotów schowanych w ziemi. Wymagają dużo cierpliwości."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "To, na ile można ufać … i informacjom w nim zapisanym. Historyk ją sprawdza, zanim uzna … za pewne.",
+          "a": "wiarygodność źródła",
+          "choices": [
+            "wiarygodność źródła",
+            "źródła historyczne",
+            "źródła niepisane"
+          ],
+          "exp": [
+            "źródła historyczne to coś innego: Wszystko, z czego historyk czerpie wiedzę o dawnych czasach. Może to być każdy ślad, jaki zostawili po sobie ludzie.",
+            "źródła niepisane to coś innego: Źródła materialne bez tekstu, na przykład budowle i ruiny, obrazy, rzeźby, ubrania, broń, zdjęcia, filmy i rzeczy codziennego użytku."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Starcie wojsk polskich z niemieckimi, które opisał Wincenty Kadłubek w kronice sprzed 800 lat. Historyk po sprawdzeniu innych źródeł doszedł do wniosku, że tej … nie było.",
+          "a": "bitwa na Psim Polu",
+          "choices": [
+            "bitwa na Psim Polu",
+            "źródła historyczne",
+            "związki przyczynowo-skutkowe"
+          ],
+          "exp": [
+            "źródła historyczne to coś innego: Wszystko, z czego historyk czerpie wiedzę o dawnych czasach. Może to być każdy ślad, jaki zostawili po sobie ludzie.",
+            "związki przyczynowo-skutkowe to coś innego: Powiązania między dawnymi wydarzeniami, które bezpośrednio na siebie wpływały: jedno doprowadziło do następnego."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Wynalazek niemieckiego … Jana Gutenberga, uważany za jeden z najważniejszych w dziejach ludzkości. Dzięki niemu księgi potaniały.",
+          "a": "druk",
+          "choices": [
+            "druk",
+            "źródła historyczne",
+            "wykopaliska"
+          ],
+          "exp": [
+            "źródła historyczne to coś innego: Wszystko, z czego historyk czerpie wiedzę o dawnych czasach. Może to być każdy ślad, jaki zostawili po sobie ludzie.",
+            "wykopaliska to coś innego: Ważna metoda pracy archeologów: odkopywanie przedmiotów schowanych w ziemi. Wymagają dużo cierpliwości."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Działania albo zdarzenia, które sprawiły, że coś się wydarzyło. Odpowiadają na pytanie: dlaczego?",
+          "a": "przyczyny",
+          "choices": [
+            "przyczyny",
+            "archeolog",
+            "bitwa na Psim Polu"
+          ],
+          "exp": [
+            "archeolog to coś innego: Badacz, który pomaga historykom. Szuka materialnych śladów dawnych ludzi, rozpoznaje je, opisuje i ustala, kiedy powstały.",
+            "bitwa na Psim Polu to coś innego: Starcie wojsk polskich z niemieckimi, które opisał Wincenty Kadłubek w kronice sprzed 800 lat. Historyk po sprawdzeniu innych źródeł doszedł do wniosku, że tej bitwy nie było."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Zmiany, które wydarzenie wywołało później. Odpowiadają na pytanie: co z tego wynikło?",
+          "a": "skutki",
+          "choices": [
+            "skutki",
+            "źródła historyczne",
+            "bitwa na Psim Polu"
+          ],
+          "exp": [
+            "źródła historyczne to coś innego: Wszystko, z czego historyk czerpie wiedzę o dawnych czasach. Może to być każdy ślad, jaki zostawili po sobie ludzie.",
+            "bitwa na Psim Polu to coś innego: Starcie wojsk polskich z niemieckimi, które opisał Wincenty Kadłubek w kronice sprzed 800 lat. Historyk po sprawdzeniu innych źródeł doszedł do wniosku, że tej bitwy nie było."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Powiązania między dawnymi wydarzeniami, które bezpośrednio na siebie wpływały: jedno doprowadziło do następnego.",
+          "a": "związki przyczynowo-skutkowe",
+          "choices": [
+            "związki przyczynowo-skutkowe",
+            "wiarygodność źródła",
+            "wykopaliska"
+          ],
+          "exp": [
+            "wiarygodność źródła to coś innego: To, na ile można ufać źródłu i informacjom w nim zapisanym. Historyk ją sprawdza, zanim uzna źródło za pewne.",
+            "wykopaliska to coś innego: Ważna metoda pracy archeologów: odkopywanie przedmiotów schowanych w ziemi. Wymagają dużo cierpliwości."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wybor",
+      "tytul": "Test wyboru",
+      "polecenie": "Wybierz poprawną odpowiedź.",
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Do której grupy źródeł należą przekazy ustne, czyli opowieści i pieśni?",
+          "a": "niematerialne",
+          "choices": [
+            "materialne pisane",
+            "materialne niepisane",
+            "niematerialne"
+          ],
+          "exp": [
+            "Opowieści i pieśni przekazuje się słowami, więc nie da się ich dotknąć.",
+            "Częsty błąd: zaliczenie opowieści do źródeł pisanych"
+          ],
+          "zrodlo": "str. 12, ramka „Źródła niematerialne:”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Kto opisał bitwę na Psim Polu w swojej kronice?",
+          "a": "Wincenty Kadłubek",
+          "choices": [
+            "Jan Gutenberg",
+            "Wincenty Kadłubek",
+            "Bolesław Chrobry"
+          ],
+          "exp": [
+            "Wpis o tej bitwie pochodzi z kroniki Wincentego Kadłubka sprzed 800 lat.",
+            "Częsty błąd: pomylenie kronikarza z wynalazcą druku albo z królem"
+          ],
+          "zrodlo": "str. 13, krok 1 „Wzmianka w kronice”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Które z tych źródeł jest źródłem materialnym niepisanym?",
+          "a": "rzeźba",
+          "choices": [
+            "pamiętnik",
+            "rzeźba",
+            "pieśń"
+          ],
+          "exp": [
+            "Rzeźbę można dotknąć, a nie ma na niej tekstu.",
+            "Częsty błąd: wybór pamiętnika (to źródło pisane) albo pieśni (źródło niematerialne)"
+          ],
+          "zrodlo": "str. 12, ramka „Źródła materialne – niepisane:”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Które z tych źródeł jest źródłem materialnym pisanym?",
+          "a": "list",
+          "choices": [
+            "list",
+            "ruiny zamku",
+            "obyczaj"
+          ],
+          "exp": [
+            "List to tekst zapisany na papierze, więc jest źródłem pisanym.",
+            "Częsty błąd: wybór ruin (źródło niepisane) albo obyczaju (źródło niematerialne)"
+          ],
+          "zrodlo": "str. 12, ramka „Źródła materialne – pisane:”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Jakie jest pierwsze źródło, w którym pojawia się nazwa „Polska”?",
+          "a": "moneta z czasów Bolesława Chrobrego",
+          "choices": [
+            "kronika Kadłubka",
+            "moneta z czasów Bolesława Chrobrego",
+            "stara gazeta"
+          ],
+          "exp": [
+            "To mała moneta sprzed tysiąca lat, o średnicy 19 mm.",
+            "Częsty błąd: wskazanie kroniki, bo kojarzy się z dawnymi zapisami"
+          ],
+          "zrodlo": "str. 11, ramka „Ciekawostka”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Co jest skutkiem wynalezienia druku?",
+          "a": "rozwój szkolnictwa",
+          "choices": [
+            "rozwój szkolnictwa",
+            "ręczne przepisywanie ksiąg",
+            "bardzo wysokie ceny ksiąg"
+          ],
+          "exp": [
+            "Po wynalezieniu druku rozwinęło się szkolnictwo. Dwie pozostałe odpowiedzi to przyczyny.",
+            "Częsty błąd: pomylenie przyczyn ze skutkami"
+          ],
+          "zrodlo": "str. 14, schemat, kolumna „Skutki”"
+        },
+        {
+          "kind": "wybor",
+          "e": "Czym jest dziś Psie Pole?",
+          "a": "dzielnicą Wrocławia",
+          "choices": [
+            "dzielnicą Wrocławia",
+            "dzielnicą Krakowa",
+            "wyspą na Bałtyku"
+          ],
+          "exp": [
+            "Miejsce opisanej bitwy leży dziś we Wrocławiu.",
+            "Częsty błąd: podanie innego miasta"
+          ],
+          "zrodlo": "str. 13, tekst pod śródtytułem"
+        }
+      ]
+    },
+    {
+      "id": "prawda-falsz",
+      "tytul": "Prawda czy fałsz",
+      "polecenie": "Czy to zdanie jest prawdziwe?",
+      "zadania": [
+        {
+          "kind": "pf",
+          "e": "Źródłem historycznym może być tylko stary dokument z pieczęcią.",
+          "a": false,
+          "exp": [
+            "Źródłem jest każdy ślad działalności człowieka, także garnek, budowla czy wspomnienia.",
+            "Częsty błąd: zawężenie źródeł do dokumentów"
+          ],
+          "zrodlo": "str. 11, „Skąd czerpiemy wiedzę o przeszłości?”"
+        },
+        {
+          "kind": "pf",
+          "e": "To, co ludzie wytwarzają dziś, w przyszłości może stać się źródłem historycznym.",
+          "a": true,
+          "exp": [
+            "Rzeczy z naszych czasów też będą kiedyś śladami przeszłości.",
+            "Częsty błąd: myślenie, że źródła to wyłącznie bardzo stare przedmioty"
+          ],
+          "zrodlo": "str. 11, ostatnie zdanie akapitu"
+        },
+        {
+          "kind": "pf",
+          "e": "Tradycja i obyczaje to źródła materialne.",
+          "a": false,
+          "exp": [
+            "Tradycji i obyczajów nie da się dotknąć, więc to źródła niematerialne.",
+            "Częsty błąd: pomylenie źródeł materialnych z niematerialnymi"
+          ],
+          "zrodlo": "str. 12, ramka „Źródła niematerialne:”; „W skrócie” 2"
+        },
+        {
+          "kind": "pf",
+          "e": "Przedmioty wykopane przez archeologów są źródłami historycznymi.",
+          "a": true,
+          "exp": [
+            "To ślady działalności człowieka, a każdy taki ślad jest źródłem.",
+            "Częsty błąd: uznanie, że źródłem jest tylko tekst"
+          ],
+          "zrodlo": "str. 11, ramka „Dowiedz się więcej” i pytanie „?”"
+        },
+        {
+          "kind": "pf",
+          "e": "Historyk doszedł do wniosku, że bitwa na Psim Polu na pewno się odbyła.",
+          "a": false,
+          "exp": [
+            "Wniosek był odwrotny: do bitwy na Psim Polu nie doszło.",
+            "Częsty błąd: zaufanie jednej kronice bez porównania z innymi źródłami"
+          ],
+          "zrodlo": "str. 13, krok 5 „Wyciąganie wniosków”"
+        },
+        {
+          "kind": "pf",
+          "e": "Wysoka cena ksiąg była jedną z przyczyn wynalezienia druku.",
+          "a": true,
+          "exp": [
+            "Księgi pisane ręcznie kosztowały bardzo dużo, a to była jedna z przyczyn.",
+            "Częsty błąd: uznanie niskiej ceny za przyczynę, choć to skutek druku"
+          ],
+          "zrodlo": "str. 14, schemat, kolumna „Przyczyny”"
+        }
+      ]
+    },
+    {
+      "id": "uzupelnij",
+      "tytul": "Uzupełnij",
+      "polecenie": "Wpisz brakujące pojęcie.",
+      "zadania": [
+        {
+          "kind": "wpisz",
+          "e": "Odkopywanie przedmiotów ukrytych w ziemi przez archeologów to ___.",
+          "a": "wykopaliska",
+          "inne": [],
+          "exp": [
+            "Tak nazywa się ważna metoda pracy archeologów.",
+            "Częsty błąd: pomylenie z pracą w bibliotece"
+          ],
+          "zrodlo": "str. 11, ramka „Dowiedz się więcej”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Sprawdzając, na ile można ufać źródłu, historyk ocenia jego ___.",
+          "a": "wiarygodność",
+          "inne": [],
+          "exp": [
+            "Wiarygodność mówi, czy informacjom w źródle można wierzyć.",
+            "Częsty błąd: pomylenie z innym pojęciem z lekcji"
+          ],
+          "zrodlo": "str. 12, pogrubione pojęcie"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Zmiany, które wydarzenie wywołało później, to jego ___.",
+          "a": "skutki",
+          "inne": [
+            "skutek"
+          ],
+          "exp": [
+            "Skutki odpowiadają na pytanie, co z danego wydarzenia wynikło.",
+            "Częsty błąd: wpisanie przyczyn"
+          ],
+          "zrodlo": "str. 14, „Od przyczyn do skutków”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Druk wynalazł niemiecki drukarz Jan ___.",
+          "a": "Gutenberg",
+          "inne": [],
+          "exp": [
+            "To on wynalazł druk, jeden z najważniejszych wynalazków ludzkości.",
+            "Częsty błąd: literówka w nazwie lub nazwisku"
+          ],
+          "zrodlo": "str. 14, schemat, kolumna „Wydarzenie”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Kronikę z opisem bitwy na Psim Polu napisał Wincenty ___.",
+          "a": "Kadłubek",
+          "inne": [],
+          "exp": [
+            "Ta kronika powstała 800 lat temu.",
+            "Częsty błąd: literówka w nazwie lub nazwisku"
+          ],
+          "zrodlo": "str. 13, krok 1 „Wzmianka w kronice”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Opowieści i pieśni to przekazy ___.",
+          "a": "ustne",
+          "inne": [],
+          "exp": [
+            "Przekazuje się je słowami, dlatego należą do źródeł niematerialnych.",
+            "Częsty błąd: wpisanie słowa „pisane”"
+          ],
+          "zrodlo": "str. 12, ramka „Źródła niematerialne:”"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Źródła, których nie można dotknąć, to źródła ___.",
+          "a": "niematerialne",
+          "inne": [],
+          "exp": [
+            "Należą do nich tradycja, obyczaje i przekazy ustne.",
+            "Częsty błąd: wpisanie słowa „materialne”"
+          ],
+          "zrodlo": "str. 12, tekst pod śródtytułem; „W skrócie” 2"
+        }
+      ]
+    },
+    {
+      "id": "pytania",
+      "tytul": "Pytania z podręcznika",
+      "polecenie": "Odpowiedz w myślach albo na głos, potem sprawdź.",
+      "zadania": [
+        {
+          "kind": "otwarte",
+          "e": "Wymień rodzaje źródeł historycznych i podaj po jednym przykładzie.",
+          "a": "Źródła materialne pisane, na przykład kronika; materialne niepisane, na przykład budynek; niematerialne, na przykład tradycja.",
+          "blad": "zaliczenie tradycji albo opowieści do źródeł materialnych, choć nie da się ich dotknąć",
+          "zrodlo": "str. 14, ramka „W skrócie”, punkt 2; str. 12, trzy ramki; „Czy już umiem?” 1"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Jak historycy oceniają wiarygodność źródła?",
+          "a": "Ustalają, kto stworzył źródło i po co, a potem zestawiają jego treść z innymi materiałami.",
+          "blad": "uznanie, że wystarczy przeczytać jedno źródło, bez porównania z innymi",
+          "zrodlo": "str. 14, ramka „W skrócie”, punkt 3; str. 12, „Jak sprawdzić, czy źródła mówią prawdę?”; „Czy już umiem?” 2"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Co to są związki przyczynowo-skutkowe?",
+          "a": "Powiązania między dawnymi wydarzeniami, które bezpośrednio na siebie wpływały: jedno doprowadziło do następnego.",
+          "blad": "pomylenie przyczyny ze skutkiem, czyli tego, co było przed wydarzeniem, z tym, co przyszło po nim",
+          "zrodlo": "str. 14, ramka „W skrócie”, punkt 4; schemat „Przyczyny i skutki wynalezienia druku”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Co to są źródła historyczne?",
+          "a": "To wszystko, z czego historycy czerpią wiedzę o dawnych czasach, czyli każdy ślad, jaki zostawił po sobie człowiek.",
+          "blad": "myślenie, że źródłem są tylko stare pisma, a nie na przykład garnek czy budowla",
+          "zrodlo": "str. 11, „Skąd czerpiemy wiedzę o przeszłości?”; str. 14, „W skrócie” 1"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Czym zajmują się archeolodzy?",
+          "a": "Pomagają historykom: szukają materialnych śladów dawnych ludzi, rozpoznają je, opisują i ustalają, kiedy powstały.",
+          "blad": "przekonanie, że archeolodzy tylko czytają stare kroniki",
+          "zrodlo": "str. 11, ramka „Dowiedz się więcej”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Czego dowiadujemy się dzięki pracy archeologów?",
+          "a": "Wiemy, jak dawniej stawiano domy, jakich narzędzi używano, a nawet co jadano.",
+          "blad": "podanie wiadomości, których nie da się wyczytać z przedmiotów wydobytych z ziemi",
+          "zrodlo": "str. 11, ramka „Dowiedz się więcej”, ostatnie zdanie"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Dlaczego nie każdemu źródłu można od razu ufać?",
+          "a": "Kroniki bywają nieprawdziwe, dokumenty podrobione, a świadkowie zapominają szczegóły albo podają swoje zdanie jako fakt.",
+          "blad": "uznanie, że wszystko, co zapisano w starej kronice, na pewno jest prawdą",
+          "zrodlo": "str. 12, „Jak sprawdzić, czy źródła mówią prawdę?”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Z jakiego powodu historyk nie uwierzył kronice w sprawie bitwy na Psim Polu?",
+          "a": "Bo wcześniejsi kronikarze nic o tej bitwie nie piszą, a archeolodzy nie znaleźli żadnych jej śladów.",
+          "blad": "podanie własnego domysłu zamiast tego, co wykazało porównanie źródeł",
+          "zrodlo": "str. 13, schemat, kroki 3 i 4 (dymki); polecenie „?” 1"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Jakie były przyczyny wynalezienia druku?",
+          "a": "Księgi powstawały powoli, bo przepisywano je ręcznie, i były bardzo drogie.",
+          "blad": "podanie skutków, na przykład rozwoju szkolnictwa, zamiast przyczyn",
+          "zrodlo": "str. 14, schemat „Przyczyny i skutki wynalezienia druku”, kolumna „Przyczyny”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Wymień skutki wynalezienia druku.",
+          "a": "Księgi potaniały, rozwinęło się szkolnictwo, a także kultura i literatura.",
+          "blad": "podanie przyczyn, na przykład wysokich cen ksiąg, zamiast skutków",
+          "zrodlo": "str. 14, schemat, kolumna „Skutki”"
+        }
+      ]
+    }
+  ]
+}
