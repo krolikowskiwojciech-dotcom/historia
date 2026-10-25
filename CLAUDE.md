@@ -65,6 +65,8 @@ kreska 2.1), karty 3D z `--brzeg`, mniejsze rogi, żadnych `confirm()`/`alert()`
 grafik dla maluchów** (Aniela ma 11 lat — styl dojrzały, podręcznikowy). Kolor przewodni: krem `#F1E7BF` (`--akcent`,
 tło ikony aplikacji `public/ikony/ikona-*.png` — kolumna i zwój, ChatGPT). Teksty do Anieli w rodzaju żeńskim („Umiałaś?”).
 Zmiany wizualne sprawdzaj renderem na 127.0.0.1 przed publikacją.
+Zarys: `public/zestawy/spis.json` ma cały podręcznik „Wczoraj i dziś 4” (5 działów, jak w Biologii — działy bez lekcji zwinięte, lekcje „wkrótce”).
+Ilustracje działów i lekcji (ChatGPT, styl atlasu muzealnego): `ILUSTRACJE.md`, prompty `narzedzia/prompty.json`, cięcie `narzedzia/tnij_arkusz.py`.
 
 ## Kod
 
