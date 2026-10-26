@@ -1,5 +1,5 @@
 {
-  "_opis": "Układ podręcznika „Wczoraj i dziś 4” (Nowa Era) — patrz lekcje-audio/podreczniki/klasa4_historia.md: działy i lekcje ze stronami. Lekcja jest gotowa, gdy jest zestaw z tym samym „dzial” i „lekcja” (albo „typ”: podsumowanie | test). Działy II–V wg wymagań edukacyjnych do tej edycji (strony uzupełnić ze zdjęć); temat IV.2 roboczy.",
+  "_opis": "Układ podręcznika „Wczoraj i dziś 4” (Nowa Era, G. Wojciechowski, S. Wróblewski) — tematy i strony ze spisu treści (zdjęcia 2026-10-26); strony „Tajemnic sprzed wieków” doliczone do lekcji przed nimi. Lekcja jest gotowa, gdy jest zestaw z tym samym „dzial” i „lekcja” (albo „typ”: podsumowanie | test).",
   "dzialy": [
     {
       "nr": "I",
@@ -44,27 +44,27 @@
         {
           "nr": 1,
           "temat": "Mieszkamy w Polsce",
-          "strony": ""
+          "strony": "36–41"
         },
         {
           "nr": 2,
           "temat": "Moja mała ojczyzna",
-          "strony": ""
+          "strony": "42–45"
         },
         {
           "nr": 3,
           "temat": "Historia mojej okolicy",
-          "strony": ""
+          "strony": "46–49"
         },
         {
           "nr": 4,
           "temat": "Jak korzystać z mapy historycznej?",
-          "strony": ""
+          "strony": "50–53"
         },
         {
           "typ": "podsumowanie",
           "temat": "Podsumowanie i sprawdź wiedzę",
-          "strony": ""
+          "strony": "54–58"
         }
       ]
     },
@@ -75,32 +75,32 @@
         {
           "nr": 1,
           "temat": "Jak żyli pierwsi ludzie?",
-          "strony": ""
+          "strony": "60–65"
         },
         {
           "nr": 2,
           "temat": "Pierwsze cywilizacje",
-          "strony": ""
+          "strony": "66–69"
         },
         {
           "nr": 3,
           "temat": "W starożytnym Egipcie",
-          "strony": ""
+          "strony": "70–73"
         },
         {
           "nr": 4,
           "temat": "Osiągnięcia starożytnych Egipcjan",
-          "strony": ""
+          "strony": "74–79"
         },
         {
           "nr": 5,
           "temat": "Od hieroglifów do alfabetu",
-          "strony": ""
+          "strony": "80–83"
         },
         {
           "typ": "podsumowanie",
           "temat": "Podsumowanie i sprawdź wiedzę",
-          "strony": ""
+          "strony": "84–88"
         }
       ]
     },
@@ -111,27 +111,27 @@
         {
           "nr": 1,
           "temat": "Świat starożytnych Greków",
-          "strony": ""
+          "strony": "90–95"
         },
         {
           "nr": 2,
-          "temat": "Demokracja w Atenach",
-          "strony": ""
+          "temat": "W starożytnych Atenach",
+          "strony": "96–100"
         },
         {
           "nr": 3,
           "temat": "Osiągnięcia starożytnych Greków",
-          "strony": ""
+          "strony": "101–104"
         },
         {
           "nr": 4,
           "temat": "W greckim teatrze i na stadionie",
-          "strony": ""
+          "strony": "105–111"
         },
         {
           "typ": "podsumowanie",
           "temat": "Podsumowanie i sprawdź wiedzę",
-          "strony": ""
+          "strony": "112–116"
         }
       ]
     },
@@ -142,27 +142,27 @@
         {
           "nr": 1,
           "temat": "Jak powstało Cesarstwo Rzymskie?",
-          "strony": ""
+          "strony": "118–125"
         },
         {
           "nr": 2,
           "temat": "W starożytnym Rzymie",
-          "strony": ""
+          "strony": "126–131"
         },
         {
           "nr": 3,
           "temat": "Dziedzictwo Cesarstwa Rzymskiego",
-          "strony": ""
+          "strony": "132–137"
         },
         {
           "nr": 4,
           "temat": "Początki chrześcijaństwa",
-          "strony": ""
+          "strony": "138–141"
         },
         {
           "typ": "podsumowanie",
           "temat": "Podsumowanie i sprawdź wiedzę",
-          "strony": ""
+          "strony": "142–146"
         }
       ]
     }
