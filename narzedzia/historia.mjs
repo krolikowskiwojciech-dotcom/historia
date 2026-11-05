@@ -345,6 +345,17 @@ function importujProfil(profil, { bezNagran, naSucho }) {
       nagrania.push({ tytul: tytulN, opis, prywatne: cel, wersja: shaBloba(fs.readFileSync(lekki)).slice(0, 10), minuty: czasNagrania(zrodlo) });
     }
 
+    // nagranie w częściach (np. „każdy król osobno”): pole „czesci” w JSON lekcji, pliki w audio/czesci/
+    (L.czesci || []).forEach((c, k) => {
+      const zrodlo = path.join(dzialDir, 'audio/czesci', c.plik);
+      if (!fs.existsSync(zrodlo)) { console.log(`   ! brak części nagrania ${c.plik}`); return; }
+      const cel = `nagrania/${id}-${String(k + 1).padStart(2, '0')}.mp3`;
+      const lekki = lekkie(zrodlo);
+      const wynik = bezNagran ? 'pominięte (--bez-nagran)' : `Cloudflare KV: ${wyslijDoKV(lekki, cel, { naSucho })}`;
+      console.log(`   nagranie ${cel} → ${wynik}`);
+      nagrania.push({ tytul: c.tytul, opis: c.opis || '', prywatne: cel, wersja: shaBloba(fs.readFileSync(lekki)).slice(0, 10), minuty: czasNagrania(zrodlo) || null });
+    });
+
     const zestaw = {
       id, zrodlo: 'lekcje-audio', dla: [profil.id], rodzaj: sprawdzian ? 'sprawdzian' : undefined, tytul, opis,
       dzial, dzialTytul: L.dzial_tytul || null, lekcja: nr, typ: typ || undefined, strony: L.strony || wSpisie?.strony || null,
