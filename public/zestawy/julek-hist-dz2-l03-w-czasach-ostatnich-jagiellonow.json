@@ -15,6 +15,15 @@
   "ikona": "klepsydra",
   "kolor": "lila",
   "ocena": true,
+  "nagrania": [
+    {
+      "tytul": "Lekcja z podręcznikiem",
+      "opis": "Słuchaj i patrz do książki",
+      "prywatne": "nagrania/julek-hist-dz2-l03-w-czasach-ostatnich-jagiellonow.mp3",
+      "wersja": "ea2df40302",
+      "minuty": 4
+    }
+  ],
   "sciaga": [
     "Kazimierz Jagiellończyk, syn Władysława Jagiełły, był królem Polski w drugiej połowie XV wieku. Nazywa się go „ojcem królów”.",
     "Za jego rządów Polska wygrała wojnę trzynastoletnią z Krzyżakami. Drugi pokój toruński (1466) dał Polsce Pomorze Gdańskie, ziemię chełmińską i Warmię.",
