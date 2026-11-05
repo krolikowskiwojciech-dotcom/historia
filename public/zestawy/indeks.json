@@ -19,25 +19,26 @@
   ],
   "zestawy": [
     {
-      "id": "julek-hist-dz2-l03-w-czasach-ostatnich-jagiellonow",
-      "tytul": "W czasach ostatnich Jagiellonów",
-      "opis": "Ojciec królów i jego synowie — ostatni Jagiellonowie",
+      "id": "julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol",
+      "tytul": "Jagiellonowie — co zrobił każdy król",
+      "opis": "",
       "dla": [
         "julian"
       ],
+      "rodzaj": "sprawdzian",
       "termin": "2026-11-06",
       "dodano": "2026-11-05",
-      "dzial": "II",
-      "dzialTytul": "W Rzeczypospolitej szlacheckiej",
-      "lekcja": 3,
+      "dzial": null,
+      "dzialTytul": null,
+      "lekcja": null,
       "typ": null,
-      "strony": "53–57",
-      "ikona": "klepsydra",
+      "strony": "42–57",
+      "ikona": "korona",
       "kolor": "lila",
       "bloki": 5,
       "zadan": 35,
       "nagrania": 1,
-      "prywatne": "nagrania/julek-hist-dz2-l03-w-czasach-ostatnich-jagiellonow.mp3",
+      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol.mp3",
       "sciaga": true
     },
     {

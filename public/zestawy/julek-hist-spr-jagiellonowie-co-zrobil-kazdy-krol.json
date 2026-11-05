@@ -1,26 +1,26 @@
 {
-  "id": "julek-hist-dz2-l03-w-czasach-ostatnich-jagiellonow",
+  "id": "julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol",
   "zrodlo": "lekcje-audio",
   "dla": [
     "julian"
   ],
-  "tytul": "W czasach ostatnich Jagiellonów",
-  "opis": "Ojciec królów i jego synowie — ostatni Jagiellonowie",
-  "dzial": "II",
-  "dzialTytul": "W Rzeczypospolitej szlacheckiej",
-  "lekcja": 3,
-  "strony": "53–57",
+  "rodzaj": "sprawdzian",
+  "tytul": "Jagiellonowie — co zrobił każdy król",
+  "dzial": null,
+  "dzialTytul": null,
+  "lekcja": null,
+  "strony": "42–57",
   "dodano": "2026-11-05",
   "termin": "2026-11-06",
-  "ikona": "klepsydra",
+  "ikona": "korona",
   "kolor": "lila",
   "ocena": true,
   "nagrania": [
     {
       "tytul": "Lekcja z podręcznikiem",
       "opis": "Słuchaj i patrz do książki",
-      "prywatne": "nagrania/julek-hist-dz2-l03-w-czasach-ostatnich-jagiellonow.mp3",
-      "wersja": "ea2df40302",
+      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol.mp3",
+      "wersja": "bbae175df8",
       "minuty": 4
     }
   ],

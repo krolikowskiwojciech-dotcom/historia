@@ -278,7 +278,7 @@ function importujProfil(profil, { bezNagran, naSucho }) {
   fs.mkdirSync(ZESTAWY, { recursive: true });
   const koncowka = new RegExp(`_${ZNAK}\\.json$`);
   const koncowkaMd = new RegExp(`_${ZNAK}_pytania\\.md$`);
-  const pliki = fs.readdirSync(LEKCJE).filter((d) => /^Dział [IVX]+$/.test(d)).flatMap((d) => { // „Dział test” i inne próby pomijamy
+  const pliki = fs.readdirSync(LEKCJE).filter((d) => /^Dział [IVX]+$/.test(d) || d === 'Sprawdziany').flatMap((d) => { // „Dział test” i inne próby pomijamy; „Sprawdziany” = materiał pod konkretny sprawdzian (własna zakładka)
     const s = path.join(LEKCJE, d, 'skrypty');
     if (!fs.existsSync(s)) return [];
     const wszystkie = fs.readdirSync(s);
@@ -291,14 +291,15 @@ function importujProfil(profil, { bezNagran, naSucho }) {
   if (!pliki.length) console.log(`W ${LEKCJE} nie ma jeszcze skryptów lekcji (skrypty/*_${ZNAK}.json albo *_${ZNAK}_pytania.md).`);
   let i = 0;
   for (const { dzialDir, plik, id: idLekcji, md } of pliki.sort((a, b) => a.id.localeCompare(b.id))) {
-    const ze = /_dz(\d+)_l(\d+)_(.+)$/.exec(idLekcji.replace(new RegExp(`_${ZNAK}$`), ''));
+    const sprawdzian = path.basename(dzialDir) === 'Sprawdziany';
+    const ze = sprawdzian ? null : /_dz(\d+)_l(\d+)_(.+)$/.exec(idLekcji.replace(new RegExp(`_${ZNAK}$`), ''));
     const slug = ze?.[3] || '';
     const typ = /podsumowanie/.test(slug) ? 'podsumowanie' : /(^|-)(test|sprawdz)/.test(slug) ? 'test' : null;
     const L = md ? { id: idLekcji, pytania: pytaniaZMd(fs.readFileSync(plik, 'utf8')), dzial: ze ? RZYMSKIE[Number(ze[1])] : null, lekcja_nr: ze ? Number(ze[2]) : null }
       : JSON.parse(fs.readFileSync(plik, 'utf8'));
     const id = (profil.przedrostek || '') + idLekcji.replace(new RegExp(`_${ZNAK}$`), '').replace(/_/g, '-');
-    const dzial = L.dzial || (ze ? RZYMSKIE[Number(ze[1])] : null);
-    const nr = typ ? null : Number(L.lekcja_nr) || (ze ? Number(ze[2]) : null);
+    const dzial = sprawdzian ? null : L.dzial || (ze ? RZYMSKIE[Number(ze[1])] : null);
+    const nr = typ || sprawdzian ? null : Number(L.lekcja_nr) || (ze ? Number(ze[2]) : null);
     const wSpisie = dzial ? pozycjaSpisu(SPIS, dzial, nr, typ) : null;
     // tytuł jak w podręczniku (ze spisu), a tytuł z lekcje-audio jako opis — Aniela szuka lekcji po tytule z książki
     const tytul = wSpisie?.temat || L.tytul || slug.replace(/-/g, ' ').replace(/^./, (c) => c.toUpperCase());
@@ -345,9 +346,9 @@ function importujProfil(profil, { bezNagran, naSucho }) {
     }
 
     const zestaw = {
-      id, zrodlo: 'lekcje-audio', dla: [profil.id], tytul, opis,
+      id, zrodlo: 'lekcje-audio', dla: [profil.id], rodzaj: sprawdzian ? 'sprawdzian' : undefined, tytul, opis,
       dzial, dzialTytul: L.dzial_tytul || null, lekcja: nr, typ: typ || undefined, strony: L.strony || wSpisie?.strony || null,
-      dodano: stary?.dodano || L.data || new Date().toISOString().slice(0, 10), termin: stary?.termin || null,
+      dodano: stary?.dodano || L.data || new Date().toISOString().slice(0, 10), termin: stary?.termin || L.termin || null,
       ikona: stary?.ikona || (PRZEDMIOT.ikonaTematu.find(([re]) => re.test(tytul)) || [, IKONY[i % IKONY.length]])[1],
       kolor: stary?.kolor || KOLORY[i % KOLORY.length],
       ocena: true,
@@ -368,7 +369,7 @@ function zbudujIndeks(zestawy) {
   const indeks = {
     profile: PROFILE,
     zestawy: zestawy.map((z) => ({
-      id: z.id, tytul: z.tytul, opis: z.opis || '', dla: [].concat(z.dla), termin: z.termin || null, dodano: z.dodano || null,
+      id: z.id, tytul: z.tytul, opis: z.opis || '', dla: [].concat(z.dla), rodzaj: z.rodzaj || undefined, termin: z.termin || null, dodano: z.dodano || null,
       dzial: z.dzial || null, dzialTytul: z.dzialTytul || null, lekcja: z.lekcja || null, typ: z.typ || null, strony: z.strony || null,
       ikona: z.ikona || null, kolor: z.kolor || null, bloki: z.bloki.length,
       zadan: z.bloki.reduce((n, b) => n + (b.ile || b.zadania?.length || 0), 0),
