@@ -31,53 +31,38 @@
       "minuty": null
     },
     {
-      "tytul": "Święty Kazimierz Jagiellończyk (królewicz)",
-      "opis": "",
-      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol-03.mp3",
-      "wersja": "29b8599e60",
-      "minuty": null
-    },
-    {
       "tytul": "Jan I Olbracht (król 1492–1501)",
       "opis": "",
-      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol-04.mp3",
+      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol-03.mp3",
       "wersja": "ddaf3efb94",
       "minuty": null
     },
     {
       "tytul": "Aleksander Jagiellończyk (król 1501–1506)",
       "opis": "",
-      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol-05.mp3",
+      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol-04.mp3",
       "wersja": "a346001173",
       "minuty": null
     },
     {
       "tytul": "Zygmunt I Stary (król 1506–1548)",
       "opis": "",
-      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol-06.mp3",
+      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol-05.mp3",
       "wersja": "bc5a82eda6",
-      "minuty": null
-    },
-    {
-      "tytul": "Zygmunt II August (król 1548–1572)",
-      "opis": "",
-      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol-07.mp3",
-      "wersja": "58e4603ff3",
       "minuty": null
     },
     {
       "tytul": "Powtórka: pary i pytania",
       "opis": "",
-      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol-08.mp3",
-      "wersja": "584693ff25",
+      "prywatne": "nagrania/julek-hist-spr-jagiellonowie-co-zrobil-kazdy-krol-06.mp3",
+      "wersja": "662c73180b",
       "minuty": 1
     }
   ],
   "sciaga": [
     "Kazimierz IV Jagiellończyk, syn Władysława Jagiełły, rządził w drugiej połowie XV wieku. Za niego Polska wygrała wojnę trzynastoletnią, a drugi pokój toruński (1466) przywrócił jej Pomorze Gdańskie i ziemię chełmińską oraz dał Warmię.",
-    "Jego synowie zasiedli na tronach Polski, Czech i Węgier — stąd przydomek „ojciec królów”.",
+    "Jego synowie zasiedli na tronach Polski, Czech i Węgier — stąd przydomek „ojciec królów”. Na sprawdzian: Kazimierz Jagiellończyk, Władysław, Jan Olbracht, Aleksander i Zygmunt Stary.",
     "Władysław II Jagiellończyk — najstarszy syn, król Czech i Węgier; w Polsce nie rządził.",
-    "Święty Kazimierz Jagiellończyk — królewicz, nie został królem, zmarł młodo; czczony jako święty.",
     "Jan I Olbracht — król Polski po ojcu. W 1496 roku przed wyprawą na Mołdawię szlachta wymogła statuty piotrkowskie: mieszczanie nie mogli kupować ziemi, a ze wsi do miasta mógł odejść tylko jeden chłop w roku.",
     "Wyprawa Olbrachta na Mołdawię (1497) zakończyła się klęską — „za króla Olbrachta wyginęła szlachta”.",
     "Aleksander Jagiellończyk — wielki książę litewski, od 1501 roku król Polski. Zawarto wtedy unię mielnicką (miała złączyć Polskę i Litwę w jedno państwo), ale po koronacji jej nie zatwierdził.",
@@ -85,9 +70,7 @@
     "Zygmunt I Stary — najmłodszy syn, król w latach 1506–1548. Dzięki dyplomacji przyłączył Mazowsze.",
     "Za Zygmunta Starego: bitwa pod Orszą z Moskwą (1514), ostatnia wojna z Krzyżakami (1519–1521) i hołd pruski w Krakowie (1525) — Albrecht Hohenzollern został jego lennikiem, a państwo zakonne zmieniło się w Prusy Książęce.",
     "Zygmunt Stary i Bona Sforza przenieśli do Polski renesans: przebudowa Wawelu, kaplica Zygmuntowska (1519–1533).",
-    "Zygmunt II August — syn Zygmunta Starego, ostatni Jagiellon (1548–1572). Wojna o Inflanty od 1563 roku; w 1569 roku unia lubelska — powstała Rzeczpospolita Obojga Narodów.",
-    "Po bezpotomnej śmierci Zygmunta Augusta (1572) przyszło bezkrólewie i pierwsza wolna elekcja.",
-    "Pary do zapamiętania: Kazimierz Jagiellończyk — Pomorze Gdańskie; Władysław — Czechy i Węgry; Kazimierz — święty; Jan Olbracht — statuty piotrkowskie; Aleksander — unia mielnicka i Nihil novi; Zygmunt Stary — hołd pruski; Zygmunt August — unia lubelska."
+    "Pary do zapamiętania: Kazimierz Jagiellończyk — Pomorze Gdańskie; Władysław — Czechy i Węgry; Jan Olbracht — statuty piotrkowskie; Aleksander — unia mielnicka i Nihil novi; Zygmunt Stary — hołd pruski."
   ],
   "definicje": {
     "Kazimierz Jagiellończyk": "Król Polski w drugiej połowie XV wieku, syn Władysława Jagiełły; jego synowie zasiedli na tronach Polski, Czech i Węgier.",
@@ -95,14 +78,12 @@
     "Aleksander Jagiellończyk": "Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505).",
     "Zygmunt I Stary": "Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski.",
     "Władysław Jagiellończyk": "Najstarszy syn Kazimierza; król Czech, a później również Węgier.",
-    "święty Kazimierz": "Królewicz, syn Kazimierza Jagiellończyka; nie rządził, zmarł młodo, czczony jako święty i patron Litwy.",
     "Nihil novi": "Konstytucja z 1505 roku: nowe prawa tylko za zgodą senatu i posłów na sejmie.",
     "hołd pruski": "Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
     "Prusy Książęce": "Świeckie księstwo powstałe z państwa zakonnego, ze stolicą w Królewcu, zależne od króla Polski.",
     "lennik": "Ktoś, kto dostaje ziemię od władcy i w zamian musi być mu wierny i pomagać mu.",
     "statuty piotrkowskie": "Przywileje dla szlachty z 1496 roku, uchwalone za Jana Olbrachta: ograniczały mieszczan i chłopów.",
-    "unia mielnicka": "Umowa z 1501 roku, zawarta przy wyborze Aleksandra, o połączeniu Polski i Litwy w jedno państwo; nie weszła w życie.",
-    "unia lubelska": "Związek Polski i Litwy z 1569 roku, zawarty za Zygmunta Augusta; powstała Rzeczpospolita Obojga Narodów."
+    "unia mielnicka": "Umowa z 1501 roku, zawarta przy wyborze Aleksandra, o połączeniu Polski i Litwy w jedno państwo; nie weszła w życie."
   },
   "bloki": [
     {
@@ -117,6 +98,132 @@
           "a": "Kazimierz Jagiellończyk",
           "choices": [
             "Kazimierz Jagiellończyk",
+            "statuty piotrkowskie",
+            "Władysław Jagiellończyk"
+          ],
+          "exp": [
+            "statuty piotrkowskie to coś innego: Przywileje dla szlachty z 1496 roku, uchwalone za Jana Olbrachta: ograniczały mieszczan i chłopów.",
+            "Władysław Jagiellończyk to coś innego: Najstarszy syn Kazimierza; król Czech, a później również Węgier."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
+          "a": "Jan Olbracht",
+          "choices": [
+            "Jan Olbracht",
+            "Zygmunt I Stary",
+            "Władysław Jagiellończyk"
+          ],
+          "exp": [
+            "Zygmunt I Stary to coś innego: Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski.",
+            "Władysław Jagiellończyk to coś innego: Najstarszy syn Kazimierza; król Czech, a później również Węgier."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505).",
+          "a": "Aleksander Jagiellończyk",
+          "choices": [
+            "Aleksander Jagiellończyk",
+            "hołd pruski",
+            "Władysław Jagiellończyk"
+          ],
+          "exp": [
+            "hołd pruski to coś innego: Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
+            "Władysław Jagiellończyk to coś innego: Najstarszy syn Kazimierza; król Czech, a później również Węgier."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski.",
+          "a": "Zygmunt I Stary",
+          "choices": [
+            "Zygmunt I Stary",
+            "Jan Olbracht",
+            "unia mielnicka"
+          ],
+          "exp": [
+            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
+            "unia mielnicka to coś innego: Umowa z 1501 roku, zawarta przy wyborze Aleksandra, o połączeniu Polski i Litwy w jedno państwo; nie weszła w życie."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Najstarszy syn Kazimierza; król Czech, a później również Węgier.",
+          "a": "Władysław Jagiellończyk",
+          "choices": [
+            "Władysław Jagiellończyk",
+            "Prusy Książęce",
+            "Aleksander Jagiellończyk"
+          ],
+          "exp": [
+            "Prusy Książęce to coś innego: Świeckie księstwo powstałe z państwa zakonnego, ze stolicą w Królewcu, zależne od króla Polski.",
+            "Aleksander Jagiellończyk to coś innego: Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505)."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Konstytucja z 1505 roku: nowe prawa tylko za zgodą senatu i posłów na sejmie.",
+          "a": "Nihil novi",
+          "choices": [
+            "Nihil novi",
+            "hołd pruski",
+            "Zygmunt I Stary"
+          ],
+          "exp": [
+            "hołd pruski to coś innego: Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
+            "Zygmunt I Stary to coś innego: Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
+          "a": "hołd pruski",
+          "choices": [
+            "hołd pruski",
+            "Władysław Jagiellończyk",
+            "Aleksander Jagiellończyk"
+          ],
+          "exp": [
+            "Władysław Jagiellończyk to coś innego: Najstarszy syn Kazimierza; król Czech, a później również Węgier.",
+            "Aleksander Jagiellończyk to coś innego: Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505)."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Świeckie księstwo powstałe z państwa zakonnego, ze stolicą w Królewcu, zależne od króla Polski.",
+          "a": "Prusy Książęce",
+          "choices": [
+            "Prusy Książęce",
+            "Aleksander Jagiellończyk",
+            "Zygmunt I Stary"
+          ],
+          "exp": [
+            "Aleksander Jagiellończyk to coś innego: Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505).",
+            "Zygmunt I Stary to coś innego: Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Ktoś, kto dostaje ziemię od władcy i w zamian musi być mu wierny i pomagać mu.",
+          "a": "lennik",
+          "choices": [
+            "lennik",
+            "Jan Olbracht",
+            "statuty piotrkowskie"
+          ],
+          "exp": [
+            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
+            "statuty piotrkowskie to coś innego: Przywileje dla szlachty z 1496 roku, uchwalone za Jana Olbrachta: ograniczały mieszczan i chłopów."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Przywileje dla szlachty z 1496 roku, uchwalone za Jana Olbrachta: ograniczały mieszczan i chłopów.",
+          "a": "statuty piotrkowskie",
+          "choices": [
+            "statuty piotrkowskie",
             "Aleksander Jagiellończyk",
             "Nihil novi"
           ],
@@ -127,170 +234,16 @@
         },
         {
           "kind": "wybor",
-          "e": "Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
-          "a": "Jan Olbracht",
-          "choices": [
-            "Jan Olbracht",
-            "Aleksander Jagiellończyk",
-            "Władysław Jagiellończyk"
-          ],
-          "exp": [
-            "Aleksander Jagiellończyk to coś innego: Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505).",
-            "Władysław Jagiellończyk to coś innego: Najstarszy syn Kazimierza; król Czech, a później również Węgier."
-          ]
-        },
-        {
-          "kind": "wybor",
-          "e": "Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505).",
-          "a": "Aleksander Jagiellończyk",
-          "choices": [
-            "Aleksander Jagiellończyk",
-            "Jan Olbracht",
-            "unia lubelska"
-          ],
-          "exp": [
-            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
-            "unia lubelska to coś innego: Związek Polski i Litwy z 1569 roku, zawarty za Zygmunta Augusta; powstała Rzeczpospolita Obojga Narodów."
-          ]
-        },
-        {
-          "kind": "wybor",
-          "e": "Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski.",
-          "a": "Zygmunt I Stary",
-          "choices": [
-            "Zygmunt I Stary",
-            "unia lubelska",
-            "Aleksander Jagiellończyk"
-          ],
-          "exp": [
-            "unia lubelska to coś innego: Związek Polski i Litwy z 1569 roku, zawarty za Zygmunta Augusta; powstała Rzeczpospolita Obojga Narodów.",
-            "Aleksander Jagiellończyk to coś innego: Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505)."
-          ]
-        },
-        {
-          "kind": "wybor",
-          "e": "Najstarszy syn Kazimierza; król Czech, a później również Węgier.",
-          "a": "Władysław Jagiellończyk",
-          "choices": [
-            "Władysław Jagiellończyk",
-            "Jan Olbracht",
-            "Zygmunt I Stary"
-          ],
-          "exp": [
-            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
-            "Zygmunt I Stary to coś innego: Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski."
-          ]
-        },
-        {
-          "kind": "wybor",
-          "e": "Królewicz, syn … Jagiellończyka; nie rządził, zmarł młodo, czczony jako … i patron Litwy.",
-          "a": "święty Kazimierz",
-          "choices": [
-            "święty Kazimierz",
-            "hołd pruski",
-            "statuty piotrkowskie"
-          ],
-          "exp": [
-            "hołd pruski to coś innego: Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
-            "statuty piotrkowskie to coś innego: Przywileje dla szlachty z 1496 roku, uchwalone za Jana Olbrachta: ograniczały mieszczan i chłopów."
-          ]
-        },
-        {
-          "kind": "wybor",
-          "e": "Konstytucja z 1505 roku: nowe prawa tylko za zgodą senatu i posłów na sejmie.",
-          "a": "Nihil novi",
-          "choices": [
-            "Nihil novi",
-            "unia lubelska",
-            "święty Kazimierz"
-          ],
-          "exp": [
-            "unia lubelska to coś innego: Związek Polski i Litwy z 1569 roku, zawarty za Zygmunta Augusta; powstała Rzeczpospolita Obojga Narodów.",
-            "święty Kazimierz to coś innego: Królewicz, syn Kazimierza Jagiellończyka; nie rządził, zmarł młodo, czczony jako święty i patron Litwy."
-          ]
-        },
-        {
-          "kind": "wybor",
-          "e": "Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
-          "a": "hołd pruski",
-          "choices": [
-            "hołd pruski",
-            "Jan Olbracht",
-            "unia lubelska"
-          ],
-          "exp": [
-            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
-            "unia lubelska to coś innego: Związek Polski i Litwy z 1569 roku, zawarty za Zygmunta Augusta; powstała Rzeczpospolita Obojga Narodów."
-          ]
-        },
-        {
-          "kind": "wybor",
-          "e": "Świeckie księstwo powstałe z państwa zakonnego, ze stolicą w Królewcu, zależne od króla Polski.",
-          "a": "Prusy Książęce",
-          "choices": [
-            "Prusy Książęce",
-            "statuty piotrkowskie",
-            "święty Kazimierz"
-          ],
-          "exp": [
-            "statuty piotrkowskie to coś innego: Przywileje dla szlachty z 1496 roku, uchwalone za Jana Olbrachta: ograniczały mieszczan i chłopów.",
-            "święty Kazimierz to coś innego: Królewicz, syn Kazimierza Jagiellończyka; nie rządził, zmarł młodo, czczony jako święty i patron Litwy."
-          ]
-        },
-        {
-          "kind": "wybor",
-          "e": "Ktoś, kto dostaje ziemię od władcy i w zamian musi być mu wierny i pomagać mu.",
-          "a": "lennik",
-          "choices": [
-            "lennik",
-            "Nihil novi",
-            "Zygmunt I Stary"
-          ],
-          "exp": [
-            "Nihil novi to coś innego: Konstytucja z 1505 roku: nowe prawa tylko za zgodą senatu i posłów na sejmie.",
-            "Zygmunt I Stary to coś innego: Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski."
-          ]
-        },
-        {
-          "kind": "wybor",
-          "e": "Przywileje dla szlachty z 1496 roku, uchwalone za Jana Olbrachta: ograniczały mieszczan i chłopów.",
-          "a": "statuty piotrkowskie",
-          "choices": [
-            "statuty piotrkowskie",
-            "Jan Olbracht",
-            "Prusy Książęce"
-          ],
-          "exp": [
-            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
-            "Prusy Książęce to coś innego: Świeckie księstwo powstałe z państwa zakonnego, ze stolicą w Królewcu, zależne od króla Polski."
-          ]
-        },
-        {
-          "kind": "wybor",
           "e": "Umowa z 1501 roku, zawarta przy wyborze Aleksandra, o połączeniu Polski i Litwy w jedno państwo; nie weszła w życie.",
           "a": "unia mielnicka",
           "choices": [
             "unia mielnicka",
-            "święty Kazimierz",
+            "hołd pruski",
             "Zygmunt I Stary"
           ],
           "exp": [
-            "święty Kazimierz to coś innego: Królewicz, syn Kazimierza Jagiellończyka; nie rządził, zmarł młodo, czczony jako święty i patron Litwy.",
+            "hołd pruski to coś innego: Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
             "Zygmunt I Stary to coś innego: Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski."
-          ]
-        },
-        {
-          "kind": "wybor",
-          "e": "Związek Polski i Litwy z 1569 roku, zawarty za Zygmunta Augusta; powstała Rzeczpospolita Obojga Narodów.",
-          "a": "unia lubelska",
-          "choices": [
-            "unia lubelska",
-            "Jan Olbracht",
-            "Władysław Jagiellończyk"
-          ],
-          "exp": [
-            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
-            "Władysław Jagiellończyk to coś innego: Najstarszy syn Kazimierza; król Czech, a później również Węgier."
           ]
         }
       ]
@@ -312,21 +265,6 @@
           "exp": [
             "Władysław rządził Czechami, a potem także Węgrami.",
             "Częsty błąd: Pomylenie z Aleksandrem, który rządził Litwą."
-          ],
-          "zrodlo": "kartka / s. 53–55"
-        },
-        {
-          "kind": "wybor",
-          "e": "Który z synów jest świętym, patronem Litwy?",
-          "a": "Kazimierz",
-          "choices": [
-            "Kazimierz",
-            "Zygmunt",
-            "Władysław"
-          ],
-          "exp": [
-            "Królewicz Kazimierz nie rządził, ale został świętym.",
-            "Częsty błąd: Zygmunt — bo nosi imię znanego dzwonu."
           ],
           "zrodlo": "kartka / s. 53–55"
         },
@@ -404,21 +342,6 @@
             "Częsty błąd: Prusy Królewskie to ziemie należące do Polski po 1466 roku."
           ],
           "zrodlo": "kartka / s. 53–55"
-        },
-        {
-          "kind": "wybor",
-          "e": "Który król zawarł unię lubelską?",
-          "a": "Zygmunt II August",
-          "choices": [
-            "Zygmunt II August",
-            "Zygmunt I Stary",
-            "Aleksander"
-          ],
-          "exp": [
-            "Unię lubelską zawarto w 1569 roku za Zygmunta Augusta.",
-            "Częsty błąd: Aleksander — bo z nim wiąże się unia mielnicka."
-          ],
-          "zrodlo": "s. 67"
         }
       ]
     },
@@ -460,15 +383,6 @@
           "a": true,
           "exp": [
             "Został księciem Prus Książęcych i lennikiem króla."
-          ],
-          "zrodlo": "kartka / s. 53–57"
-        },
-        {
-          "kind": "pf",
-          "e": "Królewicz Kazimierz był królem Polski przed Janem Olbrachtem.",
-          "a": false,
-          "exp": [
-            "Królewicz Kazimierz nigdy nie był królem."
           ],
           "zrodlo": "kartka / s. 53–57"
         }
@@ -579,13 +493,6 @@
         },
         {
           "kind": "otwarte",
-          "e": "Kim był królewicz Kazimierz i dlaczego go pamiętamy?",
-          "a": "Nie został królem, zmarł młodo; zapamiętano go jako pobożnego świętego, patrona Litwy.",
-          "blad": "Zaliczanie go do królów Polski.",
-          "zrodlo": "kartka"
-        },
-        {
-          "kind": "otwarte",
           "e": "Co wiąże się z rządami Jana Olbrachta?",
           "a": "Statuty piotrkowskie z 1496 roku i nieudana wyprawa na Mołdawię.",
           "blad": "Przypisanie mu hołdu pruskiego.",
@@ -614,24 +521,10 @@
         },
         {
           "kind": "otwarte",
-          "e": "Kto był ostatnim Jagiellonem na polskim tronie?",
-          "a": "Zygmunt II August, syn Zygmunta Starego (wnuk Kazimierza Jagiellończyka).",
-          "blad": "Wskazanie Zygmunta Starego jako ostatniego.",
-          "zrodlo": "s. 57"
-        },
-        {
-          "kind": "otwarte",
           "e": "Jaka unia wiąże się z Aleksandrem i dlaczego nie zadziałała?",
           "a": "Unia mielnicka z 1501 roku — Aleksander po koronacji jej nie zatwierdził.",
           "blad": "Pomylenie jej z unią lubelską.",
           "zrodlo": "s. 66"
-        },
-        {
-          "kind": "otwarte",
-          "e": "Co zrobił Zygmunt II August?",
-          "a": "Walczył o Inflanty i w 1569 roku zawarł unię lubelską; był ostatnim Jagiellonem.",
-          "blad": "Przypisanie mu hołdu pruskiego, który przyjął jego ojciec.",
-          "zrodlo": "s. 56–70"
         }
       ]
     }
