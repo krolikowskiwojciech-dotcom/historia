@@ -1,0 +1,251 @@
+{
+  "_opis": "Układ podręcznika Julka „Wczoraj i dziś 6” (Nowa Era; B. Olszewska, W. Surdyk-Fertsch, G. Wojciechowski) — ze spisu treści (lekcje-audio/KLASA 6/Historia/podrecznik-wstep-spis-tresci.pdf). „Tajemnice sprzed wieków” doliczone do lekcji przed nimi.",
+  "dzialy": [
+    {
+      "nr": "I",
+      "tytul": "Narodziny nowożytnego świata",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Wielkie odkrycia geograficzne",
+          "strony": "8–13"
+        },
+        {
+          "nr": 2,
+          "temat": "Skutki odkryć geograficznych",
+          "strony": "14–21"
+        },
+        {
+          "nr": 3,
+          "temat": "Renesans — narodziny nowej epoki",
+          "strony": "22–25"
+        },
+        {
+          "nr": 4,
+          "temat": "Kultura renesansu w Europie",
+          "strony": "26–30"
+        },
+        {
+          "nr": 5,
+          "temat": "Reformacja — czas wielkich zmian",
+          "strony": "31–35"
+        },
+        {
+          "nr": 6,
+          "temat": "Kontrreformacja",
+          "strony": "36–39"
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie",
+          "strony": "40"
+        }
+      ]
+    },
+    {
+      "nr": "II",
+      "tytul": "W Rzeczypospolitej szlacheckiej",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Demokracja szlachecka",
+          "strony": "42–46"
+        },
+        {
+          "nr": 2,
+          "temat": "W folwarku szlacheckim",
+          "strony": "47–52"
+        },
+        {
+          "nr": 3,
+          "temat": "W czasach ostatnich Jagiellonów",
+          "strony": "53–57"
+        },
+        {
+          "nr": 4,
+          "temat": "Odrodzenie na ziemiach polskich",
+          "strony": "58–65"
+        },
+        {
+          "nr": 5,
+          "temat": "Rzeczpospolita Obojga Narodów",
+          "strony": "66–70"
+        },
+        {
+          "nr": 6,
+          "temat": "„Państwo bez stosów”",
+          "strony": "71–75"
+        },
+        {
+          "nr": 7,
+          "temat": "Pierwsza wolna elekcja",
+          "strony": "76–79"
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie",
+          "strony": "80"
+        }
+      ]
+    },
+    {
+      "nr": "III",
+      "tytul": "W obronie granic Rzeczypospolitej",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Wojny z Rosją",
+          "strony": "82–86"
+        },
+        {
+          "nr": 2,
+          "temat": "Początek wojen ze Szwecją",
+          "strony": "87–92"
+        },
+        {
+          "nr": 3,
+          "temat": "Powstanie Chmielnickiego",
+          "strony": "93–97"
+        },
+        {
+          "nr": 4,
+          "temat": "Potop szwedzki",
+          "strony": "98–103"
+        },
+        {
+          "nr": 5,
+          "temat": "Wojny z Turcją",
+          "strony": "104–108"
+        },
+        {
+          "nr": 6,
+          "temat": "Kryzys Rzeczypospolitej",
+          "strony": "109–111"
+        },
+        {
+          "nr": 7,
+          "temat": "Barok i sarmatyzm",
+          "strony": "112–119"
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie",
+          "strony": "120"
+        }
+      ]
+    },
+    {
+      "nr": "IV",
+      "tytul": "Od absolutyzmu do republiki",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Monarchia absolutna we Francji",
+          "strony": "122–126"
+        },
+        {
+          "nr": 2,
+          "temat": "Monarchia parlamentarna w Anglii",
+          "strony": "127–131"
+        },
+        {
+          "nr": 3,
+          "temat": "Oświecenie w Europie",
+          "strony": "132–137"
+        },
+        {
+          "nr": 4,
+          "temat": "Nowe potęgi europejskie",
+          "strony": "138–142"
+        },
+        {
+          "nr": 5,
+          "temat": "Stany Zjednoczone Ameryki",
+          "strony": "143–149"
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie",
+          "strony": "150"
+        }
+      ]
+    },
+    {
+      "nr": "V",
+      "tytul": "Upadek Rzeczypospolitej",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Rzeczpospolita pod rządami Wettinów",
+          "strony": "152–157"
+        },
+        {
+          "nr": 2,
+          "temat": "Pierwszy rozbiór Polski",
+          "strony": "158–162"
+        },
+        {
+          "nr": 3,
+          "temat": "Kultura polskiego oświecenia",
+          "strony": "163–168"
+        },
+        {
+          "nr": 4,
+          "temat": "Sejm Wielki i Konstytucja 3 maja",
+          "strony": "169–173"
+        },
+        {
+          "nr": 5,
+          "temat": "Powstanie kościuszkowskie i trzeci rozbiór Polski",
+          "strony": "174–181"
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie",
+          "strony": "182"
+        }
+      ]
+    },
+    {
+      "nr": "VI",
+      "tytul": "Rewolucja francuska i okres napoleoński",
+      "lekcje": [
+        {
+          "nr": 1,
+          "temat": "Rewolucja francuska",
+          "strony": "184–189"
+        },
+        {
+          "nr": 2,
+          "temat": "Republika Francuska",
+          "strony": "190–193"
+        },
+        {
+          "nr": 3,
+          "temat": "Epoka Napoleona Bonapartego",
+          "strony": "194–198"
+        },
+        {
+          "nr": 4,
+          "temat": "Upadek Napoleona",
+          "strony": "199–202"
+        },
+        {
+          "nr": 5,
+          "temat": "Legiony Polskie we Włoszech",
+          "strony": "203–206"
+        },
+        {
+          "nr": 6,
+          "temat": "Księstwo Warszawskie",
+          "strony": "207–213"
+        },
+        {
+          "typ": "podsumowanie",
+          "temat": "Podsumowanie",
+          "strony": "214"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "id": "julek-hist-dz2-l03-w-czasach-ostatnich-jagiellonow",
+  "zrodlo": "lekcje-audio",
+  "dla": [
+    "julian"
+  ],
+  "tytul": "W czasach ostatnich Jagiellonów",
+  "opis": "Ojciec królów i jego synowie — ostatni Jagiellonowie",
+  "dzial": "II",
+  "dzialTytul": "W Rzeczypospolitej szlacheckiej",
+  "lekcja": 3,
+  "strony": "53–57",
+  "dodano": "2026-11-05",
+  "termin": "2026-11-06",
+  "ikona": "klepsydra",
+  "kolor": "lila",
+  "ocena": true,
+  "sciaga": [
+    "Kazimierz Jagiellończyk, syn Władysława Jagiełły, był królem Polski w drugiej połowie XV wieku. Nazywa się go „ojcem królów”.",
+    "Za jego rządów Polska wygrała wojnę trzynastoletnią z Krzyżakami. Drugi pokój toruński (1466) dał Polsce Pomorze Gdańskie, ziemię chełmińską i Warmię.",
+    "Jego synowie: Władysław, Kazimierz, Jan Olbracht, Aleksander i Zygmunt. Trzeba wiedzieć, czym zasłynął każdy z nich.",
+    "Władysław — najstarszy, król Czech, potem także Węgier. W Polsce nie rządził.",
+    "Kazimierz — królewicz, nie rządził, zmarł młodo. Pamiętamy go jako świętego, patrona Litwy.",
+    "Jan Olbracht — pierwszy z synów na tronie Polski, po ojcu. Za niego w 1493 roku zebrał się w Piotrkowie sejm walny. Jego wyprawa do Mołdawii skończyła się klęską.",
+    "Aleksander — najpierw wielki książę litewski, potem król Polski. W 1505 roku uchwalono za niego konstytucję Nihil novi: bez zgody senatu i posłów król nie wprowadza nowych praw.",
+    "Zygmunt I Stary — najmłodszy, król od 1506 do 1548 roku. Jego drugą żoną była Włoszka Bona Sforza, mecenaska sztuki.",
+    "Kolejność królów Polski: Kazimierz Jagiellończyk → Jan Olbracht → Aleksander → Zygmunt I Stary → Zygmunt II August (syn Zygmunta Starego, ostatni Jagiellon).",
+    "Krzyżacy nie pogodzili się z pokojem toruńskim. Wielki mistrz Albrecht Hohenzollern zażądał zwrotu Pomorza Gdańskiego i Warmii — w latach 1519–1521 trwała ostatnia wojna z zakonem.",
+    "Albrecht przeszedł na luteranizm i zamienił państwo zakonne w świeckie księstwo — Prusy Książęce ze stolicą w Królewcu.",
+    "W 1525 roku na rynku w Krakowie Albrecht złożył Zygmuntowi Staremu hołd pruski i został jego lennikiem. Scenę namalował Jan Matejko.",
+    "Skutki hołdu: koniec państwa zakonnego w Prusach, Albrecht świeckim księciem, Polska wolna od groźnego sąsiada.",
+    "Za Zygmunta Starego walczono też z Moskwą: w 1514 roku Moskwa zajęła Smoleńsk, ale wojska polsko-litewskie wygrały bitwę pod Orszą.",
+    "Zapamiętaj pary: Władysław — Czechy i Węgry; Kazimierz — święty; Jan Olbracht — sejm walny 1493; Aleksander — Nihil novi 1505; Zygmunt Stary — hołd pruski 1525."
+  ],
+  "definicje": {
+    "Kazimierz Jagiellończyk": "Król Polski w drugiej połowie XV wieku, syn Władysława Jagiełły; jego synowie zasiedli na tronach Polski, Czech i Węgier.",
+    "Jan Olbracht": "Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
+    "Aleksander Jagiellończyk": "Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505).",
+    "Zygmunt I Stary": "Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski.",
+    "Władysław Jagiellończyk": "Najstarszy syn Kazimierza; król Czech, a później również Węgier.",
+    "święty Kazimierz": "Królewicz, syn Kazimierza Jagiellończyka; nie rządził, zmarł młodo, czczony jako święty i patron Litwy.",
+    "Nihil novi": "Konstytucja z 1505 roku: nowe prawa tylko za zgodą senatu i posłów na sejmie.",
+    "hołd pruski": "Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
+    "Prusy Książęce": "Świeckie księstwo powstałe z państwa zakonnego, ze stolicą w Królewcu, zależne od króla Polski.",
+    "lennik": "Ktoś, kto dostaje ziemię od władcy i w zamian musi być mu wierny i pomagać mu."
+  },
+  "bloki": [
+    {
+      "id": "pojecia",
+      "tytul": "Pojęcia z lekcji",
+      "polecenie": "Które pojęcie pasuje do opisu?",
+      "ile": 8,
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Król Polski w drugiej połowie XV wieku, syn Władysława Jagiełły; jego synowie zasiedli na tronach Polski, Czech i Węgier.",
+          "a": "Kazimierz Jagiellończyk",
+          "choices": [
+            "Kazimierz Jagiellończyk",
+            "hołd pruski",
+            "Władysław Jagiellończyk"
+          ],
+          "exp": [
+            "hołd pruski to coś innego: Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
+            "Władysław Jagiellończyk to coś innego: Najstarszy syn Kazimierza; król Czech, a później również Węgier."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
+          "a": "Jan Olbracht",
+          "choices": [
+            "Jan Olbracht",
+            "hołd pruski",
+            "święty Kazimierz"
+          ],
+          "exp": [
+            "hołd pruski to coś innego: Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
+            "święty Kazimierz to coś innego: Królewicz, syn Kazimierza Jagiellończyka; nie rządził, zmarł młodo, czczony jako święty i patron Litwy."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505).",
+          "a": "Aleksander Jagiellończyk",
+          "choices": [
+            "Aleksander Jagiellończyk",
+            "hołd pruski",
+            "Nihil novi"
+          ],
+          "exp": [
+            "hołd pruski to coś innego: Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
+            "Nihil novi to coś innego: Konstytucja z 1505 roku: nowe prawa tylko za zgodą senatu i posłów na sejmie."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski.",
+          "a": "Zygmunt I Stary",
+          "choices": [
+            "Zygmunt I Stary",
+            "Jan Olbracht",
+            "Aleksander Jagiellończyk"
+          ],
+          "exp": [
+            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
+            "Aleksander Jagiellończyk to coś innego: Syn Kazimierza, wielki książę litewski, a potem król Polski; za niego uchwalono Nihil novi (1505)."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Najstarszy syn Kazimierza; król Czech, a później również Węgier.",
+          "a": "Władysław Jagiellończyk",
+          "choices": [
+            "Władysław Jagiellończyk",
+            "Jan Olbracht",
+            "Zygmunt I Stary"
+          ],
+          "exp": [
+            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
+            "Zygmunt I Stary to coś innego: Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Królewicz, syn … Jagiellończyka; nie rządził, zmarł młodo, czczony jako … i patron Litwy.",
+          "a": "święty Kazimierz",
+          "choices": [
+            "święty Kazimierz",
+            "Nihil novi",
+            "Zygmunt I Stary"
+          ],
+          "exp": [
+            "Nihil novi to coś innego: Konstytucja z 1505 roku: nowe prawa tylko za zgodą senatu i posłów na sejmie.",
+            "Zygmunt I Stary to coś innego: Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Konstytucja z 1505 roku: nowe prawa tylko za zgodą senatu i posłów na sejmie.",
+          "a": "Nihil novi",
+          "choices": [
+            "Nihil novi",
+            "święty Kazimierz",
+            "hołd pruski"
+          ],
+          "exp": [
+            "święty Kazimierz to coś innego: Królewicz, syn Kazimierza Jagiellończyka; nie rządził, zmarł młodo, czczony jako święty i patron Litwy.",
+            "hołd pruski to coś innego: Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Uroczystość z 1525 roku w Krakowie, w której Albrecht Hohenzollern został lennikiem Zygmunta Starego.",
+          "a": "hołd pruski",
+          "choices": [
+            "hołd pruski",
+            "Jan Olbracht",
+            "święty Kazimierz"
+          ],
+          "exp": [
+            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
+            "święty Kazimierz to coś innego: Królewicz, syn Kazimierza Jagiellończyka; nie rządził, zmarł młodo, czczony jako święty i patron Litwy."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Świeckie księstwo powstałe z państwa zakonnego, ze stolicą w Królewcu, zależne od króla Polski.",
+          "a": "Prusy Książęce",
+          "choices": [
+            "Prusy Książęce",
+            "Nihil novi",
+            "Zygmunt I Stary"
+          ],
+          "exp": [
+            "Nihil novi to coś innego: Konstytucja z 1505 roku: nowe prawa tylko za zgodą senatu i posłów na sejmie.",
+            "Zygmunt I Stary to coś innego: Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Ktoś, kto dostaje ziemię od władcy i w zamian musi być mu wierny i pomagać mu.",
+          "a": "lennik",
+          "choices": [
+            "lennik",
+            "Jan Olbracht",
+            "Zygmunt I Stary"
+          ],
+          "exp": [
+            "Jan Olbracht to coś innego: Syn Kazimierza Jagiellończyka, król Polski po ojcu; za jego rządów w 1493 roku zebrał się sejm walny.",
+            "Zygmunt I Stary to coś innego: Najmłodszy syn Kazimierza, król Polski w latach 1506–1548; przyjął hołd pruski."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wybor",
+      "tytul": "Test wyboru",
+      "polecenie": "Wybierz poprawną odpowiedź.",
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Który syn Kazimierza Jagiellończyka został królem Czech i Węgier?",
+          "a": "Władysław",
+          "choices": [
+            "Władysław",
+            "Aleksander",
+            "Jan Olbracht"
+          ],
+          "exp": [
+            "Władysław rządził Czechami, a potem także Węgrami.",
+            "Częsty błąd: Pomylenie z Aleksandrem, który rządził Litwą."
+          ],
+          "zrodlo": "kartka / s. 53–55"
+        },
+        {
+          "kind": "wybor",
+          "e": "Który z synów jest świętym, patronem Litwy?",
+          "a": "Kazimierz",
+          "choices": [
+            "Kazimierz",
+            "Zygmunt",
+            "Władysław"
+          ],
+          "exp": [
+            "Królewicz Kazimierz nie rządził, ale został świętym.",
+            "Częsty błąd: Zygmunt — bo nosi imię znanego dzwonu."
+          ],
+          "zrodlo": "kartka / s. 53–55"
+        },
+        {
+          "kind": "wybor",
+          "e": "Który król panował po Kazimierzu Jagiellończyku jako pierwszy z jego synów w Polsce?",
+          "a": "Jan Olbracht",
+          "choices": [
+            "Jan Olbracht",
+            "Zygmunt Stary",
+            "Aleksander"
+          ],
+          "exp": [
+            "Kolejność w Polsce: Jan Olbracht, Aleksander, Zygmunt Stary.",
+            "Częsty błąd: Zygmunt — bo był najdłużej."
+          ],
+          "zrodlo": "kartka / s. 53–55"
+        },
+        {
+          "kind": "wybor",
+          "e": "Za którego króla uchwalono konstytucję Nihil novi?",
+          "a": "Aleksandra",
+          "choices": [
+            "Aleksandra",
+            "Jana Olbrachta",
+            "Zygmunta Starego"
+          ],
+          "exp": [
+            "Nihil novi uchwalono w 1505 roku za Aleksandra.",
+            "Częsty błąd: Jan Olbracht — bo za niego zebrał się pierwszy sejm walny."
+          ],
+          "zrodlo": "kartka / s. 53–55"
+        },
+        {
+          "kind": "wybor",
+          "e": "Kto przyjął hołd pruski w 1525 roku?",
+          "a": "Zygmunt I Stary",
+          "choices": [
+            "Zygmunt I Stary",
+            "Aleksander",
+            "Kazimierz Jagiellończyk"
+          ],
+          "exp": [
+            "Hołd złożono Zygmuntowi Staremu na rynku w Krakowie.",
+            "Częsty błąd: Kazimierz Jagiellończyk — bo walczył z Krzyżakami."
+          ],
+          "zrodlo": "kartka / s. 53–55"
+        },
+        {
+          "kind": "wybor",
+          "e": "Gdzie złożono hołd pruski?",
+          "a": "Na rynku w Krakowie",
+          "choices": [
+            "Na rynku w Krakowie",
+            "W Malborku",
+            "W Gdańsku"
+          ],
+          "exp": [
+            "Uroczystość odbyła się na krakowskim rynku.",
+            "Częsty błąd: Malbork — bo kojarzy się z Krzyżakami."
+          ],
+          "zrodlo": "kartka / s. 53–55"
+        },
+        {
+          "kind": "wybor",
+          "e": "Jak nazwano dawne państwo zakonne po 1525 roku?",
+          "a": "Prusy Książęce",
+          "choices": [
+            "Prusy Książęce",
+            "Prusy Królewskie",
+            "Pomorze Gdańskie"
+          ],
+          "exp": [
+            "Prusy Książęce ze stolicą w Królewcu.",
+            "Częsty błąd: Prusy Królewskie to ziemie należące do Polski po 1466 roku."
+          ],
+          "zrodlo": "kartka / s. 53–55"
+        }
+      ]
+    },
+    {
+      "id": "prawda-falsz",
+      "tytul": "Prawda czy fałsz",
+      "polecenie": "Czy to zdanie jest prawdziwe?",
+      "zadania": [
+        {
+          "kind": "pf",
+          "e": "Wszyscy synowie Kazimierza Jagiellończyka zostali królami Polski.",
+          "a": false,
+          "exp": [
+            "Polską rządziło trzech: Jan Olbracht, Aleksander i Zygmunt Stary."
+          ],
+          "zrodlo": "kartka / s. 53–57"
+        },
+        {
+          "kind": "pf",
+          "e": "Władysław, syn Kazimierza, był królem Czech i Węgier.",
+          "a": true,
+          "exp": [
+            "Tak, nie panował w Polsce."
+          ],
+          "zrodlo": "kartka / s. 53–57"
+        },
+        {
+          "kind": "pf",
+          "e": "Zygmunt I Stary objął władzę w 1506 roku.",
+          "a": true,
+          "exp": [
+            "Rządził do 1548 roku."
+          ],
+          "zrodlo": "kartka / s. 53–57"
+        },
+        {
+          "kind": "pf",
+          "e": "Albrecht Hohenzollern po hołdzie pruskim stał się wasalem króla Polski.",
+          "a": true,
+          "exp": [
+            "Został księciem Prus Książęcych i lennikiem króla."
+          ],
+          "zrodlo": "kartka / s. 53–57"
+        },
+        {
+          "kind": "pf",
+          "e": "Królewicz Kazimierz był królem Polski przed Janem Olbrachtem.",
+          "a": false,
+          "exp": [
+            "Królewicz Kazimierz nigdy nie był królem."
+          ],
+          "zrodlo": "kartka / s. 53–57"
+        }
+      ]
+    },
+    {
+      "id": "uzupelnij",
+      "tytul": "Uzupełnij",
+      "polecenie": "Wpisz brakujące pojęcie.",
+      "zadania": [
+        {
+          "kind": "wpisz",
+          "e": "Ojciec Jana Olbrachta, Aleksandra i Zygmunta to Kazimierz ___.",
+          "a": "Jagiellończyk",
+          "inne": [],
+          "exp": [
+            "Kazimierz Jagiellończyk, ojciec królów."
+          ],
+          "zrodlo": "kartka / s. 42–55"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Konstytucję Nihil novi uchwalono w roku ___.",
+          "a": "1505",
+          "inne": [],
+          "exp": [
+            "Za króla Aleksandra."
+          ],
+          "zrodlo": "kartka / s. 42–55"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Hołd pruski złożono w roku ___.",
+          "a": "1525",
+          "inne": [],
+          "exp": [
+            "W Krakowie, Zygmuntowi Staremu."
+          ],
+          "zrodlo": "kartka / s. 42–55"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Hołd pruski złożył Albrecht ___.",
+          "a": "Hohenzollern",
+          "inne": [],
+          "exp": [
+            "Były wielki mistrz krzyżacki."
+          ],
+          "zrodlo": "kartka / s. 42–55"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Drugą żoną Zygmunta Starego była Bona ___.",
+          "a": "Sforza",
+          "inne": [],
+          "exp": [
+            "Pochodziła z Włoch."
+          ],
+          "zrodlo": "kartka / s. 42–55"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Stolicą Prus Książęcych był ___.",
+          "a": "Królewiec",
+          "inne": [],
+          "exp": [
+            "Dawne państwo zakonne stało się świeckim księstwem."
+          ],
+          "zrodlo": "kartka / s. 42–55"
+        }
+      ]
+    },
+    {
+      "id": "pytania",
+      "tytul": "Pytania z podręcznika",
+      "polecenie": "Odpowiedz w myślach albo na głos, potem sprawdź.",
+      "zadania": [
+        {
+          "kind": "otwarte",
+          "e": "Dlaczego Kazimierza Jagiellończyka nazywa się „ojcem królów”?",
+          "a": "Bo czterech jego synów zostało królami: Władysław w Czechach i na Węgrzech, a Jan Olbracht, Aleksander i Zygmunt w Polsce.",
+          "blad": "Liczenie także królewicza Kazimierza, który nigdy nie panował.",
+          "zrodlo": "kartka, s. 53"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Wymień synów Kazimierza Jagiellończyka, którzy rządzili Polską, w kolejności.",
+          "a": "Jan Olbracht, potem Aleksander, na końcu Zygmunt I Stary.",
+          "blad": "Wstawienie Władysława, który rządził Czechami i Węgrami, nie Polską.",
+          "zrodlo": "kartka"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Czym zajmował się Władysław, najstarszy syn Kazimierza?",
+          "a": "Był królem Czech, a później także Węgier — nie panował w Polsce.",
+          "blad": "Pomylenie go z Władysławem Jagiełłą albo uznanie za króla Polski.",
+          "zrodlo": "kartka, s. 53"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Kim był królewicz Kazimierz i dlaczego go pamiętamy?",
+          "a": "Nie został królem, zmarł młodo; zapamiętano go jako pobożnego świętego, patrona Litwy.",
+          "blad": "Zaliczanie go do królów Polski.",
+          "zrodlo": "kartka"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Co wiąże się z rządami Jana Olbrachta?",
+          "a": "Sejm walny z 1493 roku w Piotrkowie i nieudana wyprawa do Mołdawii.",
+          "blad": "Przypisanie mu Nihil novi albo hołdu pruskiego.",
+          "zrodlo": "kartka, s. 43"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Co postanowiono w konstytucji Nihil novi i za którego króla?",
+          "a": "Że król nie wprowadzi nowych praw bez zgody senatu i posłów; uchwalono ją w 1505 roku za Aleksandra.",
+          "blad": "Przypisanie konstytucji Zygmuntowi Staremu.",
+          "zrodlo": "kartka, s. 42"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Dlaczego doszło do hołdu pruskiego?",
+          "a": "Zakon przegrał ostatnią wojnę z Polską, a Albrecht Hohenzollern zamienił państwo zakonne w świeckie księstwo i poprosił króla o opiekę.",
+          "blad": "Mylenie hołdu pruskiego z bitwą pod Grunwaldem.",
+          "zrodlo": "s. 54–55"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Jakie były skutki hołdu pruskiego?",
+          "a": "Zniknęło państwo zakonne, powstały Prusy Książęce, a ich książę został lennikiem króla Polski; Polska pozbyła się groźnego sąsiada.",
+          "blad": "Myślenie, że Prusy Książęce zostały częścią Polski.",
+          "zrodlo": "s. 55"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Kto był ostatnim Jagiellonem na polskim tronie?",
+          "a": "Zygmunt II August, syn Zygmunta Starego (wnuk Kazimierza Jagiellończyka).",
+          "blad": "Wskazanie Zygmunta Starego jako ostatniego.",
+          "zrodlo": "s. 57"
+        }
+      ]
+    }
+  ]
+}

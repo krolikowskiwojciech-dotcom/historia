@@ -29,14 +29,19 @@ const KORZEN = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const PUBLIC = path.join(KORZEN, 'public');
 const ZESTAWY = path.join(PUBLIC, 'zestawy');
 const ICLOUD = path.join(os.homedir(), 'Library/Mobile Documents/com~apple~CloudDocs/Audio - do nauki ');
-const LEKCJE = path.join(ICLOUD, 'lekcje-audio', PRZEDMIOT.folder);
-const PROFILE = [PRZEDMIOT.profil];
-const ZNAK = PRZEDMIOT.profil.znak; // pliki lekcji kończą się na _<znak> (Aniela: _A)
+// profile (dzieci) tej aplikacji: każde ma swój folder w lekcje-audio, pliki _<znak>, spis podręcznika i przedrostek id zestawów
+const PROFILE_PELNE = Object.values(PRZEDMIOT.profile || { [PRZEDMIOT.konto]: { ...PRZEDMIOT.profil, folder: PRZEDMIOT.folder, spis: 'spis.json', przedrostek: '' } });
+const PROFILE = PROFILE_PELNE.map(({ id, imie, dopelniacz, klasa, znak, ona }) => ({ id, imie, dopelniacz, klasa, znak, ona }));
 const KOLORY = ['brzoskwinia', 'mietowy', 'lila', 'zolty', 'niebieski', 'rozowy', 'krem'];
 const IKONY = PRZEDMIOT.ikony;
 const RODZAJE = ['wybor', 'pf', 'wpisz', 'kolejnosc', 'pary', 'otwarte'];
-const PLIK_SPISU = path.join(ZESTAWY, 'spis.json');
-let SPIS = fs.existsSync(PLIK_SPISU) ? JSON.parse(fs.readFileSync(PLIK_SPISU, 'utf8')) : { dzialy: [] };
+const PLIKI_SPISOW = new Set(PROFILE_PELNE.map((p) => p.spis || 'spis.json'));
+const SPISY = {}; // id profilu → { plik, dane }
+for (const p of PROFILE_PELNE) {
+  const plik = path.join(ZESTAWY, p.spis || 'spis.json');
+  SPISY[p.id] = { plik, dane: fs.existsSync(plik) ? JSON.parse(fs.readFileSync(plik, 'utf8')) : { dzialy: [] } };
+}
+const spisDla = (z) => SPISY[[].concat(z.dla || [])[0]] || Object.values(SPISY)[0];
 
 // ---------- kontrola zestawu ----------
 function sprawdzCzesc(cz, gdzie, bledy) {
@@ -93,6 +98,7 @@ export function sprawdzZestaw(z) {
   for (const o of z.obrazy || []) if (!fs.existsSync(path.join(PUBLIC, o.plik))) bledy.push(`${z.id}: brak obrazka ${o.plik}`);
   // zestaw z działem musi trafić w lekcję ze spisu podręcznika — inaczej nie pojawi się w swoim dziale na liście
   if (z.dzial) {
+    const SPIS = spisDla(z).dane;
     const d = SPIS.dzialy.find((x) => x.nr === z.dzial);
     if (!d) bledy.push(`${z.id}: działu „${z.dzial}” nie ma w zestawy/spis.json`);
     else if (!d.lekcje.some((l) => (z.typ ? l.typ === z.typ : !l.typ && l.nr === z.lekcja))) bledy.push(`${z.id}: w dziale ${z.dzial} nie ma ${z.typ ? `pozycji „${z.typ}”` : `lekcji nr ${z.lekcja}`} (zestawy/spis.json)`);
@@ -120,7 +126,7 @@ export function sprawdzZestaw(z) {
 
 function wczytajZestawy() {
   if (!fs.existsSync(ZESTAWY)) return [];
-  return fs.readdirSync(ZESTAWY).filter((f) => f.endsWith('.json') && f !== 'indeks.json' && f !== 'spis.json').sort()
+  return fs.readdirSync(ZESTAWY).filter((f) => f.endsWith('.json') && f !== 'indeks.json' && !PLIKI_SPISOW.has(f)).sort()
     .map((f) => {
       const z = JSON.parse(fs.readFileSync(path.join(ZESTAWY, f), 'utf8'));
       if (z.id + '.json' !== f) throw new Error(`${f}: id „${z.id}” musi być takie jak nazwa pliku`);
@@ -238,10 +244,11 @@ function pytaniaZMd(tekst) {
   return wynik;
 }
 
-const pozycjaSpisu = (dzial, lekcja, typ) => SPIS.dzialy.find((d) => d.nr === dzial)?.lekcje.find((l) => (typ ? l.typ === typ : !l.typ && l.nr === lekcja));
+const pozycjaSpisu = (SPIS, dzial, lekcja, typ) => SPIS.dzialy.find((d) => d.nr === dzial)?.lekcje.find((l) => (typ ? l.typ === typ : !l.typ && l.nr === lekcja));
 // nowa lekcja spoza spisu → dopisujemy ją do spisu (dział i pozycję), żeby pokazała się na liście w swoim dziale
 function dopiszDoSpisu(z) {
-  if (!z.dzial || pozycjaSpisu(z.dzial, z.lekcja, z.typ)) return;
+  const { plik: PLIK_SPISU, dane: SPIS } = spisDla(z);
+  if (!z.dzial || pozycjaSpisu(SPIS, z.dzial, z.lekcja, z.typ)) return;
   let d = SPIS.dzialy.find((x) => x.nr === z.dzial);
   if (!d) {
     d = { nr: z.dzial, tytul: z.dzialTytul || '', lekcje: [] };
@@ -252,10 +259,18 @@ function dopiszDoSpisu(z) {
   const waga = (l) => (l.typ === 'podsumowanie' ? 1000 : l.typ === 'test' ? 1001 : l.nr);
   d.lekcje.sort((a, b) => waga(a) - waga(b));
   fs.writeFileSync(PLIK_SPISU, JSON.stringify(SPIS, null, 2) + '\n');
-  console.log(`   spis: dopisano dział ${z.dzial}, ${z.typ || `lekcja ${z.lekcja}`} — „${z.tytul}” (popraw temat i strony w public/zestawy/spis.json, jeśli trzeba)`);
+  console.log(`   spis: dopisano dział ${z.dzial}, ${z.typ || `lekcja ${z.lekcja}`} — „${z.tytul}” (popraw temat i strony w public/zestawy/${path.basename(PLIK_SPISU)}, jeśli trzeba)`);
 }
 
-function importuj({ bezNagran, naSucho }) {
+function importuj(opcje) {
+  for (const p of PROFILE_PELNE) importujProfil(p, opcje);
+}
+
+function importujProfil(profil, { bezNagran, naSucho }) {
+  const LEKCJE = path.join(ICLOUD, 'lekcje-audio', profil.folder);
+  const ZNAK = profil.znak; // pliki lekcji kończą się na _<znak> (Aniela: _A, Julek: _J)
+  const SPIS = SPISY[profil.id].dane;
+  console.log(`\n— ${profil.imie}: ${profil.folder}`);
   if (!fs.existsSync(LEKCJE)) {
     console.log(`Brak folderu lekcji ${PRZEDMIOT.dopelniacz} w lekcje-audio: ${LEKCJE}\nNic do importu — aplikacja pokazuje „Jeszcze nie ma lekcji”.`);
     return;
@@ -263,7 +278,7 @@ function importuj({ bezNagran, naSucho }) {
   fs.mkdirSync(ZESTAWY, { recursive: true });
   const koncowka = new RegExp(`_${ZNAK}\\.json$`);
   const koncowkaMd = new RegExp(`_${ZNAK}_pytania\\.md$`);
-  const pliki = fs.readdirSync(LEKCJE).filter((d) => d.startsWith('Dział')).flatMap((d) => {
+  const pliki = fs.readdirSync(LEKCJE).filter((d) => /^Dział [IVX]+$/.test(d)).flatMap((d) => { // „Dział test” i inne próby pomijamy
     const s = path.join(LEKCJE, d, 'skrypty');
     if (!fs.existsSync(s)) return [];
     const wszystkie = fs.readdirSync(s);
@@ -281,10 +296,10 @@ function importuj({ bezNagran, naSucho }) {
     const typ = /podsumowanie/.test(slug) ? 'podsumowanie' : /(^|-)(test|sprawdz)/.test(slug) ? 'test' : null;
     const L = md ? { id: idLekcji, pytania: pytaniaZMd(fs.readFileSync(plik, 'utf8')), dzial: ze ? RZYMSKIE[Number(ze[1])] : null, lekcja_nr: ze ? Number(ze[2]) : null }
       : JSON.parse(fs.readFileSync(plik, 'utf8'));
-    const id = idLekcji.replace(new RegExp(`_${ZNAK}$`), '').replace(/_/g, '-');
+    const id = (profil.przedrostek || '') + idLekcji.replace(new RegExp(`_${ZNAK}$`), '').replace(/_/g, '-');
     const dzial = L.dzial || (ze ? RZYMSKIE[Number(ze[1])] : null);
     const nr = typ ? null : Number(L.lekcja_nr) || (ze ? Number(ze[2]) : null);
-    const wSpisie = dzial ? pozycjaSpisu(dzial, nr, typ) : null;
+    const wSpisie = dzial ? pozycjaSpisu(SPIS, dzial, nr, typ) : null;
     // tytuł jak w podręczniku (ze spisu), a tytuł z lekcje-audio jako opis — Aniela szuka lekcji po tytule z książki
     const tytul = wSpisie?.temat || L.tytul || slug.replace(/-/g, ' ').replace(/^./, (c) => c.toUpperCase());
     const opis = !md && L.tytul && L.tytul !== tytul ? L.tytul : undefined;
@@ -330,7 +345,7 @@ function importuj({ bezNagran, naSucho }) {
     }
 
     const zestaw = {
-      id, zrodlo: 'lekcje-audio', dla: [PRZEDMIOT.profil.id], tytul, opis,
+      id, zrodlo: 'lekcje-audio', dla: [profil.id], tytul, opis,
       dzial, dzialTytul: L.dzial_tytul || null, lekcja: nr, typ: typ || undefined, strony: L.strony || wSpisie?.strony || null,
       dodano: stary?.dodano || L.data || new Date().toISOString().slice(0, 10), termin: stary?.termin || null,
       ikona: stary?.ikona || (PRZEDMIOT.ikonaTematu.find(([re]) => re.test(tytul)) || [, IKONY[i % IKONY.length]])[1],
@@ -349,7 +364,7 @@ function importuj({ bezNagran, naSucho }) {
 
 function zbudujIndeks(zestawy) {
   fs.mkdirSync(ZESTAWY, { recursive: true });
-  if (!fs.existsSync(PLIK_SPISU)) fs.writeFileSync(PLIK_SPISU, JSON.stringify(SPIS, null, 2) + '\n');
+  for (const { plik, dane } of Object.values(SPISY)) if (!fs.existsSync(plik)) fs.writeFileSync(plik, JSON.stringify(dane, null, 2) + '\n');
   const indeks = {
     profile: PROFILE,
     zestawy: zestawy.map((z) => ({

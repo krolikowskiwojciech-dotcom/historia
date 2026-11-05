@@ -1,0 +1,685 @@
+{
+  "id": "julek-hist-dz1-l01-wielkie-odkrycia-geograficzne",
+  "zrodlo": "lekcje-audio",
+  "dla": [
+    "julian"
+  ],
+  "tytul": "Wielkie odkrycia geograficzne",
+  "opis": "Odkrycia geograficzne: wyprawy przez ocean",
+  "dzial": "I",
+  "dzialTytul": "Jak zaczęła się epoka nowożytna",
+  "lekcja": 1,
+  "strony": "8–13",
+  "dodano": "2026-09-08",
+  "termin": null,
+  "ikona": "statek",
+  "kolor": "brzoskwinia",
+  "ocena": true,
+  "nagrania": [
+    {
+      "tytul": "Krótka powtórka",
+      "opis": "Najważniejsze z lekcji, bez książki",
+      "prywatne": "nagrania/julek-hist-dz1-l01-wielkie-odkrycia-geograficzne-krotkie.mp3",
+      "wersja": "789460d8e2",
+      "minuty": 8
+    }
+  ],
+  "sciaga": [
+    "Do XV wieku Europejczycy znali dobrze tylko swój kontynent oraz najbliższe im części Afryki i Azji. W dalekie strony wyruszali głównie kupcy i podróżowali lądem, szlakami handlowymi.",
+    "Żeglarze woleli trzymać się blisko brzegu. Dalej wypływali tylko nieliczni, którzy znali astronomię — bez niej nie dało się wyznaczyć drogi na otwartym morzu.",
+    "Ze Wschodu, przede wszystkim z Indii, sprowadzano przyprawy korzenne: pieprz, cynamon i goździki. Przywożono też pachnidła, owoce i tkaniny z jedwabiu.",
+    "W XV wieku Turcy podbili część Bliskiego Wschodu, przez który biegł ten szlak. Utrudniali kupcom handel i napadali na karawany, więc towary ze Wschodu bardzo podrożały.",
+    "Właśnie dlatego zaczęto szukać drogi do Indii przez morze. Sprzyjał temu postęp, jaki dokonał się wtedy w technice żeglarskiej.",
+    "Nowością były dokładniejsze mapy, przyrządy nawigacyjne oraz lepsze statki, czyli karawele.",
+    "Karawela miała ruchome żagle. Dzięki nim płynęła w wybraną stronę świata niezależnie od tego, skąd wiał wiatr.",
+    "Prostokątne żagle rejowe pchały statek, gdy wiatr wiał od rufy, czyli od tyłu. Trójkątne żagle łacińskie stawiano wtedy, gdy wiatr wiał od dziobu.",
+    "Na najwyższym maszcie było bocianie gniazdo, czyli stanowisko obserwacyjne. Kierunek nadawano kołem sterowym, a wysokie burty kadłuba dawały żeglarzom bezpieczeństwo.",
+    "Pod pokładem marynarze odpoczywali i w czasie sztormu zalewała ich woda. Niżej stały beczki z wodą i jedzeniem, jeszcze niżej zapasowe żagle, a na samym dnie balast.",
+    "Balast to dodatkowe obciążenie z ciężkich kamieni albo piasku. Bez niego statek chybotałby się na fali i łatwo mógł się przewrócić.",
+    "Żeby mięso wytrzymało długi rejs, mocno je solono albo zawijano w liście chrzanu.",
+    "Kompas ma igłę magnetyczną wskazującą północ, więc pozwala określić strony świata i wyznaczyć kurs okrętu. Pierwsi zbudowali go Chińczycy, a Europejczycy poznali go od Arabów.",
+    "Astrolabium mierzyło, jak wysoko nad horyzontem znajduje się ciało niebieskie. Z tego pomiaru żeglarz ustalał położenie statku na morzu.",
+    "Krzysztof Kolumb był Włochem mieszkającym w Hiszpanii. Uważał, że Ziemia jest kulą, więc płynąc na zachód, można dotrzeć do leżących na wschodzie Indii.",
+    "W 1492 roku wypłynął z Hiszpanii na trzech statkach: Niña, Pinta i Santa Maria. Po dwóch miesiącach żeglugi przez Ocean Atlantycki załoga zobaczyła ląd.",
+    "Nie znaleziono tam ani przypraw, ani cennych kruszców, ale Kolumb aż do śmierci w 1506 roku wierzył, że dopłynął do Indii. Dlatego napotkanych tubylców nazwał Indianami.",
+    "Że są to nieznane wcześniej ziemie, udowodnił Amerigo Vespucci. Opisał je dokładnie i określił Nowym Światem, a od jego imienia kontynent nazwano z czasem Ameryką.",
+    "Jeszcze przed Kolumbem Portugalczyk Bartłomiej Diaz dotarł w 1488 roku do południowego krańca Afryki, nazwanego Przylądkiem Dobrej Nadziei. Vasco da Gama poszedł tą drogą dalej: opłynął Afrykę i w 1498 roku osiągnął Indie.",
+    "Wyprawa Ferdynanda Magellana w latach 1519–1522 popłynęła wzdłuż Ameryki Południowej, przez Ocean Spokojny do wysp Azji i wróciła do Europy. Opłynęła Ziemię i tym dowiodła, że jest ona kulista.",
+    "Z pięciu okrętów Magellana wrócił tylko jeden, a z 265 marynarzy osiemnastu. Sam Magellan zginął po drodze, na Filipinach.",
+    "Wyprawy żeglarskie rozpoczęte w XV wieku, dzięki którym poznano wiele nowych lądów, nazwano wielkimi odkryciami geograficznymi."
+  ],
+  "definicje": {
+    "przyprawy korzenne": "Drogie przyprawy sprowadzane ze Wschodu: pieprz, cynamon i goździki. To po nie przede wszystkim jeździli kupcy do Indii.",
+    "karawela": "Statek, którym pływano na dalekie wyprawy w XV wieku. Jego siłą były ruchome żagle — pozwalały płynąć w wybraną stronę, nawet gdy wiatr wiał z innej.",
+    "żagle rejowe": "Prostokątne żagle, które pchały statek wtedy, gdy wiatr wiał od rufy, czyli od tyłu okrętu.",
+    "żagle łacińskie": "Żagle w kształcie trójkąta. Stawiano je, kiedy wiatr wiał od dziobu, czyli od przodu.",
+    "bocianie gniazdo": "Stanowisko obserwacyjne umieszczone na najwyższym maszcie. Stąd wypatrywano lądu i niebezpieczeństw.",
+    "balast": "Dodatkowy ciężar na dnie statku — kamienie albo piasek. Dzięki niemu okręt stabilnie trzymał się na wodzie.",
+    "kompas": "Przyrząd z igłą magnetyczną, która wskazuje północ. Po niej wyznacza się strony świata i kurs statku. Pierwsi zbudowali go Chińczycy, a Europejczycy poznali go od Arabów.",
+    "astrolabium": "Przyrząd nawigacyjny, którym mierzono, jak wysoko nad horyzontem stoi ciało niebieskie. Z tego pomiaru żeglarz ustalał położenie statku na morzu.",
+    "tubylec": "Człowiek, który mieszka na danym terenie od pokoleń, czyli rodzimy mieszkaniec tego obszaru.",
+    "Indianie": "Nazwa, którą Kolumb dał mieszkańcom napotkanych ziem, bo był przekonany, że dopłynął do Indii. Nazwa została, choć była pomyłką.",
+    "Nowy Świat": "Określenie, którym Amerigo Vespucci nazwał opisane przez siebie, nieznane wcześniej Europejczykom ziemie za oceanem.",
+    "Krzysztof Kolumb": "Włoch mieszkający w Hiszpanii, który w 1492 roku popłynął na zachód i dotarł do Ameryki. Do śmierci sądził, że dopłynął do Indii.",
+    "Amerigo Vespucci": "Włoski kupiec i podróżnik. To on wykazał, że ziemie, do których dopłynął Kolumb, wcale nie były Indiami, tylko nieznanym dotąd lądem. Od jego imienia powstała nazwa Ameryka.",
+    "Bartłomiej Diaz": "Portugalczyk, który w 1488 roku dopłynął do południowego krańca Afryki.",
+    "Przylądek Dobrej Nadziei": "Tak nazwano południowy kraniec Afryki, do którego dotarł Bartłomiej Diaz. Za nim otwierała się droga na wschód.",
+    "Vasco da Gama": "Portugalski żeglarz, który opłynął Afrykę i w 1498 roku dotarł do Indii. Odkrył morską drogę na Wschód.",
+    "Ferdynand Magellan": "Portugalczyk, którego wyprawa w latach 1519–1522 opłynęła Ziemię. On sam zginął po drodze, na Filipinach.",
+    "wielkie odkrycia geograficzne": "Wspólna nazwa wypraw żeglarskich rozpoczętych w XV wieku, dzięki którym Europejczycy poznali wiele nieznanych wcześniej lądów."
+  },
+  "bloki": [
+    {
+      "id": "pojecia",
+      "tytul": "Pojęcia z lekcji",
+      "polecenie": "Które pojęcie pasuje do opisu?",
+      "ile": 8,
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Drogie … sprowadzane ze Wschodu: pieprz, cynamon i goździki. To po nie przede wszystkim jeździli kupcy do Indii.",
+          "a": "przyprawy korzenne",
+          "choices": [
+            "przyprawy korzenne",
+            "Przylądek Dobrej Nadziei",
+            "Nowy Świat"
+          ],
+          "exp": [
+            "Przylądek Dobrej Nadziei to coś innego: Tak nazwano południowy kraniec Afryki, do którego dotarł Bartłomiej Diaz. Za nim otwierała się droga na wschód.",
+            "Nowy Świat to coś innego: Określenie, którym Amerigo Vespucci nazwał opisane przez siebie, nieznane wcześniej Europejczykom ziemie za oceanem."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Statek, którym pływano na dalekie wyprawy w XV wieku. Jego siłą były ruchome żagle — pozwalały płynąć w wybraną stronę, nawet gdy wiatr wiał z innej.",
+          "a": "karawela",
+          "choices": [
+            "karawela",
+            "astrolabium",
+            "bocianie gniazdo"
+          ],
+          "exp": [
+            "astrolabium to coś innego: Przyrząd nawigacyjny, którym mierzono, jak wysoko nad horyzontem stoi ciało niebieskie. Z tego pomiaru żeglarz ustalał położenie statku na morzu.",
+            "bocianie gniazdo to coś innego: Stanowisko obserwacyjne umieszczone na najwyższym maszcie. Stąd wypatrywano lądu i niebezpieczeństw."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Prostokątne …, które pchały statek wtedy, gdy wiatr wiał od rufy, czyli od tyłu okrętu.",
+          "a": "żagle rejowe",
+          "choices": [
+            "żagle rejowe",
+            "kompas",
+            "Amerigo Vespucci"
+          ],
+          "exp": [
+            "kompas to coś innego: Przyrząd z igłą magnetyczną, która wskazuje północ. Po niej wyznacza się strony świata i kurs statku. Pierwsi zbudowali go Chińczycy, a Europejczycy poznali go od Arabów.",
+            "Amerigo Vespucci to coś innego: Włoski kupiec i podróżnik. To on wykazał, że ziemie, do których dopłynął Kolumb, wcale nie były Indiami, tylko nieznanym dotąd lądem. Od jego imienia powstała nazwa Ameryka."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "… w kształcie trójkąta. Stawiano je, kiedy wiatr wiał od dziobu, czyli od przodu.",
+          "a": "żagle łacińskie",
+          "choices": [
+            "żagle łacińskie",
+            "Indianie",
+            "kompas"
+          ],
+          "exp": [
+            "Indianie to coś innego: Nazwa, którą Kolumb dał mieszkańcom napotkanych ziem, bo był przekonany, że dopłynął do Indii. Nazwa została, choć była pomyłką.",
+            "kompas to coś innego: Przyrząd z igłą magnetyczną, która wskazuje północ. Po niej wyznacza się strony świata i kurs statku. Pierwsi zbudowali go Chińczycy, a Europejczycy poznali go od Arabów."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Stanowisko obserwacyjne umieszczone na najwyższym maszcie. Stąd wypatrywano lądu i niebezpieczeństw.",
+          "a": "bocianie gniazdo",
+          "choices": [
+            "bocianie gniazdo",
+            "Przylądek Dobrej Nadziei",
+            "Bartłomiej Diaz"
+          ],
+          "exp": [
+            "Przylądek Dobrej Nadziei to coś innego: Tak nazwano południowy kraniec Afryki, do którego dotarł Bartłomiej Diaz. Za nim otwierała się droga na wschód.",
+            "Bartłomiej Diaz to coś innego: Portugalczyk, który w 1488 roku dopłynął do południowego krańca Afryki."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Dodatkowy ciężar na dnie statku — kamienie albo piasek. Dzięki niemu okręt stabilnie trzymał się na wodzie.",
+          "a": "balast",
+          "choices": [
+            "balast",
+            "Vasco da Gama",
+            "Bartłomiej Diaz"
+          ],
+          "exp": [
+            "Vasco da Gama to coś innego: Portugalski żeglarz, który opłynął Afrykę i w 1498 roku dotarł do Indii. Odkrył morską drogę na Wschód.",
+            "Bartłomiej Diaz to coś innego: Portugalczyk, który w 1488 roku dopłynął do południowego krańca Afryki."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Przyrząd z igłą magnetyczną, która wskazuje północ. Po niej wyznacza się strony świata i kurs statku. Pierwsi zbudowali go Chińczycy, a Europejczycy poznali go od Arabów.",
+          "a": "kompas",
+          "choices": [
+            "kompas",
+            "Przylądek Dobrej Nadziei",
+            "Bartłomiej Diaz"
+          ],
+          "exp": [
+            "Przylądek Dobrej Nadziei to coś innego: Tak nazwano południowy kraniec Afryki, do którego dotarł Bartłomiej Diaz. Za nim otwierała się droga na wschód.",
+            "Bartłomiej Diaz to coś innego: Portugalczyk, który w 1488 roku dopłynął do południowego krańca Afryki."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Przyrząd nawigacyjny, którym mierzono, jak wysoko nad horyzontem stoi ciało niebieskie. Z tego pomiaru żeglarz ustalał położenie statku na morzu.",
+          "a": "astrolabium",
+          "choices": [
+            "astrolabium",
+            "Bartłomiej Diaz",
+            "Przylądek Dobrej Nadziei"
+          ],
+          "exp": [
+            "Bartłomiej Diaz to coś innego: Portugalczyk, który w 1488 roku dopłynął do południowego krańca Afryki.",
+            "Przylądek Dobrej Nadziei to coś innego: Tak nazwano południowy kraniec Afryki, do którego dotarł Bartłomiej Diaz. Za nim otwierała się droga na wschód."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Człowiek, który mieszka na danym terenie od pokoleń, czyli rodzimy mieszkaniec tego obszaru.",
+          "a": "tubylec",
+          "choices": [
+            "tubylec",
+            "karawela",
+            "Indianie"
+          ],
+          "exp": [
+            "karawela to coś innego: Statek, którym pływano na dalekie wyprawy w XV wieku. Jego siłą były ruchome żagle — pozwalały płynąć w wybraną stronę, nawet gdy wiatr wiał z innej.",
+            "Indianie to coś innego: Nazwa, którą Kolumb dał mieszkańcom napotkanych ziem, bo był przekonany, że dopłynął do Indii. Nazwa została, choć była pomyłką."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Nazwa, którą Kolumb dał mieszkańcom napotkanych ziem, bo był przekonany, że dopłynął do Indii. Nazwa została, choć była pomyłką.",
+          "a": "Indianie",
+          "choices": [
+            "Indianie",
+            "Amerigo Vespucci",
+            "balast"
+          ],
+          "exp": [
+            "Amerigo Vespucci to coś innego: Włoski kupiec i podróżnik. To on wykazał, że ziemie, do których dopłynął Kolumb, wcale nie były Indiami, tylko nieznanym dotąd lądem. Od jego imienia powstała nazwa Ameryka.",
+            "balast to coś innego: Dodatkowy ciężar na dnie statku — kamienie albo piasek. Dzięki niemu okręt stabilnie trzymał się na wodzie."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Określenie, którym Amerigo Vespucci nazwał opisane przez siebie, nieznane wcześniej Europejczykom ziemie za oceanem.",
+          "a": "Nowy Świat",
+          "choices": [
+            "Nowy Świat",
+            "wielkie odkrycia geograficzne",
+            "Indianie"
+          ],
+          "exp": [
+            "wielkie odkrycia geograficzne to coś innego: Wspólna nazwa wypraw żeglarskich rozpoczętych w XV wieku, dzięki którym Europejczycy poznali wiele nieznanych wcześniej lądów.",
+            "Indianie to coś innego: Nazwa, którą Kolumb dał mieszkańcom napotkanych ziem, bo był przekonany, że dopłynął do Indii. Nazwa została, choć była pomyłką."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Włoch mieszkający w Hiszpanii, który w 1492 roku popłynął na zachód i dotarł do Ameryki. Do śmierci sądził, że dopłynął do Indii.",
+          "a": "Krzysztof Kolumb",
+          "choices": [
+            "Krzysztof Kolumb",
+            "Vasco da Gama",
+            "kompas"
+          ],
+          "exp": [
+            "Vasco da Gama to coś innego: Portugalski żeglarz, który opłynął Afrykę i w 1498 roku dotarł do Indii. Odkrył morską drogę na Wschód.",
+            "kompas to coś innego: Przyrząd z igłą magnetyczną, która wskazuje północ. Po niej wyznacza się strony świata i kurs statku. Pierwsi zbudowali go Chińczycy, a Europejczycy poznali go od Arabów."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Włoski kupiec i podróżnik. To on wykazał, że ziemie, do których dopłynął Kolumb, wcale nie były Indiami, tylko nieznanym dotąd lądem. Od jego imienia powstała nazwa ….",
+          "a": "Amerigo Vespucci",
+          "choices": [
+            "Amerigo Vespucci",
+            "kompas",
+            "żagle łacińskie"
+          ],
+          "exp": [
+            "kompas to coś innego: Przyrząd z igłą magnetyczną, która wskazuje północ. Po niej wyznacza się strony świata i kurs statku. Pierwsi zbudowali go Chińczycy, a Europejczycy poznali go od Arabów.",
+            "żagle łacińskie to coś innego: Żagle w kształcie trójkąta. Stawiano je, kiedy wiatr wiał od dziobu, czyli od przodu."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Portugalczyk, który w 1488 roku dopłynął do południowego krańca Afryki.",
+          "a": "Bartłomiej Diaz",
+          "choices": [
+            "Bartłomiej Diaz",
+            "wielkie odkrycia geograficzne",
+            "żagle łacińskie"
+          ],
+          "exp": [
+            "wielkie odkrycia geograficzne to coś innego: Wspólna nazwa wypraw żeglarskich rozpoczętych w XV wieku, dzięki którym Europejczycy poznali wiele nieznanych wcześniej lądów.",
+            "żagle łacińskie to coś innego: Żagle w kształcie trójkąta. Stawiano je, kiedy wiatr wiał od dziobu, czyli od przodu."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Tak nazwano południowy kraniec Afryki, do którego dotarł Bartłomiej Diaz. Za nim otwierała się droga na wschód.",
+          "a": "Przylądek Dobrej Nadziei",
+          "choices": [
+            "Przylądek Dobrej Nadziei",
+            "wielkie odkrycia geograficzne",
+            "balast"
+          ],
+          "exp": [
+            "wielkie odkrycia geograficzne to coś innego: Wspólna nazwa wypraw żeglarskich rozpoczętych w XV wieku, dzięki którym Europejczycy poznali wiele nieznanych wcześniej lądów.",
+            "balast to coś innego: Dodatkowy ciężar na dnie statku — kamienie albo piasek. Dzięki niemu okręt stabilnie trzymał się na wodzie."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Portugalski żeglarz, który opłynął Afrykę i w 1498 roku dotarł do Indii. Odkrył morską drogę na Wschód.",
+          "a": "Vasco da Gama",
+          "choices": [
+            "Vasco da Gama",
+            "karawela",
+            "tubylec"
+          ],
+          "exp": [
+            "karawela to coś innego: Statek, którym pływano na dalekie wyprawy w XV wieku. Jego siłą były ruchome żagle — pozwalały płynąć w wybraną stronę, nawet gdy wiatr wiał z innej.",
+            "tubylec to coś innego: Człowiek, który mieszka na danym terenie od pokoleń, czyli rodzimy mieszkaniec tego obszaru."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Portugalczyk, którego wyprawa w latach 1519–1522 opłynęła Ziemię. On sam zginął po drodze, na Filipinach.",
+          "a": "Ferdynand Magellan",
+          "choices": [
+            "Ferdynand Magellan",
+            "Krzysztof Kolumb",
+            "balast"
+          ],
+          "exp": [
+            "Krzysztof Kolumb to coś innego: Włoch mieszkający w Hiszpanii, który w 1492 roku popłynął na zachód i dotarł do Ameryki. Do śmierci sądził, że dopłynął do Indii.",
+            "balast to coś innego: Dodatkowy ciężar na dnie statku — kamienie albo piasek. Dzięki niemu okręt stabilnie trzymał się na wodzie."
+          ]
+        },
+        {
+          "kind": "wybor",
+          "e": "Wspólna nazwa wypraw żeglarskich rozpoczętych w XV wieku, dzięki którym Europejczycy poznali … nieznanych wcześniej lądów.",
+          "a": "wielkie odkrycia geograficzne",
+          "choices": [
+            "wielkie odkrycia geograficzne",
+            "Nowy Świat",
+            "bocianie gniazdo"
+          ],
+          "exp": [
+            "Nowy Świat to coś innego: Określenie, którym Amerigo Vespucci nazwał opisane przez siebie, nieznane wcześniej Europejczykom ziemie za oceanem.",
+            "bocianie gniazdo to coś innego: Stanowisko obserwacyjne umieszczone na najwyższym maszcie. Stąd wypatrywano lądu i niebezpieczeństw."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wybor",
+      "tytul": "Test wyboru",
+      "polecenie": "Wybierz poprawną odpowiedź.",
+      "zadania": [
+        {
+          "kind": "wybor",
+          "e": "Kto w 1488 roku dopłynął do południowego krańca Afryki?",
+          "a": "Bartłomiej Diaz",
+          "choices": [
+            "Bartłomiej Diaz",
+            "Vasco da Gama",
+            "Amerigo Vespucci"
+          ],
+          "exp": [
+            "Diaz dotarł do Przylądka Dobrej Nadziei; da Gama dopiero dziesięć lat później opłynął Afrykę i dopłynął do Indii.",
+            "Częsty błąd: mylenie Diaza z da Gamą, bo obaj byli Portugalczykami i płynęli wzdłuż Afryki"
+          ],
+          "zrodlo": "str. 12"
+        },
+        {
+          "kind": "wybor",
+          "e": "Po co na dno statku ładowano ciężkie kamienie albo piasek?",
+          "a": "żeby okręt stabilnie trzymał się na wodzie",
+          "choices": [
+            "żeby okręt stabilnie trzymał się na wodzie",
+            "żeby statek płynął szybciej",
+            "żeby mieć czym handlować na miejscu"
+          ],
+          "exp": [
+            "To balast — dodatkowy ciężar, który utrzymywał okręt stabilnie na fali.",
+            "Częsty błąd: uznanie balastu za towar albo za zapas na drogę"
+          ],
+          "zrodlo": "str. 11, punkt 4"
+        },
+        {
+          "kind": "wybor",
+          "e": "Który żagiel stawiano, gdy wiatr wiał od dziobu, czyli od przodu?",
+          "a": "trójkątny żagiel łaciński",
+          "choices": [
+            "trójkątny żagiel łaciński",
+            "prostokątny żagiel rejowy",
+            "żaden — czekano na zmianę wiatru"
+          ],
+          "exp": [
+            "Trójkątne żagle łacińskie były właśnie od takiego wiatru; rejowe pchały statek, gdy wiało od rufy.",
+            "Częsty błąd: zamiana obu rodzajów żagli miejscami"
+          ],
+          "zrodlo": "str. 10, opisy przy karaweli"
+        },
+        {
+          "kind": "wybor",
+          "e": "Ile statków wyruszyło pod dowództwem Kolumba w tysiąc czterysta dziewięćdziesiątym drugim roku?",
+          "a": "trzy",
+          "choices": [
+            "trzy",
+            "pięć",
+            "dwanaście"
+          ],
+          "exp": [
+            "Były to Niña, Pinta i Santa Maria.",
+            "Częsty błąd: pomylenie z pięcioma okrętami Magellana"
+          ],
+          "zrodlo": "str. 9"
+        },
+        {
+          "kind": "wybor",
+          "e": "Jak długo trwała żegluga Kolumba przez Ocean Atlantycki, zanim zobaczono ląd?",
+          "a": "dwa miesiące",
+          "choices": [
+            "dwa miesiące",
+            "dwa tygodnie",
+            "dwa lata"
+          ],
+          "exp": [
+            "Dwa miesiące — dziś ten sam dystans samolot pokonuje w kilka godzin.",
+            "Częsty błąd: zaniżanie czasu, bo trasa wydaje się krótka na mapie"
+          ],
+          "zrodlo": "str. 9"
+        },
+        {
+          "kind": "wybor",
+          "e": "Gdzie na statku znajdowało się bocianie gniazdo?",
+          "a": "na najwyższym maszcie",
+          "choices": [
+            "na najwyższym maszcie",
+            "na dziobie, tuż nad wodą",
+            "pod pokładem, przy beczkach"
+          ],
+          "exp": [
+            "To stanowisko obserwacyjne, więc musiało być jak najwyżej.",
+            "Częsty błąd: mylenie bocianiego gniazda z miejscem dla sternika"
+          ],
+          "zrodlo": "str. 10"
+        },
+        {
+          "kind": "wybor",
+          "e": "Co zastali marynarze Kolumba na ziemiach, do których dopłynęli?",
+          "a": "ani przypraw, ani cennych kruszców",
+          "choices": [
+            "ani przypraw, ani cennych kruszców",
+            "ogromne zapasy złota",
+            "składy jedwabiu i pieprzu"
+          ],
+          "exp": [
+            "Niczego z tego, po co płynęli — a mimo to Kolumb wierzył, że to Indie.",
+            "Częsty błąd: założenie, że skoro to Ameryka, to od razu było tam złoto dla Hiszpanów"
+          ],
+          "zrodlo": "str. 9"
+        }
+      ]
+    },
+    {
+      "id": "prawda-falsz",
+      "tytul": "Prawda czy fałsz",
+      "polecenie": "Czy to zdanie jest prawdziwe?",
+      "zadania": [
+        {
+          "kind": "pf",
+          "e": "Kolumb przed śmiercią wiedział, że odkrył nowy kontynent.",
+          "a": false,
+          "exp": [
+            "Do końca życia był przekonany, że dopłynął do Indii.",
+            "Częsty błąd: mylenie Kolumba z Vespuccim, który dopiero udowodnił, że to nieznane wcześniej ziemie"
+          ],
+          "zrodlo": "str. 9, biogram"
+        },
+        {
+          "kind": "pf",
+          "e": "Kompas wymyślili Arabowie, a do Europy trafił za pośrednictwem Chińczyków.",
+          "a": false,
+          "exp": [
+            "Jest odwrotnie: wymyślili go Chińczycy, a do Europy trafił dzięki Arabom.",
+            "Częsty błąd: zapamiętanie obu ludów, ale w odwrotnej kolejności"
+          ],
+          "zrodlo": "str. 11, podpis przy kompasie"
+        },
+        {
+          "kind": "pf",
+          "e": "Wyprawa Magellana dowiodła, że Ziemia jest kulą.",
+          "a": true,
+          "exp": [
+            "Jego statki opłynęły Ziemię dookoła i wróciły do Europy, a to był dowód.",
+            "Częsty błąd: przypisanie tego dowodu Kolumbowi, który tylko w kulistość Ziemi wierzył"
+          ],
+          "zrodlo": "str. 12"
+        },
+        {
+          "kind": "pf",
+          "e": "Do XV wieku Europejczycy znali dobrze cały kontynent afrykański.",
+          "a": false,
+          "exp": [
+            "Znali tylko najbliższą sobie część Afryki i Azji.",
+            "Częsty błąd: mylenie znajomości wybrzeża z poznaniem całego kontynentu"
+          ],
+          "zrodlo": "str. 8"
+        },
+        {
+          "kind": "pf",
+          "e": "Żagle rejowe miały kształt prostokąta.",
+          "a": true,
+          "exp": [
+            "Tak, a trójkątne były żagle łacińskie.",
+            "Częsty błąd: zamiana kształtów obu żagli"
+          ],
+          "zrodlo": "str. 10"
+        },
+        {
+          "kind": "pf",
+          "e": "Magellan wrócił do Europy razem ze swoją wyprawą.",
+          "a": false,
+          "exp": [
+            "Zginął na Filipinach; wróciło osiemnastu marynarzy na jednym okręcie.",
+            "Częsty błąd: przypisanie dowódcy powrotu, bo to jego wyprawa opłynęła Ziemię"
+          ],
+          "zrodlo": "str. 12"
+        }
+      ]
+    },
+    {
+      "id": "uzupelnij",
+      "tytul": "Uzupełnij",
+      "polecenie": "Wpisz brakujące pojęcie.",
+      "zadania": [
+        {
+          "kind": "wpisz",
+          "e": "Nowo odkryty kontynent nazwano Ameryką od imienia ___.",
+          "a": "Ameriga Vespucciego",
+          "inne": [
+            "Amerigo Vespucci",
+            "Vespucci",
+            "Ameriga Vespucci",
+            "Amerigo"
+          ],
+          "exp": [
+            "To on wykazał, że Kolumb dopłynął do lądu nieznanego wcześniej Europejczykom, i opisał go jako Nowy Świat.",
+            "Częsty błąd: wpisanie Kolumba, bo to on tam dopłynął pierwszy"
+          ],
+          "zrodlo": "str. 9"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Południowy kraniec Afryki, do którego dotarł Bartłomiej Diaz, nazwano Przylądkiem ___.",
+          "a": "Dobrej Nadziei",
+          "inne": [
+            "Dobrej Nadzieji"
+          ],
+          "exp": [
+            "Za tym przylądkiem otwierała się droga morska na wschód, do Indii.",
+            "Częsty błąd: wpisanie Cieśniny Magellana, która leży przy Ameryce Południowej"
+          ],
+          "zrodlo": "str. 12"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Vasco da Gama opłynął Afrykę i dotarł do Indii w ___ roku.",
+          "a": "1498",
+          "inne": [],
+          "exp": [
+            "Wtedy odkryto morską drogę z Europy na Wschód.",
+            "Częsty błąd: wpisanie 1492 — to rok wyprawy Kolumba"
+          ],
+          "zrodlo": "str. 12"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Statki Kolumba nazywały się Niña, Pinta i ___.",
+          "a": "Santa Maria",
+          "inne": [
+            "Santa-Maria",
+            "Santa Marija"
+          ],
+          "exp": [
+            "Trzy statki, trzy nazwy — warto je umieć wymienić jednym tchem.",
+            "Częsty błąd: wpisanie Victorii, która była okrętem Magellana"
+          ],
+          "zrodlo": "str. 9"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Przyrząd, którym mierzono wysokość ciał niebieskich nad horyzontem, to ___.",
+          "a": "astrolabium",
+          "inne": [],
+          "exp": [
+            "Z tego pomiaru żeglarz ustalał, gdzie znajduje się jego statek.",
+            "Częsty błąd: wpisanie kompasu, który wskazuje tylko północ"
+          ],
+          "zrodlo": "str. 11"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Ciężkie kamienie albo piasek układane na dnie statku to ___.",
+          "a": "balast",
+          "inne": [],
+          "exp": [
+            "Bez tego ciężaru okręt chybotałby się na fali.",
+            "Częsty błąd: wpisanie ładunku albo zapasów — balast nie był towarem"
+          ],
+          "zrodlo": "str. 11"
+        },
+        {
+          "kind": "wpisz",
+          "e": "Wyprawy z XV i XVI wieku, dzięki którym poznano nowe lądy, nazywamy wielkimi odkryciami ___.",
+          "a": "geograficznymi",
+          "inne": [
+            "geograficzne"
+          ],
+          "exp": [
+            "To nazwa całej epoki wypraw, nie jednej podróży.",
+            "Częsty błąd: wpisanie słowa morskimi"
+          ],
+          "zrodlo": "str. 12"
+        }
+      ]
+    },
+    {
+      "id": "pytania",
+      "tytul": "Pytania z podręcznika",
+      "polecenie": "Odpowiedz w myślach albo na głos, potem sprawdź.",
+      "zadania": [
+        {
+          "kind": "otwarte",
+          "e": "Dlaczego w XV wieku Europejczycy zaczęli szukać morskiej drogi do Indii?",
+          "a": "Bo Turcy podbili tereny, przez które biegł lądowy szlak handlowy, utrudniali kupcom handel i napadali na karawany, przez co towary ze Wschodu bardzo podrożały.",
+          "blad": "podanie samej ciekawości świata jako powodu — chodziło przede wszystkim o handel i ceny przypraw",
+          "zrodlo": "str. 8, „Poszukiwania morskiej drogi do Indii”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Co w technice żeglarskiej sprawiło, że dalekie wyprawy morskie stały się możliwe?",
+          "a": "Dokładniejsze mapy, przyrządy nawigacyjne — kompas i astrolabium — oraz karawele z ruchomymi żaglami.",
+          "blad": "wymienienie samych statków, bez przyrządów do wyznaczania kursu",
+          "zrodlo": "str. 10, infografika „Na statku Kolumba”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Do czego żeglarzom służył kompas, a do czego astrolabium?",
+          "a": "Kompas wskazywał północ, czyli strony świata i kurs okrętu, a astrolabium mierzyło wysokość ciał niebieskich nad horyzontem i pozwalało ustalić położenie statku.",
+          "blad": "zamiana ról obu przyrządów — przypisywanie kompasowi mierzenia gwiazd",
+          "zrodlo": "str. 11, podpisy przy zdjęciach"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Dlaczego Kolumb popłynął z Hiszpanii na zachód, skoro chciał dotrzeć do Indii?",
+          "a": "Bo uważał, że Ziemia jest kulą, więc płynąc ciągle na zachód, dotrze do Indii leżących na wschodzie.",
+          "blad": "twierdzenie, że chciał odkryć Amerykę — on nawet nie wiedział, że taki ląd istnieje",
+          "zrodlo": "str. 9, „Wyprawa Krzysztofa Kolumba”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Czym wyprawa Magellana różniła się od wyprawy Vasco da Gamy?",
+          "a": "Vasco da Gama opłynął Afrykę i dotarł do Indii, a wyprawa Magellana okrążyła całą Ziemię i dowiodła, że jest ona kulista.",
+          "blad": "mieszanie dat — 1498 rok to da Gama, a lata 1519–1522 to Magellan",
+          "zrodlo": "str. 12, „Kolejne wyprawy wielkich odkrywców”"
+        },
+        {
+          "kind": "otwarte",
+          "e": "W jaki sposób towary ze Wschodu docierały do Europy, zanim znaleziono drogę morską?",
+          "a": "Lądowymi szlakami handlowymi, karawanami kupieckimi, które przechodziły przez Bliski Wschód.",
+          "blad": "mówienie o statkach — droga morska dopiero miała zostać odkryta",
+          "zrodlo": "str. 8"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Dlaczego żeglarze aż do XV wieku niechętnie oddalali się od brzegu?",
+          "a": "Bo na otwartym morzu kurs trzeba było wyznaczać z ciał niebieskich, a astronomię znali nieliczni.",
+          "blad": "podanie strachu przed potworami jako jedynego powodu — to było wyobrażenie, a nie przeszkoda techniczna",
+          "zrodlo": "str. 8"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Co dawały karaweli ruchome żagle?",
+          "a": "Pozwalały płynąć w wybranym kierunku niezależnie od tego, skąd wiał wiatr.",
+          "blad": "mówienie, że dzięki nim statek płynął szybciej — chodziło o wybór kierunku",
+          "zrodlo": "str. 10"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Jak na statku przechowywano zapasy i co robiono, żeby mięso się nie zepsuło?",
+          "a": "Wodę i jedzenie trzymano w beczkach pod pokładem, a mięso mocno solono albo zawijano w liście chrzanu.",
+          "blad": "pominięcie sposobu konserwowania mięsa",
+          "zrodlo": "str. 11, punkt 2"
+        },
+        {
+          "kind": "otwarte",
+          "e": "Skąd wzięła się nazwa Ameryka?",
+          "a": "Od imienia Ameriga Vespucciego, który wykazał, że to ląd nieznany wcześniej Europejczykom, i opisał go jako Nowy Świat.",
+          "blad": "wywodzenie nazwy od Kolumba albo od nazwy jednego z jego statków",
+          "zrodlo": "str. 9"
+        }
+      ]
+    }
+  ]
+}

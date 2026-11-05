@@ -7,9 +7,39 @@
       "klasa": 4,
       "znak": "A",
       "ona": true
+    },
+    {
+      "id": "julian",
+      "imie": "Julek",
+      "dopelniacz": "Julka",
+      "klasa": 6,
+      "znak": "J",
+      "ona": false
     }
   ],
   "zestawy": [
+    {
+      "id": "julek-hist-dz2-l03-w-czasach-ostatnich-jagiellonow",
+      "tytul": "W czasach ostatnich Jagiellonów",
+      "opis": "Ojciec królów i jego synowie — ostatni Jagiellonowie",
+      "dla": [
+        "julian"
+      ],
+      "termin": "2026-11-06",
+      "dodano": "2026-11-05",
+      "dzial": "II",
+      "dzialTytul": "W Rzeczypospolitej szlacheckiej",
+      "lekcja": 3,
+      "typ": null,
+      "strony": "53–57",
+      "ikona": "klepsydra",
+      "kolor": "lila",
+      "bloki": 5,
+      "zadan": 35,
+      "nagrania": 0,
+      "prywatne": null,
+      "sciaga": true
+    },
     {
       "id": "2026-10-25-aniela-wieki",
       "tytul": "Wieki i cyfry rzymskie",
@@ -162,6 +192,50 @@
       "zadan": 38,
       "nagrania": 0,
       "prywatne": null,
+      "sciaga": true
+    },
+    {
+      "id": "julek-hist-dz1-l01-wielkie-odkrycia-geograficzne",
+      "tytul": "Wielkie odkrycia geograficzne",
+      "opis": "Odkrycia geograficzne: wyprawy przez ocean",
+      "dla": [
+        "julian"
+      ],
+      "termin": null,
+      "dodano": "2026-09-08",
+      "dzial": "I",
+      "dzialTytul": "Jak zaczęła się epoka nowożytna",
+      "lekcja": 1,
+      "typ": null,
+      "strony": "8–13",
+      "ikona": "statek",
+      "kolor": "brzoskwinia",
+      "bloki": 5,
+      "zadan": 38,
+      "nagrania": 1,
+      "prywatne": "nagrania/julek-hist-dz1-l01-wielkie-odkrycia-geograficzne-krotkie.mp3",
+      "sciaga": true
+    },
+    {
+      "id": "julek-hist-dz1-l02-skutki-odkryc-geograficznych",
+      "tytul": "Skutki odkryć geograficznych",
+      "opis": "Następstwa odkryć: podbój Ameryki i kolonie",
+      "dla": [
+        "julian"
+      ],
+      "termin": null,
+      "dodano": "2026-09-08",
+      "dzial": "I",
+      "dzialTytul": "Jak zaczęła się epoka nowożytna",
+      "lekcja": 2,
+      "typ": null,
+      "strony": "14–19",
+      "ikona": "statek",
+      "kolor": "mietowy",
+      "bloki": 5,
+      "zadan": 38,
+      "nagrania": 1,
+      "prywatne": "nagrania/julek-hist-dz1-l02-skutki-odkryc-geograficznych-krotkie.mp3",
       "sciaga": true
     }
   ]
